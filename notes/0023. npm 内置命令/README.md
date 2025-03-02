@@ -1,4 +1,4 @@
-# [0023. npm 内置命令](https://github.com/Tdahuyou/nodejs/tree/main/0023.%20npm%20%E5%86%85%E7%BD%AE%E5%91%BD%E4%BB%A4)
+# [0023. npm 内置命令](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0023.%20npm%20%E5%86%85%E7%BD%AE%E5%91%BD%E4%BB%A4)
 
 <!-- region:toc -->
 - [1. 🔗 查看 npm 内置命令](#1--查看-npm-内置命令)
@@ -27,7 +27,7 @@
   - `npm test` 一般用于运行测试脚本。
   - `npm restart` 用于重启应用，通常可以结合 `stop` 和 `start`。
   - `npm stop` 用于停止应用。
-  - ![](md-imgs/2024-11-06-18-33-06.png)
+  - ![](assets/2024-11-06-18-33-06.png)
 - 对于非 npm 内置命令，如 `build`、`lint` 或其它自定义的命令，都需要通过 `npm run <command>` 来执行，例如：
   - `npm run dev`
   - `npm run build`

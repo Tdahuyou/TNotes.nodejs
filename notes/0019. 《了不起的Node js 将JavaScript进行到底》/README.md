@@ -1,4 +1,4 @@
-# [0019. 《了不起的Node js 将JavaScript进行到底》](https://github.com/Tdahuyou/nodejs/tree/main/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B)
+# [0019. 《了不起的Node js 将JavaScript进行到底》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B)
 
 <!-- region:toc -->
 - [1. 🔗 豆瓣](#1--豆瓣)

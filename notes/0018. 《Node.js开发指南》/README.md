@@ -1,4 +1,4 @@
-# [0018. 《Node.js开发指南》](https://github.com/Tdahuyou/nodejs/tree/main/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B)
+# [0018. 《Node.js开发指南》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B)
 
 <!-- region:toc -->
 - [1. 🔗 豆瓣](#1--豆瓣)

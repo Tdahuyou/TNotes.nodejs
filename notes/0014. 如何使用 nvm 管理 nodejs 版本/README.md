@@ -1,4 +1,4 @@
-# [0014. 如何使用 nvm 管理 nodejs 版本](https://github.com/Tdahuyou/nodejs/tree/main/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC)
+# [0014. 如何使用 nvm 管理 nodejs 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC)
 
 <!-- region:toc -->
 - [1. 🔗 nvm](#1--nvm)
@@ -33,7 +33,7 @@
 nvm ls
 ```
 
-![](md-imgs/2024-10-16-11-38-15.png)
+![](assets/2024-10-16-11-38-15.png)
 
 ## 4. 💻 demo - `nvm install <version>` 安装指定版本的 nodejs
 
@@ -41,7 +41,7 @@ nvm ls
 nvm install 14
 ```
 
-![](md-imgs/2024-10-16-13-06-49.png)
+![](assets/2024-10-16-13-06-49.png)
 
 ## 5. `nvm use <version>` 使用指定版本的 nodejs
 
@@ -51,7 +51,7 @@ nvm use 14
 node -v
 ```
 
-![](md-imgs/2024-10-16-13-08-41.png)
+![](assets/2024-10-16-13-08-41.png)
 
 
 ## 6. 🤖 如何下载 nvm 管理 nodejs 版本

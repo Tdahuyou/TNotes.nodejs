@@ -1,4 +1,4 @@
-# [0006. 使用 screencapture 命令实现 macos 系统截图](https://github.com/Tdahuyou/nodejs/tree/main/0006.%20%E4%BD%BF%E7%94%A8%20screencapture%20%E5%91%BD%E4%BB%A4%E5%AE%9E%E7%8E%B0%20macos%20%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE)
+# [0006. 使用 screencapture 命令实现 macos 系统截图](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0006.%20%E4%BD%BF%E7%94%A8%20screencapture%20%E5%91%BD%E4%BB%A4%E5%AE%9E%E7%8E%B0%20macos%20%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE)
 
 
 <!-- region:toc -->
@@ -103,8 +103,8 @@ $ screencapture -h
 
 **最终效果**
 
-![](md-imgs/2024-10-04-19-20-49.png)
+![](assets/2024-10-04-19-20-49.png)
 
 其中，`2024-03-07-20-39-32.jpg` 就是该程序截取的图片。
 
-![](md-imgs/2024-10-04-19-21-02.png)
+![](assets/2024-10-04-19-21-02.png)

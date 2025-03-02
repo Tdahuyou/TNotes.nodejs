@@ -1,4 +1,4 @@
-# [0015. 《深入浅出 Node.js》](https://github.com/Tdahuyou/nodejs/tree/main/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B)
+# [0015. 《深入浅出 Node.js》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B)
 
 <!-- region:toc -->
 - [1. 🔗 豆瓣](#1--豆瓣)

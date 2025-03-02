@@ -1,4 +1,4 @@
-# [0005. 获取 macos 下都安装了哪些应用](https://github.com/Tdahuyou/nodejs/tree/main/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8)
+# [0005. 获取 macos 下都安装了哪些应用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8)
 
 
 <!-- region:toc -->
@@ -37,7 +37,7 @@ $ /usr/sbin/system_profiler -xml -detailLevel mini SPApplicationsDataType
 - `-detailLevel mini` 表示只显示最小级别的详细信息。
 - `SPApplicationsDataType` 参数的语义是指示 `system_profiler` 工具收集和显示关于 macOS 系统上已安装应用程序的数据。
 
-![](md-imgs/2024-10-04-19-25-57.png)
+![](assets/2024-10-04-19-25-57.png)
 
 注意，最终输出的格式是一个 XML 的内容，其中数组第一项如下。
 
@@ -183,7 +183,7 @@ getApps(
 
 最终输出结果很多，测试时统计出来共有 371 个应用。
 
-![](md-imgs/2024-10-04-19-28-56.png)
+![](assets/2024-10-04-19-28-56.png)
 
 下面是对一些字段的解释说明。
 - **_name 应用程序的名称。**

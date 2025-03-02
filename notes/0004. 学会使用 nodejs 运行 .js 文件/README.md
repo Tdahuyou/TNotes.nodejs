@@ -1,4 +1,4 @@
-# [0004. 学会使用 nodejs 运行 .js 文件](https://github.com/Tdahuyou/nodejs/tree/main/0004.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20nodejs%20%E8%BF%90%E8%A1%8C%20.js%20%E6%96%87%E4%BB%B6)
+# [0004. 学会使用 nodejs 运行 .js 文件](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0004.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20nodejs%20%E8%BF%90%E8%A1%8C%20.js%20%E6%96%87%E4%BB%B6)
 
 
 <!-- region:toc -->
@@ -46,7 +46,7 @@ $ node index.js
 ## 3. 📒 code runner 插件
 
 - 对于 code runner，我们只需要知道如何使用 code runner 插件来运行脚本即可，如果想要略过打开终端输入命令这种方式来执行脚本的话，可以考虑下 code runner 这玩意儿。
-  - ![](md-imgs/2024-10-04-17-20-12.png)
+  - ![](assets/2024-10-04-17-20-12.png)
 - code runner 支持哪些语言？
   - 其实，除了 js 之外，还有很多脚本都可以用它来快速跑。比如 Python、TypeScript 等，你可以在 code runner 插件介绍中看到它都支持那些语言。
   - Run code snippet or code file for multiple languages: C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, Fortran, Ring, Standard ML, Zig, Mojo, Erlang, SPWN, Pkl, Gleam, and custom command
@@ -56,4 +56,4 @@ $ node index.js
 ## 4. 💻 使用 code runner 插件运行 .js 文件
 
 - 插件成功安装后，找到想要运行的文件，然后右键，选择 Run Code 即可。这样就不需要再打开终端去手输 node 命令了，很方便。
-  - ![](md-imgs/2024-10-04-17-20-41.png)
+  - ![](assets/2024-10-04-17-20-41.png)

@@ -1,4 +1,4 @@
-# [0024. npm link 基本使用](https://github.com/Tdahuyou/nodejs/tree/main/0024.%20npm%20link%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+# [0024. npm link 基本使用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0024.%20npm%20link%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
 <!-- region:toc -->
 - [1. 🔗 npm docs - npm-link](#1--npm-docs---npm-link)
@@ -72,11 +72,11 @@ module.exports = {
 - 在 a 中引用 my-module
   - 切换到 a 目录所在位置，执行 `npm link my-module`。
 - 最终效果：
-  - ![](md-imgs/2024-11-11-16-35-02.png)
+  - ![](assets/2024-11-11-16-35-02.png)
   - 如果看到 node_modules/my-module 结尾有一个小箭头，这就意味着链接已经创建了。
 - 验证符号链接是否已经创建：
   - 按下 ctrl 并点击 my-module，快速跳转到 my-module 所在位置，会发现打开的是 `demo/my-module/index.js` 而非 `demo/a/node_modules/my-module/index.js`，这就意味着软链接已经生效了。
-  - ![](./md-imgs/1.gif)
+  - ![](./assets/1.gif)
   - 可以尝试先运行 1.js 看看打印结果，然后修改 `demo/my-module/index.js` 中的内容，比如在结尾加上一条打印语句 `console.log(123)` 然后再运行 1.js 看看打印结果，如果 `123` 输出了，这就意味着符号链接已经生效了。
 
 ## 4. 📒 和 link 相关的命令
