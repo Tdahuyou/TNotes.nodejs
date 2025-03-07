@@ -83,7 +83,11 @@
   - [1. ⏰ 语雀上记录了一些内容，找时间搬运过来。](https://tdahuyou.github.io/TNotes.nodejs/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README#1--语雀上记录了一些内容找时间搬运过来)
   
 
-## 3. koa
+## 3. nodejs 版本管理工具 nvm
+
+- [ ] [0029. nvm](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README) <!-- [locale](./notes/0029.%20nvm/README) -->
+
+## 4. koa
 
 - [ ] [0008. koa-send](https://tdahuyou.github.io/TNotes.nodejs/notes/0008.%20koa-send/README) <!-- [locale](./notes/0008.%20koa-send/README) -->  
   - [1. ⏰ 待搬运](https://tdahuyou.github.io/TNotes.nodejs/notes/0008.%20koa-send/README#1--待搬运)
@@ -93,7 +97,7 @@
   - [1. ⏰ 待搬运](https://tdahuyou.github.io/TNotes.nodejs/notes/0009.%20koa-static/README#1--待搬运)
   
 
-## 4. npm 相关
+## 5. npm 相关
 
 - [ ] [0012. 使用 nrm 管理 npm 源](https://tdahuyou.github.io/TNotes.nodejs/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README) <!-- [locale](./notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README) -->  
   
@@ -167,7 +171,7 @@
   - 对目前（2024年11月6日18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。
   
 
-## 5. nodejs 命令行操作
+## 6. nodejs 命令行操作
 
 - [ ] [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://tdahuyou.github.io/TNotes.nodejs/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README) <!-- [locale](./notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README) -->  
   - [1. 📒 npm_lifecycle_script 是什么?](https://tdahuyou.github.io/TNotes.nodejs/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README#1--npm_lifecycle_script-是什么)
@@ -205,7 +209,7 @@
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://tdahuyou.github.io/TNotes.nodejs/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README#2--node-1js-args-如何在-1js-中获取到-args)
   
 
-## 6. 其他
+## 7. 其他
 
 - [ ] [0005. 获取 macos 下都安装了哪些应用](https://tdahuyou.github.io/TNotes.nodejs/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README) <!-- [locale](./notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README) -->  
   
@@ -223,7 +227,7 @@
   - 本文介绍如何在 macOS 上使用 screencapture 命令来实现截图功能。
   
 
-## 7. 包管理器
+## 8. 包管理器
 
 - [ ] [0027. 在 Windows 的 power shell 中执行 pnpm i 命令错误问题](https://tdahuyou.github.io/TNotes.nodejs/notes/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README) <!-- [locale](./notes/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README) -->  
   - [1. 📒 报错日志示例](https://tdahuyou.github.io/TNotes.nodejs/notes/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README#1--报错日志示例)
