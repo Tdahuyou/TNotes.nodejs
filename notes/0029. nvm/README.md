@@ -8,13 +8,7 @@
 - [5. 💻 下载和安装 NVM](#5--下载和安装-nvm)
   - [5.1. Windows 用户：安装 `nvm-windows`](#51-windows-用户安装-nvm-windows)
   - [5.2. macOS/Linux 用户：安装 nvm-sh](#52-macoslinux-用户安装-nvm-sh)
-- [6. 使用 NVM 管理 Node.js 版本](#6-使用-nvm-管理-nodejs-版本)
-  - [6.1. 查看可用的 Node.js 版本](#61-查看可用的-nodejs-版本)
-  - [6.2. 安装指定版本的 Node.js](#62-安装指定版本的-nodejs)
-  - [6.3. 切换 Node.js 版本](#63-切换-nodejs-版本)
-  - [6.4. 查看已安装的 Node.js 版本](#64-查看已安装的-nodejs-版本)
-  - [6.5. 卸载某个 Node.js 版本](#65-卸载某个-nodejs-版本)
-  - [6.6. 检查当前使用的 Node.js 版本](#66-检查当前使用的-nodejs-版本)
+- [6. 💻 使用 NVM 管理 Node.js 版本](#6--使用-nvm-管理-nodejs-版本)
 <!-- endregion:toc -->
 
 ## 1. 📒 概述
@@ -26,10 +20,10 @@
 | ----------------------------- | ----------------------------- |
 | `nvm install <version>`       | 安装指定版本的 Node.js        |
 | `nvm use <version>`           | 切换到指定版本的 Node.js      |
+| `nvm uninstall <version>`     | 卸载指定版本的 Node.js        |
 | `nvm list`                    | 查看已安装的 Node.js 版本     |
 | `nvm list available`          | 查看所有可安装的 Node.js 版本 |
 | `nvm alias default <version>` | 设置默认使用的 Node.js 版本   |
-| `nvm uninstall <version>`     | 卸载指定版本的 Node.js        |
 
 ## 2. 🔗 nvm-windows - Github 仓库
 
@@ -118,102 +112,64 @@ nvm --version
 # 如果显示版本号（如 0.40.1），说明安装成功。
 ```
 
-## 6. 使用 NVM 管理 Node.js 版本
-
-### 6.1. 查看可用的 Node.js 版本
-
-运行以下命令查看所有可安装的 Node.js 版本：
+## 6. 💻 使用 NVM 管理 Node.js 版本
 
 ```bash
-nvm list available
-```
+# 查看可用的 Node.js 版本
+# 运行以下命令查看所有可安装的 Node.js 版本：
+nvm list available # 这会列出 LTS（长期支持）版本和最新的发布版本。
 
-这会列出 LTS（长期支持）版本和最新的发布版本。
 
----
 
-### 6.2. 安装指定版本的 Node.js
+# 安装指定版本的 Node.js
+# 使用以下命令安装特定版本的 Node.js：
+# nvm install <version>
 
-使用以下命令安装特定版本的 Node.js：
+# eg.
+# 安装最新的 LTS 版本：
+nvm install --lts
 
-```bash
-nvm install <version>
-```
+# eg.
+# 安装指定版本（如 v16.20.0）：
+nvm install 16.20.0
 
-例如：
 
-- 安装最新的 LTS 版本：
-  ```bash
-  nvm install --lts
-  ```
-- 安装指定版本（如 v16.20.0）：
-  ```bash
-  nvm install 16.20.0
-  ```
 
----
+# 切换 Node.js 版本
+# 安装多个版本后，可以通过以下命令切换当前使用的 Node.js 版本：
+# nvm use <version>
 
-### 6.3. 切换 Node.js 版本
-
-安装多个版本后，可以通过以下命令切换当前使用的 Node.js 版本：
-
-```bash
-nvm use <version>
-```
-
-例如：
-
-```bash
+# eg.
 nvm use 16.20.0
-```
 
-或者直接设置默认版本：
 
-```bash
+
+# 直接设置默认版本：
 nvm alias default <version>
-```
 
-例如：
-
-```bash
+# eg.
 nvm alias default 16.20.0
-```
+# 这样每次打开终端时都会自动使用该版本 16.20.0
 
-这样每次打开终端时都会自动使用该版本。
 
----
 
-### 6.4. 查看已安装的 Node.js 版本
-
-运行以下命令查看本地已安装的所有 Node.js 版本：
-
-```bash
+# 查看已安装的 Node.js 版本
+# 运行以下命令查看本地已安装的所有 Node.js 版本：
 nvm list
-```
 
----
 
-### 6.5. 卸载某个 Node.js 版本
 
-如果不再需要某个版本，可以使用以下命令卸载：
+# 卸载某个 Node.js 版本
+# 如果不再需要某个版本，可以使用以下命令卸载：
+# nvm uninstall <version>
 
-```bash
-nvm uninstall <version>
-```
-
-例如：
-
-```bash
+# eg.
 nvm uninstall 16.20.0
-```
 
----
 
-### 6.6. 检查当前使用的 Node.js 版本
 
-运行以下命令查看当前正在使用的 Node.js 版本：
-
-```bash
+# 检查当前使用的 Node.js 版本（就是 node 查看版本的命令）
+# 运行以下命令查看当前正在使用的 Node.js 版本：
 node -v
 ```
 

@@ -110,13 +110,7 @@
   - [5. 💻 下载和安装 NVM](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#5--下载和安装-nvm)
     - [5.1. Windows 用户：安装 `nvm-windows`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#51-windows-用户安装-nvm-windows)
     - [5.2. macOS/Linux 用户：安装 nvm-sh](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#52-macoslinux-用户安装-nvm-sh)
-  - [6. 使用 NVM 管理 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#6-使用-nvm-管理-nodejs-版本)
-    - [6.1. 查看可用的 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#61-查看可用的-nodejs-版本)
-    - [6.2. 安装指定版本的 Node.js](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#62-安装指定版本的-nodejs)
-    - [6.3. 切换 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#63-切换-nodejs-版本)
-    - [6.4. 查看已安装的 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#64-查看已安装的-nodejs-版本)
-    - [6.5. 卸载某个 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#65-卸载某个-nodejs-版本)
-    - [6.6. 检查当前使用的 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#66-检查当前使用的-nodejs-版本)
+  - [6. 💻 使用 NVM 管理 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#6--使用-nvm-管理-nodejs-版本)
   
 
 ## 4. koa
