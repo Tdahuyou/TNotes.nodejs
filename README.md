@@ -10,7 +10,7 @@
     - [2.1. https](#21-https)
     - [2.2. process](#22-process)
     - [2.3. crypto](#23-crypto)
-  - [3. nodejs 版本管理工具 nvm](#3-nodejs-版本管理工具-nvm)
+  - [3. nodejs 的版本管理工具](#3-nodejs-的版本管理工具)
   - [4. koa](#4-koa)
   - [5. npm 相关](#5-npm-相关)
   - [6. nodejs 命令行操作](#6-nodejs-命令行操作)
@@ -100,9 +100,9 @@
   - [1. ⏰ 语雀上记录了一些内容，找时间搬运过来。](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README.md#1--语雀上记录了一些内容找时间搬运过来)
   
 
-## 3. nodejs 版本管理工具 nvm
+## 3. nodejs 的版本管理工具
 
-- [ ] [0029. nvm](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md) <!-- [locale](./notes/0029.%20nvm/README.md) -->  
+- [x] [0029. nvm](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md) <!-- [locale](./notes/0029.%20nvm/README.md) -->  
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#1--概述)
   - [2. 🔗 nvm-windows - Github 仓库](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#2--nvm-windows---github-仓库)
   - [3. 🔗 nvm-sh - Github 仓库](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#3--nvm-sh---github-仓库)

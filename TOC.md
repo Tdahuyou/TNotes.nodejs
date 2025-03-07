@@ -83,9 +83,9 @@
   - [1. ⏰ 语雀上记录了一些内容，找时间搬运过来。](https://tdahuyou.github.io/TNotes.nodejs/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README#1--语雀上记录了一些内容找时间搬运过来)
   
 
-## 3. nodejs 版本管理工具 nvm
+## 3. nodejs 的版本管理工具
 
-- [ ] [0029. nvm](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README) <!-- [locale](./notes/0029.%20nvm/README) -->  
+- [x] [0029. nvm](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README) <!-- [locale](./notes/0029.%20nvm/README) -->  
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README#1--概述)
   - [2. 🔗 nvm-windows - Github 仓库](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README#2--nvm-windows---github-仓库)
   - [3. 🔗 nvm-sh - Github 仓库](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README#3--nvm-sh---github-仓库)
