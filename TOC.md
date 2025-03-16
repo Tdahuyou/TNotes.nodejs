@@ -44,7 +44,6 @@
   - https://nodejs.org/en
     - NodeJS 官方文档 - 有 Simplified Chinese 中文版，正在逐步支持中，不过大部分内容还是英文的。
   - ⏰ 过一遍官方文档，在笔记中记录文档的大体结构，以便后续查阅。
-  
 
 - [ ] [0025. 菜鸟教程](https://tdahuyou.github.io/TNotes.nodejs/notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README) <!-- [locale](./notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README) -->  
   - [1. 🔗 菜鸟教程 nodejs 链接](https://tdahuyou.github.io/TNotes.nodejs/notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README#1--菜鸟教程-nodejs-链接)
