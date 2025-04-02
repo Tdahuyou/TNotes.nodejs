@@ -3,23 +3,24 @@
 
 ## 1. nodejs 学习资源
 
-- [ ] [0030. 获取学习资源](https://tdahuyou.github.io/TNotes.nodejs/notes/0030.%20%E8%8E%B7%E5%8F%96%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README) <!-- [locale](./notes/0030.%20%E8%8E%B7%E5%8F%96%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README) -->
-  - [1. 🤔 如何获取相关学习资源？](https://tdahuyou.github.io/TNotes.nodejs/notes/0030.%20%E8%8E%B7%E5%8F%96%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README#1--如何获取相关学习资源)
+- [x] [0030. nodejs 学习资源概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0030.%20nodejs%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README) <!-- [locale](./notes/0030.%20nodejs%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README) -->
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0030.%20nodejs%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README#1--概述)
+  - [2. 🤔 如何获取相关学习资源？](https://tdahuyou.github.io/TNotes.nodejs/notes/0030.%20nodejs%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0/README#2--如何获取相关学习资源)
 ### 1.1. nodejs 书籍
 
-- [ ] [0015. 《深入浅出 Node.js》](https://tdahuyou.github.io/TNotes.nodejs/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README) <!-- [locale](./notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README) -->
+- [x] [0015. 《深入浅出 Node.js》](https://tdahuyou.github.io/TNotes.nodejs/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README) <!-- [locale](./notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README) -->
   - [1. 🔗 豆瓣](https://tdahuyou.github.io/TNotes.nodejs/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README#1--豆瓣)
   - [2. 📒 《深入浅出 Node.js》 简介](https://tdahuyou.github.io/TNotes.nodejs/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README#2--深入浅出-nodejs-简介)
-- [ ] [0016. 《Node.js来一打C++扩展》](https://tdahuyou.github.io/TNotes.nodejs/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README) <!-- [locale](./notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README) -->
+- [x] [0016. 《Node.js来一打C++扩展》](https://tdahuyou.github.io/TNotes.nodejs/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README) <!-- [locale](./notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README) -->
   - [1. 🔗 豆瓣](https://tdahuyou.github.io/TNotes.nodejs/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README#1--豆瓣)
   - [2. 📒 《Node.js 来一打 C++扩展》 简介](https://tdahuyou.github.io/TNotes.nodejs/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README#2--nodejs-来一打-c扩展-简介)
-- [ ] [0017. 《Node与Express开发》](https://tdahuyou.github.io/TNotes.nodejs/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README) <!-- [locale](./notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README) -->
+- [x] [0017. 《Node与Express开发》](https://tdahuyou.github.io/TNotes.nodejs/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README) <!-- [locale](./notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README) -->
   - [1. 🔗 豆瓣](https://tdahuyou.github.io/TNotes.nodejs/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README#1--豆瓣)
   - [2. 📒 《Node 与 Express 开发》 简介](https://tdahuyou.github.io/TNotes.nodejs/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README#2--node-与-express-开发-简介)
-- [ ] [0018. 《Node.js开发指南》](https://tdahuyou.github.io/TNotes.nodejs/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README) <!-- [locale](./notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README) -->
+- [x] [0018. 《Node.js开发指南》](https://tdahuyou.github.io/TNotes.nodejs/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README) <!-- [locale](./notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README) -->
   - [1. 🔗 豆瓣](https://tdahuyou.github.io/TNotes.nodejs/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README#1--豆瓣)
   - [2. 📒 《Node.js 开发指南》 简介](https://tdahuyou.github.io/TNotes.nodejs/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README#2--nodejs-开发指南-简介)
-- [ ] [0019. 《了不起的Node js 将JavaScript进行到底》](https://tdahuyou.github.io/TNotes.nodejs/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README) <!-- [locale](./notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README) -->
+- [x] [0019. 《了不起的Node js 将JavaScript进行到底》](https://tdahuyou.github.io/TNotes.nodejs/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README) <!-- [locale](./notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README) -->
   - [1. 🔗 豆瓣](https://tdahuyou.github.io/TNotes.nodejs/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README#1--豆瓣)
   - [2. 📒 《了不起的 Node.js》 简介](https://tdahuyou.github.io/TNotes.nodejs/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README#2--了不起的-nodejs-简介)
 ### 1.2. nodejs 掘金小册
@@ -27,13 +28,11 @@
 - [ ] [0022. 《Node.js 入门教程》（免费掘金小册）](https://tdahuyou.github.io/TNotes.nodejs/notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README) <!-- [locale](./notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README) -->
   - [1. 🔗 掘金小册](https://tdahuyou.github.io/TNotes.nodejs/notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README#1--掘金小册)
   - [2. 📒 教程目录](https://tdahuyou.github.io/TNotes.nodejs/notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README#2--教程目录)
-  - Node.js 0基础入门教程，涵盖了软件的安装，环境配置，基础知识介绍，进阶知识介绍，多场景的开发实践 ღ( ´･ᴗ･` )
 ### 1.3. 其他免费在线学习资源
 
 - [ ] [0026. nodejs 官方文档](https://tdahuyou.github.io/TNotes.nodejs/notes/0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README) <!-- [locale](./notes/0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README) -->
-  - https://nodejs.org/en
-    - NodeJS 官方文档 - 有 Simplified Chinese 中文版，正在逐步支持中，不过大部分内容还是英文的。
-  - ⏰ 过一遍官方文档，在笔记中记录文档的大体结构，以便后续查阅。
+  - [1. 🔗 nodejs 官方文档链接](https://tdahuyou.github.io/TNotes.nodejs/notes/0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README#1--nodejs-官方文档链接)
+  - [2. ⏰ TODO](https://tdahuyou.github.io/TNotes.nodejs/notes/0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README#2--todo)
 - [ ] [0025. 菜鸟教程](https://tdahuyou.github.io/TNotes.nodejs/notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README) <!-- [locale](./notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README) -->
   - [1. 🔗 菜鸟教程 nodejs 链接](https://tdahuyou.github.io/TNotes.nodejs/notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README#1--菜鸟教程-nodejs-链接)
 ## 2. nodejs 内置模块
