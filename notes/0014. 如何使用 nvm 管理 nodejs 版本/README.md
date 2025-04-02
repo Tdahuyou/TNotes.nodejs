@@ -1,6 +1,7 @@
 # [0014. 如何使用 nvm 管理 nodejs 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0014.%20%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%20nvm%20%E7%AE%A1%E7%90%86%20nodejs%20%E7%89%88%E6%9C%AC)
 
 <!-- region:toc -->
+
 - [1. 🔗 nvm](#1--nvm)
 - [2. 📒 notes](#2--notes)
 - [3. 💻 demo - `nvm ls` 查看本地安装的所有 nodejs 版本](#3--demo---nvm-ls-查看本地安装的所有-nodejs-版本)
@@ -10,6 +11,7 @@
   - [6.1. 安装 NVM](#61-安装-nvm)
   - [6.2. 设置 NVM](#62-设置-nvm)
   - [6.3. 使用 NVM 安装 Node.js](#63-使用-nvm-安装-nodejs)
+
 <!-- endregion:toc -->
 - 以下是 nvm 的一些常用命令
   - `nvm ls` 查看本地安装的所有 nodejs 版本。

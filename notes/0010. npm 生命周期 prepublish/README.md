@@ -1,10 +1,12 @@
 # [0010. npm 生命周期 prepublish](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish)
 
 <!-- region:toc -->
+
 - [1. 💻 demos.1 - npm 生命周期 prepublish 的基本使用](#1--demos1---npm-生命周期-prepublish-的基本使用)
 - [2. 🤖 请介绍一下 package.json 中的 scripts 字段下的 prepublish](#2--请介绍一下-packagejson-中的-scripts-字段下的-prepublish)
   - [2.1. 使用 `prepublishOnly`](#21-使用-prepublishonly)
   - [2.2. 注意事项](#22-注意事项)
+
 <!-- endregion:toc -->
 
 ## 1. 💻 demos.1 - npm 生命周期 prepublish 的基本使用

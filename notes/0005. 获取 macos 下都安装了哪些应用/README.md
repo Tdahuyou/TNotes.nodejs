@@ -2,10 +2,12 @@
 
 
 <!-- region:toc -->
+
 - [1. 🔗 links](#1--links)
 - [2. 📒 macOS 中的 system_profiler 是什么？](#2--macos-中的-system_profiler-是什么)
 - [3. 📒 plist.js 是什么？有什么用？](#3--plistjs-是什么有什么用)
 - [4. 💻 demo](#4--demo)
+
 <!-- endregion:toc -->
 - 本文介绍了类似 rubick 这样的效率工具，是如何实现本地应用快速检索并启动的。
 

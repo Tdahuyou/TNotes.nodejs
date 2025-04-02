@@ -1,6 +1,7 @@
 # [0029. nvm](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm)
 
 <!-- region:toc -->
+
 - [1. 📒 概述](#1--概述)
 - [2. 🔗 nvm-windows - Github 仓库](#2--nvm-windows---github-仓库)
 - [3. 🔗 nvm-sh - Github 仓库](#3--nvm-sh---github-仓库)
@@ -9,6 +10,7 @@
   - [5.1. Windows 用户：安装 `nvm-windows`](#51-windows-用户安装-nvm-windows)
   - [5.2. macOS/Linux 用户：安装 nvm-sh](#52-macoslinux-用户安装-nvm-sh)
 - [6. 💻 使用 NVM 管理 Node.js 版本](#6--使用-nvm-管理-nodejs-版本)
+
 <!-- endregion:toc -->
 
 ## 1. 📒 概述

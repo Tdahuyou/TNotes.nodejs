@@ -1,11 +1,13 @@
 # [0024. npm link 基本使用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0024.%20npm%20link%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
 <!-- region:toc -->
+
 - [1. 🔗 npm docs - npm-link](#1--npm-docs---npm-link)
 - [2. 📒 `npm link` 简介](#2--npm-link-简介)
 - [3. 💻 demo - `npm link` 基本使用](#3--demo---npm-link-基本使用)
 - [4. 📒 和 link 相关的命令](#4--和-link-相关的命令)
 - [5. 📒 `npm link` 的实际应用场景](#5--npm-link-的实际应用场景)
+
 <!-- endregion:toc -->
 - 本节介绍了 `npm link` 的基本使用。
 - 重点在于理解 `npm link` 的应用场景，主要用于解决什么问题。

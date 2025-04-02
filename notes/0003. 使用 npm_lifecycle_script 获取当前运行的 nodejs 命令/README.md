@@ -1,10 +1,12 @@
 # [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4)
 
 <!-- region:toc -->
+
 - [1. 📒 npm_lifecycle_script 是什么?](#1--npm_lifecycle_script-是什么)
 - [2. 📒 npm_lifecycle_script 的作用](#2--npm_lifecycle_script-的作用)
 - [3. 💻 运行示例](#3--运行示例)
 - [4. 💻 demo](#4--demo)
+
 <!-- endregion:toc -->
 - 这篇笔记介绍了
   - npm_lifecycle_script 是什么

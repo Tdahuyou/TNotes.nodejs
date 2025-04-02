@@ -1,8 +1,10 @@
 # [0021. minimist 基本使用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
 <!-- region:toc -->
+
 - [1. 🔗 minimist](#1--minimist)
 - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](#2--node-1js-args-如何在-1js-中获取到-args)
+
 <!-- endregion:toc -->
 
 ## 1. 🔗 minimist

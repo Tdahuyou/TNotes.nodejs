@@ -1,7 +1,9 @@
 # [0020. 通过 process.argv 获取脚本的命令行参数](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0020.%20%E9%80%9A%E8%BF%87%20process.argv%20%E8%8E%B7%E5%8F%96%E8%84%9A%E6%9C%AC%E7%9A%84%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%8F%82%E6%95%B0)
 
 <!-- region:toc -->
+
 - [1. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](#1--node-1js-args-如何在-1js-中获取到-args)
+
 <!-- endregion:toc -->
 - minimist
 - process.argv
