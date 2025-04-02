@@ -35,12 +35,15 @@
 - [x] [0022. 《Node.js 入门教程》（免费掘金小册）](https://tdahuyou.github.io/TNotes.nodejs/notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README) <!-- [locale](./notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README) -->
   - [1. 🔗 掘金小册](https://tdahuyou.github.io/TNotes.nodejs/notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README#1--掘金小册)
   - [2. 📒 教程目录](https://tdahuyou.github.io/TNotes.nodejs/notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README#2--教程目录)
-### 1.5. 其他免费在线学习资源
+### 1.5. 其他在线教程
 
 - [x] [0025. 菜鸟教程](https://tdahuyou.github.io/TNotes.nodejs/notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README) <!-- [locale](./notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README) -->
   - [1. 🔗 菜鸟教程 nodejs 链接](https://tdahuyou.github.io/TNotes.nodejs/notes/0025.%20%E8%8F%9C%E9%B8%9F%E6%95%99%E7%A8%8B/README#1--菜鸟教程-nodejs-链接)
 ## 2. 认识 nodejs
 
+- [x] [0031. 什么是 Node.js](https://tdahuyou.github.io/TNotes.nodejs/notes/0031.%20%E4%BB%80%E4%B9%88%E6%98%AF%20Node.js/README) <!-- [locale](./notes/0031.%20%E4%BB%80%E4%B9%88%E6%98%AF%20Node.js/README) -->
+  - [1. 📒 Node.js 和 JavaScript](https://tdahuyou.github.io/TNotes.nodejs/notes/0031.%20%E4%BB%80%E4%B9%88%E6%98%AF%20Node.js/README#1--nodejs-和-javascript)
+  - [2. 📒 Node.js 是什么？](https://tdahuyou.github.io/TNotes.nodejs/notes/0031.%20%E4%BB%80%E4%B9%88%E6%98%AF%20Node.js/README#2--nodejs-是什么)
 ## 3. nodejs 内置模块
 
 ### 3.1. https
