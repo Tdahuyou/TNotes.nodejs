@@ -3,6 +3,8 @@
 
 ## 1. nodejs 学习资源
 
+- [ ] [0030. 获取学习资源](https://tdahuyou.github.io/TNotes.nodejs/notes/0030.%20%E8%8E%B7%E5%8F%96%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README) <!-- [locale](./notes/0030.%20%E8%8E%B7%E5%8F%96%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README) -->
+  - [1. 🤔 如何获取相关学习资源？](https://tdahuyou.github.io/TNotes.nodejs/notes/0030.%20%E8%8E%B7%E5%8F%96%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90/README#1--如何获取相关学习资源)
 ### 1.1. nodejs 书籍
 
 - [ ] [0015. 《深入浅出 Node.js》](https://tdahuyou.github.io/TNotes.nodejs/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README) <!-- [locale](./notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README) -->
