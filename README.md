@@ -20,6 +20,7 @@
   - [7. nodejs 命令行操作](#7-nodejs-命令行操作)
   - [8. 其他](#8-其他)
   - [9. 包管理器](#9-包管理器)
+  - [10. ⏰ pending](#10--pending)
 
 <!-- endregion:toc -->
 
@@ -37,21 +38,18 @@
   - [2. ⏰ TODO](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0026.%20nodejs%20%E5%AE%98%E6%96%B9%E6%96%87%E6%A1%A3/README.md#2--todo)
 ### 1.3. nodejs 书籍
 
+- [ ] [0032. 《Node.js 从入门到精通》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0032.%20%E3%80%8ANode.js%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B/README.md) <!-- [locale](./notes/0032.%20%E3%80%8ANode.js%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B/README.md) -->
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0032.%20%E3%80%8ANode.js%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B/README.md#1--概述)
 - [x] [0015. 《深入浅出 Node.js》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) <!-- [locale](./notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md) -->
-  - [1. 🔗 豆瓣](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#1--豆瓣)
-  - [2. 📒 《深入浅出 Node.js》 简介](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#2--深入浅出-nodejs-简介)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#1--概述)
 - [x] [0016. 《Node.js来一打C++扩展》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md) <!-- [locale](./notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md) -->
-  - [1. 🔗 豆瓣](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#1--豆瓣)
-  - [2. 📒 《Node.js 来一打 C++扩展》 简介](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#2--nodejs-来一打-c扩展-简介)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#1--概述)
 - [x] [0017. 《Node与Express开发》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md) <!-- [locale](./notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md) -->
-  - [1. 🔗 豆瓣](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md#1--豆瓣)
-  - [2. 📒 《Node 与 Express 开发》 简介](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md#2--node-与-express-开发-简介)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md#1--概述)
 - [x] [0018. 《Node.js开发指南》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md) <!-- [locale](./notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md) -->
-  - [1. 🔗 豆瓣](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md#1--豆瓣)
-  - [2. 📒 《Node.js 开发指南》 简介](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md#2--nodejs-开发指南-简介)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md#1--概述)
 - [x] [0019. 《了不起的Node js 将JavaScript进行到底》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md) <!-- [locale](./notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md) -->
-  - [1. 🔗 豆瓣](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md#1--豆瓣)
-  - [2. 📒 《了不起的 Node.js》 简介](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md#2--了不起的-nodejs-简介)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md#1--概述)
 ### 1.4. nodejs 掘金小册
 
 - [x] [0022. 《Node.js 入门教程》（免费掘金小册）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md) <!-- [locale](./notes/0022.%20%E3%80%8ANode.js%20%E5%85%A5%E9%97%A8%E6%95%99%E7%A8%8B%E3%80%8B%EF%BC%88%E5%85%8D%E8%B4%B9%E6%8E%98%E9%87%91%E5%B0%8F%E5%86%8C%EF%BC%89/README.md) -->
@@ -211,3 +209,21 @@
 - [ ] [0027. 在 Windows 的 power shell 中执行 pnpm i 命令错误问题](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md) <!-- [locale](./notes/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md) -->
   - [1. 📒 报错日志示例](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md#1--报错日志示例)
   - [2. 💻 修改 Power Shell 执行策略 - 解决报错](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0027.%20%E5%9C%A8%20Windows%20%E7%9A%84%20power%20shell%20%E4%B8%AD%E6%89%A7%E8%A1%8C%20pnpm%20i%20%E5%91%BD%E4%BB%A4%E9%94%99%E8%AF%AF%E9%97%AE%E9%A2%98/README.md#2--修改-power-shell-执行策略---解决报错)
+## 10. ⏰ pending
+
+- [ ] [0033. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0033.%20xxx/README.md) <!-- [locale](./notes/0033.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0033.%20xxx/README.md#1--notes_title)
+- [ ] [0034. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0034.%20xxx/README.md) <!-- [locale](./notes/0034.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0034.%20xxx/README.md#1--notes_title)
+- [ ] [0035. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0035.%20xxx/README.md) <!-- [locale](./notes/0035.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0035.%20xxx/README.md#1--notes_title)
+- [ ] [0036. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0036.%20xxx/README.md) <!-- [locale](./notes/0036.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0036.%20xxx/README.md#1--notes_title)
+- [ ] [0037. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0037.%20xxx/README.md) <!-- [locale](./notes/0037.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0037.%20xxx/README.md#1--notes_title)
+- [ ] [0038. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0038.%20xxx/README.md) <!-- [locale](./notes/0038.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0038.%20xxx/README.md#1--notes_title)
+- [ ] [0039. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0039.%20xxx/README.md) <!-- [locale](./notes/0039.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0039.%20xxx/README.md#1--notes_title)
+- [ ] [0040. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0040.%20xxx/README.md) <!-- [locale](./notes/0040.%20xxx/README.md) -->
+  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0040.%20xxx/README.md#1--notes_title)
