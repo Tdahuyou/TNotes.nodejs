@@ -2,12 +2,23 @@
 
 <!-- region:toc -->
 
-- [1. 💻 demos.1 - Hello World](#1--demos1---hello-world)
-- [2. 💻 demos.2 - 如果要响应中文，需要设置编码方式为 UTF-8 来避免乱码的问题](#2--demos2---如果要响应中文需要设置编码方式为-utf-8-来避免乱码的问题)
+- [1. 📒 概述](#1--概述)
+- [2. 💻 demos.1 - Hello World](#2--demos1---hello-world)
+- [3. 💻 demos.2 - 如果要响应中文，需要设置编码方式为 UTF-8 来避免乱码的问题](#3--demos2---如果要响应中文需要设置编码方式为-utf-8-来避免乱码的问题)
 
 <!-- endregion:toc -->
 
-## 1. 💻 demos.1 - Hello World
+## 1. 📒 概述
+
+- 本节要使用 Node.js 的 http 模块来创建一个简单的 HTTP 服务器，并响应客户端的请求，最终在页面上渲染出 `Hello World!`。
+- 最终效果如下：
+  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-04-11-15-49.png)
+- 往简单了讲，这个效果只需要写简短的一行代码就能实现了。
+  - `require('http').createServer((req, res) => res.end('Hello World!')).listen(3000, '127.0.0.1')`。
+  - 随便找个位置新建一个 `1.cjs`，将这行代码复制进去，然后执行 `node 1.cjs` 启动服务，再访问 http://127.0.0.1:3000/ 查看最终效果即可。
+  - 至于其中的实现原理，后边儿慢慢学吧！
+
+## 2. 💻 demos.1 - Hello World
 
 ::: code-group
 
@@ -57,7 +68,7 @@ http
 
 :::
 
-## 2. 💻 demos.2 - 如果要响应中文，需要设置编码方式为 UTF-8 来避免乱码的问题
+## 3. 💻 demos.2 - 如果要响应中文，需要设置编码方式为 UTF-8 来避免乱码的问题
 
 ::: code-group
 
