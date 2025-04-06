@@ -127,8 +127,16 @@
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0047.%20exports%20%E5%AF%B9%E8%B1%A1/README.md#1--notes_title)
 - [ ] [0048. module 对象](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README.md#1--notes_title)
-- [ ] [0050. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20xxx/README.md#1--notes_title)
+- [ ] [0050. Node.js 生命周期](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#1--概述)
+  - [2. 📒 `timers、poll、check` 队列中分别存放哪些回调任务](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#2--timerspollcheck-队列中分别存放哪些回调任务)
+  - [3. 📒 宏队列、微队列](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#3--宏队列微队列)
+  - [4. 📒 `poll` 队列的特殊性](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#4--poll-队列的特殊性)
+  - [5. 💻 demos.1 - 阻塞操作对计时器的影响](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#5--demos1---阻塞操作对计时器的影响)
+  - [6. 💻 demos.2 - `setImmediate` 和 `setTimeout` 的性能对比](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#6--demos2---setimmediate-和-settimeout-的性能对比)
+  - [7. 💻 demos.3 - `setTimeout(fn1, 0)` 和 `setImmediate(fm2)` 中的 `fn1`、`fn2` 哪个先执行？](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#7--demos3---settimeoutfn1-0-和-setimmediatefm2-中的-fn1fn2-哪个先执行)
+  - [8. 💼 demos.4 - 练手面试题 - 1](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#8--demos4---练手面试题---1)
+  - [9. 💼 demos.5 - 练手面试题 - 2](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#9--demos5---练手面试题---2)
 
 ## 4. npm 包管理器
 

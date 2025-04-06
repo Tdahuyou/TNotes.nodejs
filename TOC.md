@@ -103,8 +103,16 @@
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0047.%20exports%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
 - [ ] [0048. module 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
-- [ ] [0050. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20xxx/README#1--notes_title)
+- [ ] [0050. Node.js 生命周期](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#1--概述)
+  - [2. 📒 `timers、poll、check` 队列中分别存放哪些回调任务](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#2--timerspollcheck-队列中分别存放哪些回调任务)
+  - [3. 📒 宏队列、微队列](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#3--宏队列微队列)
+  - [4. 📒 `poll` 队列的特殊性](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#4--poll-队列的特殊性)
+  - [5. 💻 demos.1 - 阻塞操作对计时器的影响](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#5--demos1---阻塞操作对计时器的影响)
+  - [6. 💻 demos.2 - `setImmediate` 和 `setTimeout` 的性能对比](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#6--demos2---setimmediate-和-settimeout-的性能对比)
+  - [7. 💻 demos.3 - `setTimeout(fn1, 0)` 和 `setImmediate(fm2)` 中的 `fn1`、`fn2` 哪个先执行？](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#7--demos3---settimeoutfn1-0-和-setimmediatefm2-中的-fn1fn2-哪个先执行)
+  - [8. 💼 demos.4 - 练手面试题 - 1](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#8--demos4---练手面试题---1)
+  - [9. 💼 demos.5 - 练手面试题 - 2](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#9--demos5---练手面试题---2)
 
 ## 4. npm 包管理器
 
