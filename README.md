@@ -117,7 +117,7 @@
     - [2.6. `console.group()`、`console.groupEnd()`、`console.groupCollapsed()`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0045.%20console/README.md#26-consolegroupconsolegroupendconsolegroupcollapsed)
     - [2.7. `console.dir()`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0045.%20console/README.md#27-consoledir)
     - [2.8. 占位符 `%d`、`%s`、`%j`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0045.%20console/README.md#28-占位符-dsj)
-- [ ] [0049. process](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0049.%20process/README.md)
+- [x] [0049. process](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0049.%20process/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0049.%20process/README.md#1--概述)
   - [2. 💻 demos.1 - process 常见字段](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0049.%20process/README.md#2--demos1---process-常见字段)
   - [3. 💻 demos.2 - 根据 `process.platform` 判断当前系统环境](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0049.%20process/README.md#3--demos2---根据-processplatform-判断当前系统环境)

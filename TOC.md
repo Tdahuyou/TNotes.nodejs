@@ -93,7 +93,7 @@
     - [2.6. `console.group()`、`console.groupEnd()`、`console.groupCollapsed()`](https://tdahuyou.github.io/TNotes.nodejs/notes/0045.%20console/README#26-consolegroupconsolegroupendconsolegroupcollapsed)
     - [2.7. `console.dir()`](https://tdahuyou.github.io/TNotes.nodejs/notes/0045.%20console/README#27-consoledir)
     - [2.8. 占位符 `%d`、`%s`、`%j`](https://tdahuyou.github.io/TNotes.nodejs/notes/0045.%20console/README#28-占位符-dsj)
-- [ ] [0049. process](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README)
+- [x] [0049. process](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README#1--概述)
   - [2. 💻 demos.1 - process 常见字段](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README#2--demos1---process-常见字段)
   - [3. 💻 demos.2 - 根据 `process.platform` 判断当前系统环境](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README#3--demos2---根据-processplatform-判断当前系统环境)
