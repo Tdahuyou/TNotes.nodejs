@@ -79,6 +79,9 @@
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0037.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Node.js%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%20-%20Hello%20World/README#1--概述)
   - [2. 💻 demos.1 - Hello World](https://tdahuyou.github.io/TNotes.nodejs/notes/0037.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Node.js%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%20-%20Hello%20World/README#2--demos1---hello-world)
   - [3. 💻 demos.2 - 如果要响应中文，需要设置编码方式为 UTF-8 来避免乱码的问题](https://tdahuyou.github.io/TNotes.nodejs/notes/0037.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Node.js%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%20-%20Hello%20World/README#3--demos2---如果要响应中文需要设置编码方式为-utf-8-来避免乱码的问题)
+
+### 3.1. 全局模块
+
 - [x] [0044. __filename 和 __dirname](https://tdahuyou.github.io/TNotes.nodejs/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README#1--概述)
   - [2. 💻 demos.1 - 打印 `__filename` 和 `__dirname`](https://tdahuyou.github.io/TNotes.nodejs/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README#2--demos1---打印-__filename-和-__dirname)
@@ -103,18 +106,8 @@
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0047.%20exports%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
 - [ ] [0048. module 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
-- [ ] [0050. Node.js 生命周期](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README)
-  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#1--概述)
-  - [2. 📒 `timers、poll、check` 队列中分别存放哪些回调任务](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#2--timerspollcheck-队列中分别存放哪些回调任务)
-  - [3. 📒 宏队列、微队列](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#3--宏队列微队列)
-  - [4. 📒 `poll` 队列的特殊性](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#4--poll-队列的特殊性)
-  - [5. 💻 demos.1 - 阻塞操作对计时器的影响](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#5--demos1---阻塞操作对计时器的影响)
-  - [6. 💻 demos.2 - `setImmediate` 和 `setTimeout` 的性能对比](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#6--demos2---setimmediate-和-settimeout-的性能对比)
-  - [7. 💻 demos.3 - `setTimeout(fn1, 0)` 和 `setImmediate(fm2)` 中的 `fn1`、`fn2` 哪个先执行？](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#7--demos3---settimeoutfn1-0-和-setimmediatefm2-中的-fn1fn2-哪个先执行)
-  - [8. 💼 demos.4 - 练手面试题 - 1](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#8--demos4---练手面试题---1)
-  - [9. 💼 demos.5 - 练手面试题 - 2](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#9--demos5---练手面试题---2)
 
-## 4. npm 包管理器
+### 3.2. npm 包管理器
 
 - [x] [0038. 认识 npm](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README#1--概述)
@@ -176,6 +169,19 @@
   - [4. 📒 `package-lock.json` 文件结构](https://tdahuyou.github.io/TNotes.nodejs/notes/0043.%20%E8%AE%A4%E8%AF%86%20package-lock.json/README#4--package-lockjson-文件结构)
   - [5. 📒 `package-lock.json` 会自动生成和更新](https://tdahuyou.github.io/TNotes.nodejs/notes/0043.%20%E8%AE%A4%E8%AF%86%20package-lock.json/README#5--package-lockjson-会自动生成和更新)
   - [6. 📒 注意事项](https://tdahuyou.github.io/TNotes.nodejs/notes/0043.%20%E8%AE%A4%E8%AF%86%20package-lock.json/README#6--注意事项)
+
+## 4. Node.js 核心原理
+
+- [x] [0050. Node.js 生命周期](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#1--概述)
+  - [2. 📒 `timers、poll、check` 队列中分别存放哪些回调任务](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#2--timerspollcheck-队列中分别存放哪些回调任务)
+  - [3. 📒 宏队列、微队列](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#3--宏队列微队列)
+  - [4. 📒 `poll` 队列的特殊性](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#4--poll-队列的特殊性)
+  - [5. 💻 demos.1 - 阻塞操作对计时器的影响](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#5--demos1---阻塞操作对计时器的影响)
+  - [6. 💻 demos.2 - `setImmediate` 和 `setTimeout` 的性能对比](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#6--demos2---setimmediate-和-settimeout-的性能对比)
+  - [7. 💻 demos.3 - `setTimeout(fn1, 0)` 和 `setImmediate(fm2)` 中的 `fn1`、`fn2` 哪个先执行？](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#7--demos3---settimeoutfn1-0-和-setimmediatefm2-中的-fn1fn2-哪个先执行)
+  - [8. 💼 demos.4 - 练手面试题 - 1](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#8--demos4---练手面试题---1)
+  - [9. 💼 demos.5 - 练手面试题 - 2](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#9--demos5---练手面试题---2)
 
 ## 5. Node.js 内置模块
 
