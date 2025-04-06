@@ -27,6 +27,11 @@
 ## 2. 💻 npm 命令 - 安装包
 
 ```bash
+# 根据 package.json 文件中记录的依赖信息，安装项目所需的所有依赖。
+npm install
+```
+
+```bash
 # 安装全局包
 npm install -g <package-name>
 
@@ -59,6 +64,13 @@ npm install --save-dev <package-name>
 # 作用：将指定的包作为开发依赖安装，并将其添加到 devDependencies 中。
 # 示例：
 npm install --save-dev eslint
+```
+
+```bash
+# 简写
+npm i
+
+# 上述所有的 npm install 都可以直接简写为 npm i
 ```
 
 ## 3. 💻 npm 命令 - 查看已安装的包
@@ -126,6 +138,14 @@ npm uninstall <package-name>
 npm uninstall express
 ```
 
+- `npm uninstall` 会自动检测包是在 `dependencies` 还是 `devDependencies` 中，并从相应的位置移除，无需额外指定 `--save-dev` 或 `-D`。
+- 如果要卸载的软件包是全局安装的，则需要添加 `--global` 或 `-g` 标志。
+
+```bash
+npm uninstall express --global
+npm uninstall express -g
+```
+
 ## 5. 💻 npm 命令 - 更新包
 
 ```bash
@@ -149,6 +169,29 @@ npm update <package-name>
 # 作用：仅更新指定的包到最新版本。
 # 示例：
 npm update express
+# 这个升级会根据 package.json 中记录的语义化版本范围来升级。
+# 比如最新版本是 "v2.0.0"
+# 当前 package.json 中记录的语义版本是 "^1.2.3"
+# 使用 npm update express 命令作版本升级的时候，主版本号 v1 不会升级，只会升级次版本号和补丁版本号，再怎么升都升不到 v2。
+
+npm update express@latest
+# 这会直接安装最新的包。
+```
+
+- 使用 `npm update` 命令更新软件包版本时，只更新次版本或补丁版本，并且在更新时，`package.json` 文件中的版本信息保持不变，但是 `package-lock.json` 文件会被新版本填充。
+- 如果要更新主版本，则需要全局地安装 `npm-check-updates` 软件包。
+
+```bash
+# 全局安装 npm-check-updates
+npm install -g npm-check-updates
+
+# 检查可更新的依赖
+ncu
+
+# 使用 npm-check-updates 更新 package.json 中所有包的版本范围
+ncu -u
+# 这样即可升级 package.json 文件的 dependencies 和 devDependencies 中的所有版本，以便 npm 可以安装新的主版本。
+# 注意：ncu -u 会更新依赖的主版本，这可能导致破坏性变更，升级需谨慎。
 ```
 
 ## 6. 💻 npm 命令 - 查看 npm 版本
@@ -294,6 +337,22 @@ npm view <package-name> author
 # 示例：
 npm view express author
 # TJ Holowaychuk <tj@vision-media.ca>
+```
+
+```bash
+# 查看 npm 包的版本
+npm view <package-name> version
+
+# 作用：显示指定包的版本信息。
+# 示例：
+npm view express version
+# 5.1.0
+
+npm view vue version
+# 3.5.13
+
+npm view react version
+# 19.1.0
 ```
 
 ## 11. 💻 npm 命令 - 初始化项目
