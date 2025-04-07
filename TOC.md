@@ -116,7 +116,13 @@
 ### 3.2. 事件的监听与触发
 
 - [ ] [0051. EventEmitter 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#1--概述)
+  - [2. 💻 demos.1 - 使用 EventEmitter 对象创建简单事件](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#2--demos1---使用-eventemitter-对象创建简单事件)
+  - [3. 💻 demos.2 - 监听事件的添加与触发](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#3--demos2---监听事件的添加与触发)
+  - [4. 💻 demos.3 - 使用 once 方法添加监听事件](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#4--demos3---使用-once-方法添加监听事件)
+  - [5. 💻 demos.4 - 使用 emit 方法触发事件](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#5--demos4---使用-emit-方法触发事件)
+  - [6. 💻 demos.5 - 使用 emit 方法触发事件](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#6--demos5---使用-emit-方法触发事件)
+  - [7. 💻 demos.6 - 删除指定的监听事件](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#7--demos6---删除指定的监听事件)
 - [ ] [0052. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20xxx/README#1--notes_title)
 - [ ] [0053. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0053.%20xxx/README)
