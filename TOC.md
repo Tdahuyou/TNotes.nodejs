@@ -100,14 +100,43 @@
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README#1--概述)
   - [2. 💻 demos.1 - process 常见字段](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README#2--demos1---process-常见字段)
   - [3. 💻 demos.2 - 根据 `process.platform` 判断当前系统环境](https://tdahuyou.github.io/TNotes.nodejs/notes/0049.%20process/README#3--demos2---根据-processplatform-判断当前系统环境)
-- [ ] [0046. Node.js 全局函数](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20Node.js%20%E5%85%A8%E5%B1%80%E5%87%BD%E6%95%B0/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20Node.js%20%E5%85%A8%E5%B1%80%E5%87%BD%E6%95%B0/README#1--notes_title)
+- [x] [0046. 全局定时器：setTimeout、setInterval、setImmediate](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate/README#1--概述)
+  - [2. 💻 demos.1 - `setTimeout(cb, ms)`、`clearTimeout(t)`](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate/README#2--demos1---settimeoutcb-mscleartimeoutt)
+  - [3. 💻 demos.2 - `setInterval(cb, ms)`、`clearInterval(t)`](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate/README#3--demos2---setintervalcb-msclearintervalt)
+  - [4. 💻 demos.3 - `setImmediate(callback[, ...args])`、`clearImmediate(immediate)`](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate/README#4--demos3---setimmediatecallback-argsclearimmediateimmediate)
+  - [5. 🤔 `setTimeout(fn, 0)` 和 `setImmediate(fn)` 之间的区别](https://tdahuyou.github.io/TNotes.nodejs/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate/README#5--settimeoutfn-0-和-setimmediatefn-之间的区别)
 - [ ] [0047. exports 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0047.%20exports%20%E5%AF%B9%E8%B1%A1/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0047.%20exports%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
+  - [1. 💻 demos.1 - 使用 exports 对象实现模块化编程](https://tdahuyou.github.io/TNotes.nodejs/notes/0047.%20exports%20%E5%AF%B9%E8%B1%A1/README#1--demos1---使用-exports-对象实现模块化编程)
 - [ ] [0048. module 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#1--概述)
+  - [2. 💻 demos.1 - 打印 module 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#2--demos1---打印-module-对象)
+  - [3. 💻 demos.2 - 使用 module 对象实现模块化编程](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#3--demos2---使用-module-对象实现模块化编程)
 
-### 3.2. npm 包管理器
+### 3.2. 事件的监听与触发
+
+- [ ] [0051. EventEmitter 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1/README#1--notes_title)
+- [ ] [0052. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20xxx/README#1--notes_title)
+- [ ] [0053. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0053.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0053.%20xxx/README#1--notes_title)
+- [ ] [0054. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0054.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0054.%20xxx/README#1--notes_title)
+- [ ] [0055. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0055.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0055.%20xxx/README#1--notes_title)
+- [ ] [0056. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0056.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0056.%20xxx/README#1--notes_title)
+- [ ] [0057. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0057.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0057.%20xxx/README#1--notes_title)
+- [ ] [0058. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0058.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0058.%20xxx/README#1--notes_title)
+- [ ] [0059. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0059.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0059.%20xxx/README#1--notes_title)
+- [ ] [0060. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0060.%20xxx/README)
+  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0060.%20xxx/README#1--notes_title)
+
+### 3.3. npm 包管理器
 
 - [x] [0038. 认识 npm](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README#1--概述)
@@ -182,6 +211,7 @@
   - [7. 💻 demos.3 - `setTimeout(fn1, 0)` 和 `setImmediate(fm2)` 中的 `fn1`、`fn2` 哪个先执行？](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#7--demos3---settimeoutfn1-0-和-setimmediatefm2-中的-fn1fn2-哪个先执行)
   - [8. 💼 demos.4 - 练手面试题 - 1](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#8--demos4---练手面试题---1)
   - [9. 💼 demos.5 - 练手面试题 - 2](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#9--demos5---练手面试题---2)
+  - [10. 🔗 参考资料](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#10--参考资料)
 
 ## 5. Node.js 内置模块 ⏰
 

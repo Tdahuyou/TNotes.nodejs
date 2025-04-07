@@ -11,6 +11,7 @@
 - [7. 💻 demos.3 - `setTimeout(fn1, 0)` 和 `setImmediate(fm2)` 中的 `fn1`、`fn2` 哪个先执行？](#7--demos3---settimeoutfn1-0-和-setimmediatefm2-中的-fn1fn2-哪个先执行)
 - [8. 💼 demos.4 - 练手面试题 - 1](#8--demos4---练手面试题---1)
 - [9. 💼 demos.5 - 练手面试题 - 2](#9--demos5---练手面试题---2)
+- [10. 🔗 参考资料](#10--参考资料)
 
 <!-- endregion:toc -->
 
@@ -400,3 +401,16 @@ console.log('12')
 - `5`、`6`、`7`：这部分的是宏队列中的回调的打印结果，只能明确 `5` 肯定在 `6` 之前打印，但是 `7` 的位置，没法确定。
 
 :::
+
+## 10. 🔗 参考资料
+
+- https://nodejs.org/zh-cn/docs/guides/event-loop-timers-and-nexttick/
+  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-07-15-29-52.png)
+  - Node.js 官方文档。
+- https://yjhjstz.gitbooks.io/deep-into-node/content/chapter5/chapter5-1.html
+  - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-07-15-28-44.png)
+  - 一个开源的 nodejs 教程 - gitbooks。
+- https://acemood.github.io/2016/02/01/event-loop-in-javascript/
+  - 讲解 js 中 event loop 的一篇文章。
+- https://docs.libuv.org/en/v1.x/design.html
+  - libuv docs。
