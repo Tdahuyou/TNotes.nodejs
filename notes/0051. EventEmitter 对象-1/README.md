@@ -1,4 +1,4 @@
-# [0051. EventEmitter 对象](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1)
+# [0051. EventEmitter 对象-1](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0051.%20EventEmitter%20%E5%AF%B9%E8%B1%A1-1)
 
 <!-- region:toc -->
 
@@ -13,6 +13,12 @@
 <!-- endregion:toc -->
 
 ## 1. 📒 概述
+
+::: danger ⏰
+
+结合着 0052 一起看看，删掉一些啰嗦的描述。
+
+:::
 
 - **事件 `events`**
   - Node.js 是一个事件驱动的运行时环境，所有的任务都可以视为事件处理。
