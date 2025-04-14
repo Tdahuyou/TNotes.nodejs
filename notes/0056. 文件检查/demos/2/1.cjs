@@ -9,7 +9,7 @@ async function checkFile(filename) {
   try {
     await fs.access(
       path.join(__dirname, filename),
-      fs.constants.F_OK | fs.constants.W_OK
+      fs.constants.F_OK | fs.constants.W_OK // 等效于 fs.constants.W_OK
     )
     console.log(`${filename} 存在，并且可写`)
   } catch (err) {
