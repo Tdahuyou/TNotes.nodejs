@@ -3,9 +3,10 @@
 <!-- region:toc -->
 
 - [1. 📒 概述](#1--概述)
-- [2. 💻 demos.1 - 读取文件的错误优先回调风格](#2--demos1---读取文件的错误优先回调风格)
-- [3. 💻 demos.2 - 自定义错误优先回调风格函数](#3--demos2---自定义错误优先回调风格函数)
-- [4. 💻 demos.3 - `util.promisify(original)` - 转换异步函数的风格](#4--demos3---utilpromisifyoriginal---转换异步函数的风格)
+- [2. 📒 错误处理](#2--错误处理)
+- [3. 💻 demos.1 - 读取文件的错误优先回调风格](#3--demos1---读取文件的错误优先回调风格)
+- [4. 💻 demos.2 - 自定义错误优先回调风格函数](#4--demos2---自定义错误优先回调风格函数)
+- [5. 💻 demos.3 - `util.promisify(original)` - 转换异步函数的风格](#5--demos3---utilpromisifyoriginal---转换异步函数的风格)
 
 <!-- endregion:toc -->
 
@@ -37,7 +38,13 @@ flowchart LR
     B -->|util.callbackify| A
 ```
 
-## 2. 💻 demos.1 - 读取文件的错误优先回调风格
+## 2. 📒 错误处理
+
+- 回调函数第一个参数为 `error`
+- 异步方法：通过回调函数的第一个参数捕获错误；
+- 同步方法：需使用 `try-catch` 语句捕获异常；
+
+## 3. 💻 demos.1 - 读取文件的错误优先回调风格
 
 ::: code-group
 
@@ -83,7 +90,7 @@ test
 
 :::
 
-## 3. 💻 demos.2 - 自定义错误优先回调风格函数
+## 4. 💻 demos.2 - 自定义错误优先回调风格函数
 
 ::: code-group
 
@@ -116,7 +123,7 @@ divide(10, 0, (err, result) => {
 
 :::
 
-## 4. 💻 demos.3 - `util.promisify(original)` - 转换异步函数的风格
+## 5. 💻 demos.3 - `util.promisify(original)` - 转换异步函数的风格
 
 ::: code-group
 
