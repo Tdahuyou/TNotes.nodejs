@@ -237,7 +237,7 @@
   - [4. 💻 demos.3 - 流式读取 - `fs.createReadStream`](https://tdahuyou.github.io/TNotes.nodejs/notes/0057.%20%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/README#4--demos3---流式读取---fscreatereadstream)
   - [5. 💻 demos.4 - 模拟听歌时显示歌词的效果](https://tdahuyou.github.io/TNotes.nodejs/notes/0057.%20%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/README#5--demos4---模拟听歌时显示歌词的效果)
   - [6. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0057.%20%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96/README#6--references)
-- [ ] [0058. 文件写入](https://tdahuyou.github.io/TNotes.nodejs/notes/0058.%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5/README)
+- [x] [0058. 文件写入](https://tdahuyou.github.io/TNotes.nodejs/notes/0058.%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0058.%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5/README#1--概述)
   - [2. 💻 demos.1 - 异步写入 - `fs.writeFile`](https://tdahuyou.github.io/TNotes.nodejs/notes/0058.%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5/README#2--demos1---异步写入---fswritefile)
   - [3. 💻 demos.2 - 同步写入 - `fs.writeFileSync`](https://tdahuyou.github.io/TNotes.nodejs/notes/0058.%20%E6%96%87%E4%BB%B6%E5%86%99%E5%85%A5/README#3--demos2---同步写入---fswritefilesync)
