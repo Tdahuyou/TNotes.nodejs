@@ -9,7 +9,6 @@
     "assets",
     "node_modules",
     "hidden",
-    "demos",
     "assets"
   ],
   "port": 9379,

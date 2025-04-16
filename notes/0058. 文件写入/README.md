@@ -21,11 +21,16 @@
 - **应用场景**
   - Node.js 的 `fs` 模块提供了灵活且强大的文件写入功能，适用于各种场景：
   - 小型文件的快速写入可以使用 `writeFile` 或 `writeFileSync`。
+    - 覆盖
   - 需要 **追加内容** 时可以使用 `appendFile` 或 `appendFileSync`。
+    - 追加
   - 对于大文件或逐步写入需求，推荐使用流式写入 (`createWriteStream`)。
-- **常见的写入模式**
-  - `'w'`：覆盖写入（默认）。
+    - 覆盖
+- **常见的写入标志 `options.flag`**
+  - `'w'`：覆盖写入。
+    - `writeFile`、`writeFileSync` 的默认值。
   - `'a'`：追加写入。
+    - `appendFile`、`appendFileSync` 的默认值。
   - `'r+'`：读写模式（文件必须存在）。
 - **注意事项**
   - 文件权限
