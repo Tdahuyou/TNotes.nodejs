@@ -14,6 +14,19 @@
 
 ## 1. 📒 概述
 
+::: code-group
+
+```js [Examples]
+fs.writeFileSync('demo.txt', 'Hello', { mode: 0o644 })
+fs.mkdirSync('demoDir', { mode: 0o755 })
+fs.chmodSync('demo.txt', 0o444)
+
+// 🤔 上面这些 0oxxx 是什么？mode 是什么？有什么用？
+// 这篇笔记主要就是介绍这些值的含义。
+```
+
+:::
+
 - **`fs` 模块中的 `mode` 参数**
   - 在 Node.js 的 `fs` 模块中，`mode` 是一个与文件权限相关的参数，用于指定文件或目录的访问权限。
   - 通过合理使用 `mode`，可以控制文件或目录的访问权限，确保程序的安全性和正确性。
