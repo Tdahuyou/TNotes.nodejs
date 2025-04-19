@@ -18,6 +18,14 @@
 | `rm()`        | 同步删除空文件或目录 |
 | `rmSync()`    | 同步删除空文件或目录 |
 
+- **参数配置**：
+
+| 选项 | 描述 | 默认值 |
+| --- | --- | --- |
+| **recursive** | 如果为 `true`，则执行递归目录删除操作。在递归模式下，操作将在失败时重试。 | `false` |
+| **retryDelay** | 重试之间等待的时间（以毫秒为单位）。如果 `recursive` 选项不为 `true`，则忽略此选项。 | `100` |
+| **maxRetries** | 表示重试次数。如果遇到 `EBUSY`、`EMFILE`、`ENFILE`、`ENOTEMPTY` 或 `EPERM` 错误，Node.js 将在每次尝试时，以 `retryDelay` 毫秒的线性退避等待时间重试该操作。如果 `recursive` 选项不为 `true`，则忽略此选项。 | `0` |
+
 ## 2. 🤔 对于新版的 `rm` 和旧版的 `rmDir`，应该如何选择？
 
 | 特性 | `fs.rmdir` | `fs.rm` |

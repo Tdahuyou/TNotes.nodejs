@@ -15,17 +15,18 @@
   - [5. 全局模块](#5-全局模块)
   - [6. 事件的监听与触发](#6-事件的监听与触发)
   - [7. util 工具模块](#7-util-工具模块)
-  - [8. fs 文件系统模块 - 💪 doing](#8-fs-文件系统模块----doing)
-  - [9. Node.js 核心原理](#9-nodejs-核心原理)
-  - [10. ⏰ pending](#10--pending)
-    - [10.1. process](#101-process)
-    - [10.2. crypto](#102-crypto)
-    - [10.3. 版本管理工具](#103-版本管理工具)
-    - [10.4. koa](#104-koa)
-    - [10.5. npm 相关](#105-npm-相关)
-    - [10.6. nodejs 命令行操作](#106-nodejs-命令行操作)
-    - [10.7. net、http、https 网络模块](#107-nethttphttps-网络模块)
-    - [10.8. others](#108-others)
+  - [8. fs 文件系统模块](#8-fs-文件系统模块)
+  - [9. os 操作系统模块](#9-os-操作系统模块)
+  - [10. Node.js 核心原理](#10-nodejs-核心原理)
+  - [11. ⏰ pending](#11--pending)
+    - [11.1. process](#111-process)
+    - [11.2. crypto](#112-crypto)
+    - [11.3. 版本管理工具](#113-版本管理工具)
+    - [11.4. koa](#114-koa)
+    - [11.5. npm 相关](#115-npm-相关)
+    - [11.6. nodejs 命令行操作](#116-nodejs-命令行操作)
+    - [11.7. net、http、https 网络模块](#117-nethttphttps-网络模块)
+    - [11.8. others](#118-others)
 
 <!-- endregion:toc -->
 
@@ -240,16 +241,16 @@
   - [4. 💻 demos.2 - 自定义错误优先回调风格函数](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0054.%20%E9%94%99%E8%AF%AF%E4%BC%98%E5%85%88%E7%9A%84%E5%9B%9E%E8%B0%83%E9%A3%8E%E6%A0%BC/README.md#4--demos2---自定义错误优先回调风格函数)
   - [5. 💻 demos.3 - `util.promisify(original)` - 转换异步函数的风格](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0054.%20%E9%94%99%E8%AF%AF%E4%BC%98%E5%85%88%E7%9A%84%E5%9B%9E%E8%B0%83%E9%A3%8E%E6%A0%BC/README.md#5--demos3---utilpromisifyoriginal---转换异步函数的风格)
 
-## 8. fs 文件系统模块 - 💪 doing
+## 8. fs 文件系统模块
 
-- [x] [0055. fs 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md)
-  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md#1--概述)
-  - [2. 📒 `fs` 模块常用 API](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md#2--fs-模块常用-api)
-  - [3. 📒 文件检查](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md#3--文件检查)
-  - [4. 📒 文件读取](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md#4--文件读取)
-  - [5. 📒 文件写入](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md#5--文件写入)
-  - [6. 📒 文件其他操作](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md#6--文件其他操作)
-  - [7. 📒 目录操作](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%A6%82%E8%BF%B0/README.md#7--目录操作)
+- [x] [0055. fs 文件系统模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
+  - [2. 📒 `fs` 模块常用 API](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--fs-模块常用-api)
+  - [3. 📒 文件检查](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#3--文件检查)
+  - [4. 📒 文件读取](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#4--文件读取)
+  - [5. 📒 文件写入](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#5--文件写入)
+  - [6. 📒 文件其他操作](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#6--文件其他操作)
+  - [7. 📒 目录操作](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#7--目录操作)
 - [x] [0056. 文件检查](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0056.%20%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0056.%20%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5/README.md#1--概述)
   - [2. 📒 文件访问常量 `File access constants`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0056.%20%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5/README.md#2--文件访问常量-file-access-constants)
@@ -285,6 +286,7 @@
 - [x] [0069. 文件重命名](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0069.%20%E6%96%87%E4%BB%B6%E9%87%8D%E5%91%BD%E5%90%8D/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0069.%20%E6%96%87%E4%BB%B6%E9%87%8D%E5%91%BD%E5%90%8D/README.md#1--概述)
   - [2. 💻 demos.1 - 重命名文件 - `rename`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0069.%20%E6%96%87%E4%BB%B6%E9%87%8D%E5%91%BD%E5%90%8D/README.md#2--demos1---重命名文件---rename)
+  - [3. 💻 demos.2 - 照片儿批量重命名 - `rename`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0069.%20%E6%96%87%E4%BB%B6%E9%87%8D%E5%91%BD%E5%90%8D/README.md#3--demos2---照片儿批量重命名---rename)
 - [x] [0053. 创建目录](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0053.%20%E5%88%9B%E5%BB%BA%E7%9B%AE%E5%BD%95/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0053.%20%E5%88%9B%E5%BB%BA%E7%9B%AE%E5%BD%95/README.md#1--概述)
   - [2. 💻 demos.1 - 创建目录 `mkdir`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0053.%20%E5%88%9B%E5%BB%BA%E7%9B%AE%E5%BD%95/README.md#2--demos1---创建目录-mkdir)
@@ -300,17 +302,20 @@
   - [3. 💻 demos.1 - 读取不存在的目录会报错](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0064.%20%E8%AF%BB%E5%8F%96%E7%9B%AE%E5%BD%95%E5%86%85%E5%AE%B9/README.md#3--demos1---读取不存在的目录会报错)
 - [x] [0065. 查看目录或文件信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/README.md#1--概述)
-  - [2. 💻 demos.1 - 查看目录或文件信息 `stat`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/README.md#2--demos1---查看目录或文件信息-stat)
-  - [3. 💻 demos.2 - 检查是文件还是目录](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/README.md#3--demos2---检查是文件还是目录)
+  - [2. 🔍 `fs.Stats` 对象成员](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/README.md#2--fsstats-对象成员)
+  - [3. 💻 demos.1 - 查看目录或文件信息 `stat`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/README.md#3--demos1---查看目录或文件信息-stat)
+  - [4. 💻 demos.2 - 检查是文件还是目录](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF/README.md#4--demos2---检查是文件还是目录)
 - [x] [0071. 认识符号链接](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0071.%20%E8%AE%A4%E8%AF%86%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0071.%20%E8%AE%A4%E8%AF%86%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5/README.md#1--概述)
 - [x] [0072. 创建符号链接](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0072.%20%E5%88%9B%E5%BB%BA%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0072.%20%E5%88%9B%E5%BB%BA%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5/README.md#1--概述)
   - [2. 💻 demos.1 - 创建符号链接 `symlink`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0072.%20%E5%88%9B%E5%BB%BA%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5/README.md#2--demos1---创建符号链接-symlink)
-- [ ] [0070. 查看符号链接信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0070.%20%E6%9F%A5%E7%9C%8B%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5%E4%BF%A1%E6%81%AF/README.md)
+- [x] [0070. 查看符号链接信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0070.%20%E6%9F%A5%E7%9C%8B%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5%E4%BF%A1%E6%81%AF/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0070.%20%E6%9F%A5%E7%9C%8B%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5%E4%BF%A1%E6%81%AF/README.md#1--概述)
-- [ ] [0059. 获取目录的绝对路径](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0059.%20%E8%8E%B7%E5%8F%96%E7%9B%AE%E5%BD%95%E7%9A%84%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84/README.md)
-  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0059.%20%E8%8E%B7%E5%8F%96%E7%9B%AE%E5%BD%95%E7%9A%84%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84/README.md#1--概述)
+  - [2. 💻 demos.1 - 对比：`fs.stat` 和 `fs.lstat`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0070.%20%E6%9F%A5%E7%9C%8B%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5%E4%BF%A1%E6%81%AF/README.md#2--demos1---对比fsstat-和-fslstat)
+- [x] [0059. 获取解析后的绝对路径](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0059.%20%E8%8E%B7%E5%8F%96%E8%A7%A3%E6%9E%90%E5%90%8E%E7%9A%84%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0059.%20%E8%8E%B7%E5%8F%96%E8%A7%A3%E6%9E%90%E5%90%8E%E7%9A%84%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84/README.md#1--概述)
+  - [2. 💻 demos.1 - 获取解析后的绝对路径 `realpathSync`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0059.%20%E8%8E%B7%E5%8F%96%E8%A7%A3%E6%9E%90%E5%90%8E%E7%9A%84%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84/README.md#2--demos1---获取解析后的绝对路径-realpathsync)
 - [x] [0061. fs.constants](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0061.%20fs.constants/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0061.%20fs.constants/README.md#1--概述)
   - [2. 💻 demos.1 - 打印 `fs.constants`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0061.%20fs.constants/README.md#2--demos1---打印-fsconstants)
@@ -329,8 +334,22 @@
   - [5. 📒 `mode` 的使用场景](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0062.%20fs%20%E4%B8%AD%E7%9A%84%20mode/README.md#5--mode-的使用场景)
   - [6. 📒 默认权限](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0062.%20fs%20%E4%B8%AD%E7%9A%84%20mode/README.md#6--默认权限)
   - [7. 📒 注意事项](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0062.%20fs%20%E4%B8%AD%E7%9A%84%20mode/README.md#7--注意事项)
-- [ ] [0073. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20xxx/README.md#1--notes_title)
+
+## 9. os 操作系统模块
+
+- [x] [0073. os 操作系统模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
+  - [2. 📒 `os` 模块常用 API](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--os-模块常用-api)
+    - [2.1. 操作系统信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#21-操作系统信息)
+    - [2.2. CPU 信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#22-cpu-信息)
+    - [2.3. 内存信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#23-内存信息)
+    - [2.4. 网络接口信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#24-网络接口信息)
+    - [2.5. 其他信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#25-其他信息)
+  - [3. 💻 demos.1 - 获取操作系统平台和类型](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#3--demos1---获取操作系统平台和类型)
+  - [4. 💻 demos.2 - 获取 CPU 和内存信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#4--demos2---获取-cpu-和内存信息)
+  - [5. 💻 demos.3 - 获取网络接口信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#5--demos3---获取网络接口信息)
+  - [6. 💻 demos.4 - 获取主机名及运行时间](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#6--demos4---获取主机名及运行时间)
+  - [7. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#7--references)
 - [ ] [0074. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0074.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0074.%20xxx/README.md#1--notes_title)
 - [ ] [0075. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20xxx/README.md)
@@ -386,7 +405,7 @@
 - [ ] [0100. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0100.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0100.%20xxx/README.md#1--notes_title)
 
-## 9. Node.js 核心原理
+## 10. Node.js 核心原理
 
 - [x] [0050. Node.js 生命周期](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#1--概述)
@@ -400,9 +419,9 @@
   - [9. 💼 demos.5 - 练手面试题 - 2](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#9--demos5---练手面试题---2)
   - [10. 🔗 参考资料](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#10--参考资料)
 
-## 10. ⏰ pending
+## 11. ⏰ pending
 
-### 10.1. process
+### 11.1. process
 
 - [ ] [0001. 使用 process 模块来区分不同的操作系统](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README.md)
   - [1. 💻 demos.1 - 通过 process.platform 中记录的当前平台信息来区分不同的操作系统](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README.md#1--demos1---通过-processplatform-中记录的当前平台信息来区分不同的操作系统)
@@ -411,14 +430,14 @@
   - minimist
   - process.argv
 
-### 10.2. crypto
+### 11.2. crypto
 
 - [ ] [0002. crypto 模块中的 hash 工具方法 createHash](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README.md)
   - [1. ⏰ 待整理](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README.md#1--待整理)
 - [ ] [0007. crypto 模块](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README.md)
   - [1. ⏰ 语雀上记录了一些内容，找时间搬运过来。](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README.md#1--语雀上记录了一些内容找时间搬运过来)
 
-### 10.3. 版本管理工具
+### 11.3. 版本管理工具
 
 - [x] [0029. nvm](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#1--概述)
@@ -430,14 +449,14 @@
     - [5.2. macOS/Linux 用户：安装 nvm-sh](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#52-macoslinux-用户安装-nvm-sh)
   - [6. 💻 使用 NVM 管理 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#6--使用-nvm-管理-nodejs-版本)
 
-### 10.4. koa
+### 11.4. koa
 
 - [ ] [0008. koa-send](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0008.%20koa-send/README.md)
   - [1. ⏰ 待搬运](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0008.%20koa-send/README.md#1--待搬运)
 - [ ] [0009. koa-static](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0009.%20koa-static/README.md)
   - [1. ⏰ 待搬运](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0009.%20koa-static/README.md#1--待搬运)
 
-### 10.5. npm 相关
+### 11.5. npm 相关
 
 - [ ] [0012. 使用 nrm 管理 npm 源](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README.md)
   - [1. 📒 使用 nrm 管理 npm 源](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README.md#1--使用-nrm-管理-npm-源)
@@ -498,7 +517,7 @@
   - 知道什么是 npm 内置命令。
   - 对目前（2024年11月6日18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。
 
-### 10.6. nodejs 命令行操作
+### 11.6. nodejs 命令行操作
 
 - [ ] [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md)
   - [1. 📒 npm_lifecycle_script 是什么?](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#1--npm_lifecycle_script-是什么)
@@ -528,14 +547,14 @@
   - [1. 🔗 minimist](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#1--minimist)
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--node-1js-args-如何在-1js-中获取到-args)
 
-### 10.7. net、http、https 网络模块
+### 11.7. net、http、https 网络模块
 
 - [x] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md)
   - [1. 📒 运行 HTTPS 服务的前提条件 - 证书 ➕ 私钥](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#1--运行-https-服务的前提条件---证书--私钥)
   - [2. 📒 安装工具 - OpenSSL](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#2--安装工具---openssl)
   - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
 
-### 10.8. others
+### 11.8. others
 
 - [ ] [0005. 获取 macos 下都安装了哪些应用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README.md)
   - [1. 🔗 links](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README.md#1--links)
