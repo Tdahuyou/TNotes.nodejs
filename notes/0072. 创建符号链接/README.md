@@ -21,8 +21,6 @@
 
 <<< ./demos/1/1.txt {txt}
 
-<<< ./demos/1/1_link.txt {txt}
-
 :::
 
 - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-19-21-31-00.png)
