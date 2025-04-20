@@ -45,8 +45,6 @@
 
 <<< ./demos/1/1.txt {txt}
 
-<<< ./demos/1/1_link.txt {txt}
-
 :::
 
 - **`fs.statSync`**：
