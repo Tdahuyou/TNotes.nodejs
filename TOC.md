@@ -1,7 +1,7 @@
 # nodejs
 
 
-## 1. Node.js 学习资源
+## 1. 学习资源
 
 ### 1.1. 概述
 
@@ -72,15 +72,12 @@
 - [x] [0036. 谁在使用 Node.js](https://tdahuyou.github.io/TNotes.nodejs/notes/0036.%20%E8%B0%81%E5%9C%A8%E4%BD%BF%E7%94%A8%20Node.js/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0036.%20%E8%B0%81%E5%9C%A8%E4%BD%BF%E7%94%A8%20Node.js/README#1--概述)
   - [2. 🌟 使用 Node.js 的知名公司](https://tdahuyou.github.io/TNotes.nodejs/notes/0036.%20%E8%B0%81%E5%9C%A8%E4%BD%BF%E7%94%A8%20Node.js/README#2--使用-nodejs-的知名公司)
-
-## 3. Hello World
-
 - [x] [0037. 第一个 Node.js 服务器程序 - Hello World](https://tdahuyou.github.io/TNotes.nodejs/notes/0037.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Node.js%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%20-%20Hello%20World/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0037.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Node.js%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%20-%20Hello%20World/README#1--概述)
   - [2. 💻 demos.1 - Hello World](https://tdahuyou.github.io/TNotes.nodejs/notes/0037.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Node.js%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%20-%20Hello%20World/README#2--demos1---hello-world)
   - [3. 💻 demos.2 - 如果要响应中文，需要设置编码方式为 UTF-8 来避免乱码的问题](https://tdahuyou.github.io/TNotes.nodejs/notes/0037.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%20Node.js%20%E6%9C%8D%E5%8A%A1%E5%99%A8%E7%A8%8B%E5%BA%8F%20-%20Hello%20World/README#3--demos2---如果要响应中文需要设置编码方式为-utf-8-来避免乱码的问题)
 
-## 4. npm 包管理器
+## 3. npm 包管理器
 
 - [x] [0038. 认识 npm](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README#1--概述)
@@ -143,7 +140,7 @@
   - [5. 📒 `package-lock.json` 会自动生成和更新](https://tdahuyou.github.io/TNotes.nodejs/notes/0043.%20%E8%AE%A4%E8%AF%86%20package-lock.json/README#5--package-lockjson-会自动生成和更新)
   - [6. 📒 注意事项](https://tdahuyou.github.io/TNotes.nodejs/notes/0043.%20%E8%AE%A4%E8%AF%86%20package-lock.json/README#6--注意事项)
 
-## 5. 全局模块
+## 4. 全局模块
 
 - [x] [0044. __filename 和 __dirname](https://tdahuyou.github.io/TNotes.nodejs/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README#1--概述)
@@ -176,7 +173,7 @@
   - [2. 💻 demos.1 - 打印 module 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#2--demos1---打印-module-对象)
   - [3. 💻 demos.2 - 使用 module 对象实现模块化编程](https://tdahuyou.github.io/TNotes.nodejs/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1/README#3--demos2---使用-module-对象实现模块化编程)
 
-## 6. 事件的监听与触发
+## 5. 事件的监听与触发
 
 - [x] [0052. EventEmitter](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20EventEmitter/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20EventEmitter/README#1--概述)
@@ -194,7 +191,7 @@
   - [13. 💻 demos.12 - `setMaxListeners(limit)` 设置可以监听的最大回调函数数量](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20EventEmitter/README#13--demos12---setmaxlistenerslimit-设置可以监听的最大回调函数数量)
   - [14. 🔗 参考资料](https://tdahuyou.github.io/TNotes.nodejs/notes/0052.%20EventEmitter/README#14--参考资料)
 
-## 7. util 工具模块
+## 6. util 工具模块
 
 - [x] [0051. util](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20util/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0051.%20util/README#1--概述)
@@ -212,7 +209,7 @@
   - [4. 💻 demos.2 - 自定义错误优先回调风格函数](https://tdahuyou.github.io/TNotes.nodejs/notes/0054.%20%E9%94%99%E8%AF%AF%E4%BC%98%E5%85%88%E7%9A%84%E5%9B%9E%E8%B0%83%E9%A3%8E%E6%A0%BC/README#4--demos2---自定义错误优先回调风格函数)
   - [5. 💻 demos.3 - `util.promisify(original)` - 转换异步函数的风格](https://tdahuyou.github.io/TNotes.nodejs/notes/0054.%20%E9%94%99%E8%AF%AF%E4%BC%98%E5%85%88%E7%9A%84%E5%9B%9E%E8%B0%83%E9%A3%8E%E6%A0%BC/README#5--demos3---utilpromisifyoriginal---转换异步函数的风格)
 
-## 8. fs 文件系统模块
+## 7. fs 文件系统模块
 
 - [x] [0055. fs 文件系统模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0055.%20fs%20%E6%96%87%E4%BB%B6%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -306,7 +303,7 @@
   - [6. 📒 默认权限](https://tdahuyou.github.io/TNotes.nodejs/notes/0062.%20fs%20%E4%B8%AD%E7%9A%84%20mode/README#6--默认权限)
   - [7. 📒 注意事项](https://tdahuyou.github.io/TNotes.nodejs/notes/0062.%20fs%20%E4%B8%AD%E7%9A%84%20mode/README#7--注意事项)
 
-## 9. os 操作系统模块
+## 8. os 操作系统模块
 
 - [x] [0073. os 操作系统模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0073.%20os%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -330,7 +327,7 @@
   - [5. 💻 demos.3 - 查看电脑的优先级常量](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#5--demos3---查看电脑的优先级常量)
   - [6. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#6--references)
 
-## 10. I/O 流操作
+## 9. I/O 流操作
 
 - [ ] [0075. I、O 流操作概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -389,7 +386,7 @@
 - [ ] [0100. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0100.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0100.%20xxx/README#1--notes_title)
 
-## 11. Node.js 核心原理
+## 10. 核心原理
 
 - [x] [0050. Node.js 生命周期](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#1--概述)
@@ -403,9 +400,9 @@
   - [9. 💼 demos.5 - 练手面试题 - 2](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#9--demos5---练手面试题---2)
   - [10. 🔗 参考资料](https://tdahuyou.github.io/TNotes.nodejs/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README#10--参考资料)
 
-## 12. ⏰ pending
+## 11. ⏰ pending
 
-### 12.1. process
+### 11.1. process
 
 - [ ] [0001. 使用 process 模块来区分不同的操作系统](https://tdahuyou.github.io/TNotes.nodejs/notes/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README)
   - [1. 💻 demos.1 - 通过 process.platform 中记录的当前平台信息来区分不同的操作系统](https://tdahuyou.github.io/TNotes.nodejs/notes/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README#1--demos1---通过-processplatform-中记录的当前平台信息来区分不同的操作系统)
@@ -414,14 +411,14 @@
   - minimist
   - process.argv
 
-### 12.2. crypto
+### 11.2. crypto
 
 - [ ] [0002. crypto 模块中的 hash 工具方法 createHash](https://tdahuyou.github.io/TNotes.nodejs/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README)
   - [1. ⏰ 待整理](https://tdahuyou.github.io/TNotes.nodejs/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README#1--待整理)
 - [ ] [0007. crypto 模块](https://tdahuyou.github.io/TNotes.nodejs/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README)
   - [1. ⏰ 语雀上记录了一些内容，找时间搬运过来。](https://tdahuyou.github.io/TNotes.nodejs/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README#1--语雀上记录了一些内容找时间搬运过来)
 
-### 12.3. 版本管理工具
+### 11.3. 版本管理工具
 
 - [x] [0029. nvm](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README#1--概述)
@@ -433,14 +430,14 @@
     - [5.2. macOS/Linux 用户：安装 nvm-sh](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README#52-macoslinux-用户安装-nvm-sh)
   - [6. 💻 使用 NVM 管理 Node.js 版本](https://tdahuyou.github.io/TNotes.nodejs/notes/0029.%20nvm/README#6--使用-nvm-管理-nodejs-版本)
 
-### 12.4. koa
+### 11.4. koa
 
 - [ ] [0008. koa-send](https://tdahuyou.github.io/TNotes.nodejs/notes/0008.%20koa-send/README)
   - [1. ⏰ 待搬运](https://tdahuyou.github.io/TNotes.nodejs/notes/0008.%20koa-send/README#1--待搬运)
 - [ ] [0009. koa-static](https://tdahuyou.github.io/TNotes.nodejs/notes/0009.%20koa-static/README)
   - [1. ⏰ 待搬运](https://tdahuyou.github.io/TNotes.nodejs/notes/0009.%20koa-static/README#1--待搬运)
 
-### 12.5. npm 相关
+### 11.5. npm 相关
 
 - [ ] [0012. 使用 nrm 管理 npm 源](https://tdahuyou.github.io/TNotes.nodejs/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README)
   - [1. 📒 使用 nrm 管理 npm 源](https://tdahuyou.github.io/TNotes.nodejs/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README#1--使用-nrm-管理-npm-源)
@@ -501,7 +498,7 @@
   - 知道什么是 npm 内置命令。
   - 对目前（2024年11月6日18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。
 
-### 12.6. nodejs 命令行操作
+### 11.6. nodejs 命令行操作
 
 - [ ] [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://tdahuyou.github.io/TNotes.nodejs/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README)
   - [1. 📒 npm_lifecycle_script 是什么?](https://tdahuyou.github.io/TNotes.nodejs/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README#1--npm_lifecycle_script-是什么)
@@ -531,14 +528,14 @@
   - [1. 🔗 minimist](https://tdahuyou.github.io/TNotes.nodejs/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README#1--minimist)
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://tdahuyou.github.io/TNotes.nodejs/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README#2--node-1js-args-如何在-1js-中获取到-args)
 
-### 12.7. net、http、https 网络模块
+### 11.7. net、http、https 网络模块
 
 - [x] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README)
   - [1. 📒 运行 HTTPS 服务的前提条件 - 证书 ➕ 私钥](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#1--运行-https-服务的前提条件---证书--私钥)
   - [2. 📒 安装工具 - OpenSSL](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#2--安装工具---openssl)
   - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
 
-### 12.8. others
+### 11.8. others
 
 - [ ] [0005. 获取 macos 下都安装了哪些应用](https://tdahuyou.github.io/TNotes.nodejs/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README)
   - [1. 🔗 links](https://tdahuyou.github.io/TNotes.nodejs/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README#1--links)
