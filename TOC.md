@@ -327,7 +327,7 @@
   - [5. 💻 demos.3 - 查看电脑的优先级常量](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#5--demos3---查看电脑的优先级常量)
   - [6. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#6--references)
 
-## 9. I/O 流操作
+## 9. I/O 流操作 ⏰
 
 - [ ] [0075. I、O 流操作概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -335,8 +335,8 @@
   - [3. 📒 可写流（Writable Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#3--可写流writable-stream)
   - [4. 📒 双工流（Duplex Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#4--双工流duplex-stream)
   - [5. 📒 转换流（Transform Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#5--转换流transform-stream)
-- [ ] [0076. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0076.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0076.%20xxx/README#1--notes_title)
+- [ ] [0076. exec vs. spawn](https://tdahuyou.github.io/TNotes.nodejs/notes/0076.%20exec%20vs.%20spawn/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0076.%20exec%20vs.%20spawn/README#1--概述)
 - [ ] [0077. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20xxx/README#1--notes_title)
 - [ ] [0078. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0078.%20xxx/README)

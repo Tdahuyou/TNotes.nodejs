@@ -16,7 +16,7 @@
   - [6. util 工具模块](#6-util-工具模块)
   - [7. fs 文件系统模块](#7-fs-文件系统模块)
   - [8. os 操作系统模块](#8-os-操作系统模块)
-  - [9. I/O 流操作](#9-io-流操作)
+  - [9. I/O 流操作 ⏰](#9-io-流操作-)
   - [10. 核心原理](#10-核心原理)
   - [11. ⏰ pending](#11--pending)
     - [11.1. process](#111-process)
@@ -356,7 +356,7 @@
   - [5. 💻 demos.3 - 查看电脑的优先级常量](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README.md#5--demos3---查看电脑的优先级常量)
   - [6. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README.md#6--references)
 
-## 9. I/O 流操作
+## 9. I/O 流操作 ⏰
 
 - [ ] [0075. I、O 流操作概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#1--概述)
@@ -364,8 +364,8 @@
   - [3. 📒 可写流（Writable Stream）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#3--可写流writable-stream)
   - [4. 📒 双工流（Duplex Stream）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#4--双工流duplex-stream)
   - [5. 📒 转换流（Transform Stream）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#5--转换流transform-stream)
-- [ ] [0076. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0076.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0076.%20xxx/README.md#1--notes_title)
+- [ ] [0076. exec vs. spawn](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0076.%20exec%20vs.%20spawn/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0076.%20exec%20vs.%20spawn/README.md#1--概述)
 - [ ] [0077. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20xxx/README.md#1--notes_title)
 - [ ] [0078. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0078.%20xxx/README.md)
