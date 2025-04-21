@@ -26,7 +26,9 @@
   - 提取路径中的不同部分（如目录名、文件名、扩展名等）。
   - 拼接路径片段。
   - 判断路径是否为绝对路径。
-- **跨平台注意事项**：
+- **注意事项**：
+  - `path` 模块关注的是路径的处理，它 care 路径是否真实有效，比如你随便传递一个 `foo/bar` 不存在的路径，`path` 模块也能正常工作，并不会报错。
+- **跨平台**：
   - 为了更好地支持跨平台开发，`path` 模块提供了两个子模块：`path.posix` 和 `path.win32`
   - **`path.posix`**：强制使用 POSIX 风格的路径（适用于 Unix/Linux 系统）。
   - **`path.win32`**：强制使用 Windows 风格的路径。
@@ -82,6 +84,8 @@
 
 <<< ./demos/5/1.cjs {js}
 
+<<< ./demos/5/2.cjs {js}
+
 :::
 
 ## 7. 💻 demos.6 - `path.isAbsolute(path)`
@@ -97,6 +101,12 @@
 ::: code-group
 
 <<< ./demos/7/1.cjs {js}
+
+<<< ./demos/7/2.cjs {js}
+
+<<< ./demos/7/ParsedPath.ts {ts} [ParsedPath]
+
+<<< ./demos/7/FormatInputPathObject.ts {ts} [FormatInputPathObject]
 
 :::
 
