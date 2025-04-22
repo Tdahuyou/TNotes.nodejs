@@ -18,8 +18,8 @@
   - [8. path 路径处理模块](#8-path-路径处理模块)
   - [9. os 操作系统模块](#9-os-操作系统模块)
   - [10. net、http、https 网络模块](#10-nethttphttps-网络模块)
-  - [11. I/O 流操作 💪](#11-io-流操作-)
-  - [12. Web 应用构建基础 💪](#12-web-应用构建基础-)
+  - [11. I/O 流操作 ⏰](#11-io-流操作-)
+  - [12. Web 应用构建基础 ⏰](#12-web-应用构建基础-)
   - [13. 数据库基础知识 💪](#13-数据库基础知识-)
   - [14. 核心原理](#14-核心原理)
   - [15. ⏰ pending](#15--pending)
@@ -384,7 +384,7 @@
   - [4. 💻 demos.3 - 实现一个简单的 web 服务 - 向浏览器响应图片](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#4--demos3---实现一个简单的-web-服务---向浏览器响应图片)
   - [5. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#5--references)
 
-## 11. I/O 流操作 💪
+## 11. I/O 流操作 ⏰
 
 - [ ] [0075. I、O 流操作概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#1--概述)
@@ -393,7 +393,7 @@
   - [4. 📒 双工流（Duplex Stream）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#4--双工流duplex-stream)
   - [5. 📒 转换流（Transform Stream）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#5--转换流transform-stream)
 
-## 12. Web 应用构建基础 💪
+## 12. Web 应用构建基础 ⏰
 
 ## 13. 数据库基础知识 💪
 
