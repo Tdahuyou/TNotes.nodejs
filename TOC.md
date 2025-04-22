@@ -342,7 +342,7 @@
   - [5. 💻 demos.3 - 查看电脑的优先级常量](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#5--demos3---查看电脑的优先级常量)
   - [6. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#6--references)
 
-## 10. net、http、https 网络模块
+## 10. net、http、https 网络模块 💪
 
 - [ ] [0077. net 模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -350,27 +350,8 @@
   - [3. 💻 demos.2 - 模拟 http 请求](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#3--demos2---模拟-http-请求)
   - [4. 💻 demos.3 - 实现一个简单的 web 服务 - 向浏览器响应图片](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#4--demos3---实现一个简单的-web-服务---向浏览器响应图片)
   - [5. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#5--references)
-
-## 11. I/O 流操作 ⏰
-
-- [ ] [0075. I、O 流操作概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README)
-  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#1--概述)
-  - [2. 📒 可读流（Readable Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#2--可读流readable-stream)
-  - [3. 📒 可写流（Writable Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#3--可写流writable-stream)
-  - [4. 📒 双工流（Duplex Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#4--双工流duplex-stream)
-  - [5. 📒 转换流（Transform Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#5--转换流transform-stream)
-
-## 12. Web 应用构建基础 ⏰
-
-## 13. 数据库基础知识 💪
-
-- [ ] [0079. 表之间的关系](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README)
-  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#1--概述)
-  - [2. 📒 一对一关系 (One-to-One)](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#2--一对一关系-one-to-one)
-  - [3. 📒 一对多关系 (One-to-Many)](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#3--一对多关系-one-to-many)
-  - [4. 📒 多对多关系 (Many-to-Many)](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#4--多对多关系-many-to-many)
-- [ ] [0080. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20xxx/README#1--notes_title)
+- [ ] [0080. http 模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
 - [ ] [0081. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20xxx/README#1--notes_title)
 - [ ] [0082. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0082.%20xxx/README)
@@ -411,6 +392,25 @@
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0099.%20xxx/README#1--notes_title)
 - [ ] [0100. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0100.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0100.%20xxx/README#1--notes_title)
+
+## 11. I/O 流操作 ⏰
+
+- [ ] [0075. I、O 流操作概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#1--概述)
+  - [2. 📒 可读流（Readable Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#2--可读流readable-stream)
+  - [3. 📒 可写流（Writable Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#3--可写流writable-stream)
+  - [4. 📒 双工流（Duplex Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#4--双工流duplex-stream)
+  - [5. 📒 转换流（Transform Stream）](https://tdahuyou.github.io/TNotes.nodejs/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README#5--转换流transform-stream)
+
+## 12. Web 应用构建基础 ⏰
+
+## 13. 数据库基础知识 💪
+
+- [ ] [0079. 表之间的关系](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#1--概述)
+  - [2. 📒 一对一关系 (One-to-One)](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#2--一对一关系-one-to-one)
+  - [3. 📒 一对多关系 (One-to-Many)](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#3--一对多关系-one-to-many)
+  - [4. 📒 多对多关系 (Many-to-Many)](https://tdahuyou.github.io/TNotes.nodejs/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README#4--多对多关系-many-to-many)
 
 ## 14. 核心原理
 
