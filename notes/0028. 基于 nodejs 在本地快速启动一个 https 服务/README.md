@@ -5,6 +5,7 @@
 - [1. 📒 概述](#1--概述)
 - [2. 💻 安装工具 - OpenSSL](#2--安装工具---openssl)
 - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
+- [4. 🔍 如何让浏览器相信本地 HTTPS 服务是安全的](#4--如何让浏览器相信本地-https-服务是安全的)
 
 <!-- endregion:toc -->
 
@@ -26,10 +27,7 @@
 - macOS: `brew install openssl`
 - Windows: 下载并安装 [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html)。
 - Linux: `sudo apt-get install openssl`
-- 验证 openssl 是否安装成功：
-  ```bash
-  openssl version
-  ```
+- 验证 openssl 是否安装成功：`openssl version`
   - ![](assets/2025-02-15-10-27-44.png)
   - 如果在终端执行上述命令 `openssl version` 之后，打印出了版本信息，那么意味着你的电脑上已经安装好了 openssl，并且环境变量也已经配置好了，接下来就可以正常使用了。
 
@@ -85,11 +83,19 @@ node server.js
 
 - 最终效果：
 
-::: swiper ![](assets/2025-02-15-10-36-58.png) ![](assets/2025-02-15-10-37-02.png) ![](assets/2025-02-15-10-37-07.png) :::
+::: swiper
+
+![](assets/2025-02-15-10-36-58.png)
+
+![](assets/2025-02-15-10-37-02.png)
+
+![](assets/2025-02-15-10-37-07.png)
+
+:::
 
 > 会发现 Chrome 浏览器会提示这个链接是不安全的，有些业务可能必须要求得是 HTTPS 服务，并且要求浏览器不能有安全警告（否则某些浏览器提供的 API 的使用可能会受限）。
 
-::: details 【 🔍 关于如何让浏览器相信本地 HTTPS 服务是安全的说明】
+## 4. 🔍 如何让浏览器相信本地 HTTPS 服务是安全的
 
 - [allow-insecure-localhost has been removed as of Chrome 119](https://support.google.com/chrome/thread/241869686/allow-insecure-localhost-has-been-removed-as-of-chrome-119?hl=en)
 - 这是 chrome 社区中的一篇文章，提到了在 chrome 119 版本之后，不允许使用自签名证书。有很多开发者吐槽这一配置的移除对他们开发造成的影响很大。

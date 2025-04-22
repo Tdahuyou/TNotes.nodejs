@@ -356,6 +356,7 @@
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#1--概述)
   - [2. 💻 安装工具 - OpenSSL](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#2--安装工具---openssl)
   - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
+  - [4. 🔍 如何让浏览器相信本地 HTTPS 服务是安全的](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#4--如何让浏览器相信本地-https-服务是安全的)
 - [ ] [0081. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20xxx/README#1--notes_title)
 - [ ] [0082. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0082.%20xxx/README)
