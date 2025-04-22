@@ -2,25 +2,26 @@
 
 <!-- region:toc -->
 
-- [1. 📒 运行 HTTPS 服务的前提条件 - 证书 ➕ 私钥](#1--运行-https-服务的前提条件---证书--私钥)
-- [2. 📒 安装工具 - OpenSSL](#2--安装工具---openssl)
+- [1. 📒 概述](#1--概述)
+- [2. 💻 安装工具 - OpenSSL](#2--安装工具---openssl)
 - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
 
 <!-- endregion:toc -->
 
-## 1. 📒 运行 HTTPS 服务的前提条件 - 证书 ➕ 私钥
+## 1. 📒 概述
 
+- **运行 HTTPS 服务的前提条件 - 证书 ➕ 私钥**
 - 要运行 HTTPS 服务，需要以下两样东西：
   - **SSL/TLS 证书**：用于加密通信。
   - **私钥**：与证书配对，用于身份验证。
 - 我们可以使用以下两种方式获取证书和私钥：
   - 1️⃣ **自签名证书**（适合本地开发）：
-     - 使用工具生成自签名证书（如 `openssl`）。
-     - 这篇笔记主要介绍的是通过 openssl 来生成自签名证书的方式来创建 HTTPS 服务。
+    - 使用工具生成自签名证书（如 `openssl`）。
+    - 这篇笔记主要介绍的是通过 openssl 来生成自签名证书的方式来创建 HTTPS 服务。
   - 2️⃣ **正式证书**（适合生产环境）：
-     - 从受信任的证书颁发机构（CA）获取证书。
+    - 从受信任的证书颁发机构（CA）获取证书。
 
-## 2. 📒 安装工具 - OpenSSL
+## 2. 💻 安装工具 - OpenSSL
 
 - macOS: `brew install openssl`
 - Windows: 下载并安装 [OpenSSL](https://slproweb.com/products/Win32OpenSSL.html)。
@@ -84,22 +85,19 @@ node server.js
 
 - 最终效果：
 
-::: swiper
-![](assets/2025-02-15-10-36-58.png)
-![](assets/2025-02-15-10-37-02.png)
-![](assets/2025-02-15-10-37-07.png)
-:::
+::: swiper ![](assets/2025-02-15-10-36-58.png) ![](assets/2025-02-15-10-37-02.png) ![](assets/2025-02-15-10-37-07.png) :::
 
 > 会发现 Chrome 浏览器会提示这个链接是不安全的，有些业务可能必须要求得是 HTTPS 服务，并且要求浏览器不能有安全警告（否则某些浏览器提供的 API 的使用可能会受限）。
 
 ::: details 【 🔍 关于如何让浏览器相信本地 HTTPS 服务是安全的说明】
+
 - [allow-insecure-localhost has been removed as of Chrome 119](https://support.google.com/chrome/thread/241869686/allow-insecure-localhost-has-been-removed-as-of-chrome-119?hl=en)
 - 这是 chrome 社区中的一篇文章，提到了在 chrome 119 版本之后，不允许使用自签名证书。有很多开发者吐槽这一配置的移除对他们开发造成的影响很大。
 - 解决方案：
+
   - 手动降低 chrome 的版本，开启 `chrome://flags/#allow-insecure-localhost` 配置。
   - 改用 Firefox 貌似也可以。
-  - 也可以尝试修改证书配置，让计算机相信上述自建的证书是安全的。
-:::
+  - 也可以尝试修改证书配置，让计算机相信上述自建的证书是安全的。 :::
 
 - 在生成证书的时候，会提示填写相关参数：
   - 在生成自签名证书时，`openssl` 会提示你输入一些关于证书的信息。
