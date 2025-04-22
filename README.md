@@ -386,6 +386,7 @@
   - [8. 💻 demos.7 - `path.parse(path)` 和 `path.format(pathObject)`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0078.%20path%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#8--demos7---pathparsepath-和-pathformatpathobject)
   - [9. 💻 demos.8 - `path.normalize(path)`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0078.%20path%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#9--demos8---pathnormalizepath)
   - [10. 💻 demos.9 - `path.posix` 和 `path.win32`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0078.%20path%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#10--demos9---pathposix-和-pathwin32)
+  - [11. 💻 demos.10 - `path.relative(from, to)`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0078.%20path%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#11--demos10---pathrelativefrom-to)
 
 ## 11. 数据库基础知识 💪
 
