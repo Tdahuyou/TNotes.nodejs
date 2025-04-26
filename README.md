@@ -18,18 +18,19 @@
   - [8. path 路径处理模块](#8-path-路径处理模块)
   - [9. os 操作系统模块](#9-os-操作系统模块)
   - [10. net、http、https 网络模块 💪](#10-nethttphttps-网络模块-)
-  - [11. I/O 流操作 ⏰](#11-io-流操作-)
-  - [12. Web 应用构建基础 ⏰](#12-web-应用构建基础-)
-  - [13. 数据库基础知识 💪](#13-数据库基础知识-)
-  - [14. 核心原理](#14-核心原理)
-  - [15. ⏰ pending](#15--pending)
-    - [15.1. process](#151-process)
-    - [15.2. crypto](#152-crypto)
-    - [15.3. 版本管理工具](#153-版本管理工具)
-    - [15.4. koa](#154-koa)
-    - [15.5. npm 相关](#155-npm-相关)
-    - [15.6. nodejs 命令行操作](#156-nodejs-命令行操作)
-    - [15.7. others](#157-others)
+  - [11. url 模块](#11-url-模块)
+  - [12. I/O 流操作 ⏰](#12-io-流操作-)
+  - [13. Web 应用构建基础 ⏰](#13-web-应用构建基础-)
+  - [14. 数据库基础知识 💪](#14-数据库基础知识-)
+  - [15. 核心原理](#15-核心原理)
+  - [16. ⏰ pending](#16--pending)
+    - [16.1. process](#161-process)
+    - [16.2. crypto](#162-crypto)
+    - [16.3. 版本管理工具](#163-版本管理工具)
+    - [16.4. koa](#164-koa)
+    - [16.5. npm 相关](#165-npm-相关)
+    - [16.6. nodejs 命令行操作](#166-nodejs-命令行操作)
+    - [16.7. others](#167-others)
 
 <!-- endregion:toc -->
 
@@ -399,8 +400,13 @@
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#1--概述)
   - [2. 💻 demos.1 - 基于 http 模块实现的一个简单的静态资源服务](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#2--demos1---基于-http-模块实现的一个简单的静态资源服务)
   - [3. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#3--references)
-- [ ] [0082. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20xxx/README.md#1--notes_title)
+
+## 11. url 模块
+
+- [x] [0082. url 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
+  - [2. 💻 demos.1 - `url` 模块核心方法 `url.parse`、`url.format`、`url.resolve`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--demos1---url-模块核心方法-urlparseurlformaturlresolve)
+  - [3. 💻 demos.2 - 新版 URL API](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#3--demos2---新版-url-api)
 - [ ] [0083. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20xxx/README.md#1--notes_title)
 - [ ] [0084. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0084.%20xxx/README.md)
@@ -438,7 +444,7 @@
 - [ ] [0100. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0100.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0100.%20xxx/README.md#1--notes_title)
 
-## 11. I/O 流操作 ⏰
+## 12. I/O 流操作 ⏰
 
 - [ ] [0075. I、O 流操作概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#1--概述)
@@ -447,9 +453,9 @@
   - [4. 📒 双工流（Duplex Stream）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#4--双工流duplex-stream)
   - [5. 📒 转换流（Transform Stream）](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0/README.md#5--转换流transform-stream)
 
-## 12. Web 应用构建基础 ⏰
+## 13. Web 应用构建基础 ⏰
 
-## 13. 数据库基础知识 💪
+## 14. 数据库基础知识 💪
 
 - [ ] [0079. 表之间的关系](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README.md#1--概述)
@@ -457,7 +463,7 @@
   - [3. 📒 一对多关系 (One-to-Many)](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README.md#3--一对多关系-one-to-many)
   - [4. 📒 多对多关系 (Many-to-Many)](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0079.%20%E8%A1%A8%E4%B9%8B%E9%97%B4%E7%9A%84%E5%85%B3%E7%B3%BB/README.md#4--多对多关系-many-to-many)
 
-## 14. 核心原理
+## 15. 核心原理
 
 - [x] [0050. Node.js 生命周期](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#1--概述)
@@ -471,9 +477,9 @@
   - [9. 💼 demos.5 - 练手面试题 - 2](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#9--demos5---练手面试题---2)
   - [10. 🔗 参考资料](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/README.md#10--参考资料)
 
-## 15. ⏰ pending
+## 16. ⏰ pending
 
-### 15.1. process
+### 16.1. process
 
 - [ ] [0001. 使用 process 模块来区分不同的操作系统](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README.md)
   - [1. 💻 demos.1 - 通过 process.platform 中记录的当前平台信息来区分不同的操作系统](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0001.%20%E4%BD%BF%E7%94%A8%20process%20%E6%A8%A1%E5%9D%97%E6%9D%A5%E5%8C%BA%E5%88%86%E4%B8%8D%E5%90%8C%E7%9A%84%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/README.md#1--demos1---通过-processplatform-中记录的当前平台信息来区分不同的操作系统)
@@ -482,14 +488,14 @@
   - minimist
   - process.argv
 
-### 15.2. crypto
+### 16.2. crypto
 
 - [ ] [0002. crypto 模块中的 hash 工具方法 createHash](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README.md)
   - [1. ⏰ 待整理](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash/README.md#1--待整理)
 - [ ] [0007. crypto 模块](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README.md)
   - [1. ⏰ 语雀上记录了一些内容，找时间搬运过来。](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97/README.md#1--语雀上记录了一些内容找时间搬运过来)
 
-### 15.3. 版本管理工具
+### 16.3. 版本管理工具
 
 - [x] [0029. nvm](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#1--概述)
@@ -501,14 +507,14 @@
     - [5.2. macOS/Linux 用户：安装 nvm-sh](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#52-macoslinux-用户安装-nvm-sh)
   - [6. 💻 使用 NVM 管理 Node.js 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm/README.md#6--使用-nvm-管理-nodejs-版本)
 
-### 15.4. koa
+### 16.4. koa
 
 - [ ] [0008. koa-send](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0008.%20koa-send/README.md)
   - [1. ⏰ 待搬运](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0008.%20koa-send/README.md#1--待搬运)
 - [ ] [0009. koa-static](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0009.%20koa-static/README.md)
   - [1. ⏰ 待搬运](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0009.%20koa-static/README.md#1--待搬运)
 
-### 15.5. npm 相关
+### 16.5. npm 相关
 
 - [ ] [0012. 使用 nrm 管理 npm 源](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README.md)
   - [1. 📒 使用 nrm 管理 npm 源](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90/README.md#1--使用-nrm-管理-npm-源)
@@ -569,7 +575,7 @@
   - 知道什么是 npm 内置命令。
   - 对目前（2024年11月6日18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。
 
-### 15.6. nodejs 命令行操作
+### 16.6. nodejs 命令行操作
 
 - [ ] [0003. 使用 npm_lifecycle_script 获取当前运行的 nodejs 命令](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md)
   - [1. 📒 npm_lifecycle_script 是什么?](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0003.%20%E4%BD%BF%E7%94%A8%20npm_lifecycle_script%20%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%BF%90%E8%A1%8C%E7%9A%84%20nodejs%20%E5%91%BD%E4%BB%A4/README.md#1--npm_lifecycle_script-是什么)
@@ -599,7 +605,7 @@
   - [1. 🔗 minimist](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#1--minimist)
   - [2. 🤖 `node 1.js args` 如何在 1.js 中获取到 args？](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/README.md#2--node-1js-args-如何在-1js-中获取到-args)
 
-### 15.7. others
+### 16.7. others
 
 - [ ] [0005. 获取 macos 下都安装了哪些应用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README.md)
   - [1. 🔗 links](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8/README.md#1--links)
