@@ -8,7 +8,7 @@
 - [4. 💻 demos.3 - 响应 html 文件](#4--demos3---响应-html-文件)
 - [5. 💻 demos.4 - 响应媒体资源](#5--demos4---响应媒体资源)
 - [6. 💻 demos.5 - 重定向](#6--demos5---重定向)
-- [7. 📒 `request` 对象](#7--request-对象)
+- [7. 💻 demos.6 - `request` 对象](#7--demos6---request-对象)
 
 <!-- endregion:toc -->
 
@@ -87,11 +87,15 @@
 
 <<< ./demos/4/1.cjs {js}
 
-<<< ./demos/4/1.html {html}
-
 :::
 
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-25-11-00-09.png)
+- 最终效果：
+  - 访问：http://127.0.0.1:23523/image
+    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-06-54-02.png)
+  - 访问：http://127.0.0.1:23523/video
+    - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-07-04-25.png)
+- 备注：
+  - 其中 `1.mp4` 是 `0032. 《Node.js 从入门到精通》` 中的视频 `11.3 http 模块.mp4` 的开头部分。
 
 ## 6. 💻 demos.5 - 重定向
 
@@ -99,13 +103,23 @@
 
 <<< ./demos/5/1.cjs {js}
 
-<<< ./demos/5/1.html {html}
-
 :::
 
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-25-11-00-09.png)
+- 访问：http://127.0.0.1:23523
+  - 会自动跳转到 https://tdahuyou.github.io/notes/
+  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-07-58-33.png)
+- `writeHead` 的第一个参数是 `statusCode` 状态码，其数据类型是 `number`。
+- **常见的状态码及其含义**：
 
-## 7. 📒 `request` 对象
+| 状态码 | 说明         | 举例                      |
+| ------ | ------------ | ------------------------- |
+| `1**`  | 处理中       | 100 Continue              |
+| `2**`  | 成功         | 200 OK                    |
+| `3**`  | 重定向       | 302 Temporarily Moved     |
+| `4**`  | 客户端错误   | 400 Bad Request           |
+| `5**`  | 服务器端错误 | 500 Internal Server Error |
+
+## 7. 💻 demos.6 - `request` 对象
 
 - `request` 对象用于处理客户端请求。
 - 主要属性：
@@ -114,5 +128,21 @@
   - `headers`：请求头对象。
 - 主要方法：
   - `on(event, listener)`：监听请求事件。
-    - `event`：事件名称。
+    - `event`：事件名称，比如 `data`、`end` 等。
     - `listener`：事件处理函数。
+
+::: code-group
+
+<<< ./demos/6/1.cjs {js 11,16-27}
+
+<<< ./demos/6/1.html {html}
+
+:::
+
+- 测试：
+  - 用户名：`111`
+  - 密码：`222`
+  - 记住密码：`是`
+  - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-08-42-17.png)
+  - 点击【登录】后：
+  - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-08-42-24.png)

@@ -1,4 +1,4 @@
-const fs = require('fs').promises
+const fs = require('fs')
 const http = require('http')
 const path = require('path')
 
@@ -14,7 +14,7 @@ http
       contentType = 'image/png'
     } else if (request.url === '/video') {
       filePath = path.join(__dirname, '1.mp4')
-      contentType = 'video/mpeg4'
+      contentType = 'video/mp4'
     } else {
       response.writeHead(404, { 'Content-Type': 'text/plain' })
       response.end('Not Found')
@@ -22,13 +22,32 @@ http
     }
 
     try {
-      const data = await fs.readFile(filePath)
-      response.writeHead(200, { 'Content-Type': contentType })
-      response.end(data)
+      // 获取文件元信息
+      const stat = await fs.promises.stat(filePath)
+      const fileSize = stat.size
+
+      // 设置响应头
+      response.writeHead(200, {
+        'Content-Length': fileSize,
+        'Content-Type': contentType,
+      })
+
+      // 创建文件流并将其管道传输到响应对象
+      const fileStream = fs.createReadStream(filePath)
+      fileStream.on('error', (err) => {
+        console.error('文件流读取错误:', err.message)
+        if (!response.headersSent) {
+          response.writeHead(500, { 'Content-Type': 'text/plain' })
+          response.end('Internal Server Error')
+        }
+      })
+      fileStream.pipe(response)
     } catch (error) {
-      response.writeHead(500, { 'Content-Type': 'text/plain' })
-      response.end('Internal Server Error')
-      console.error(error)
+      console.error('文件元信息获取错误:', error.message)
+      if (!response.headersSent) {
+        response.writeHead(500, { 'Content-Type': 'text/plain' })
+        response.end('Internal Server Error')
+      }
     }
   })
   .listen(PORT, () => {
