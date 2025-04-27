@@ -18,7 +18,7 @@
   - [8. path 路径处理模块](#8-path-路径处理模块)
   - [9. os 操作系统模块](#9-os-操作系统模块)
   - [10. net、http、https 网络模块 💪](#10-nethttphttps-网络模块-)
-  - [11. url 模块](#11-url-模块)
+  - [11. url 模块 💪](#11-url-模块-)
   - [12. I/O 流操作 ⏰](#12-io-流操作-)
   - [13. Web 应用构建基础 ⏰](#13-web-应用构建基础-)
   - [14. 数据库基础知识 💪](#14-数据库基础知识-)
@@ -401,14 +401,17 @@
   - [2. 💻 demos.1 - 基于 http 模块实现的一个简单的静态资源服务](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#2--demos1---基于-http-模块实现的一个简单的静态资源服务)
   - [3. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#3--references)
 
-## 11. url 模块
+## 11. url 模块 💪
 
 - [x] [0082. url 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
   - [2. 💻 demos.1 - `url` 模块核心方法 `url.parse`、`url.format`、`url.resolve`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--demos1---url-模块核心方法-urlparseurlformaturlresolve)
   - [3. 💻 demos.2 - 新版 URL API](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#3--demos2---新版-url-api)
-- [ ] [0083. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20xxx/README.md)
-  - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20xxx/README.md#1--notes_title)
+  - [4. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#4--references)
+- [x] [0083. querystring 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
+  - [2. 💻 demos.1 - `querystring` 基本使用 - `parse`、`stringify`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--demos1---querystring-基本使用---parsestringify)
+  - [3. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#3--references)
 - [ ] [0084. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0084.%20xxx/README.md)
   - [1. 📒 notes_title](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0084.%20xxx/README.md#1--notes_title)
 - [ ] [0085. xxx](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0085.%20xxx/README.md)

@@ -5,6 +5,7 @@
 - [1. 📒 概述](#1--概述)
 - [2. 💻 demos.1 - `url` 模块核心方法 `url.parse`、`url.format`、`url.resolve`](#2--demos1---url-模块核心方法-urlparseurlformaturlresolve)
 - [3. 💻 demos.2 - 新版 URL API](#3--demos2---新版-url-api)
+- [4. 🔗 References](#4--references)
 
 <!-- endregion:toc -->
 
@@ -85,5 +86,13 @@
 <<< ./demos/2/1.cjs {js} [解析 url]
 
 <<< ./demos/2/2.cjs {js} [操作查询参数]
+
+:::
+
+## 4. 🔗 References
+
+::: details
+
+- https://nodejs.org/api/url.html
 
 :::
