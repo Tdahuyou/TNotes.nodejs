@@ -55,13 +55,13 @@
   - [2. 📂 本书对应学习资源](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0032.%20%E3%80%8ANode.js%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A%E3%80%8B/README.md#2--本书对应学习资源)
 - [x] [0015. 《深入浅出 Node.js》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0015.%20%E3%80%8A%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%20Node.js%E3%80%8B/README.md#1--概述)
-- [x] [0016. 《Node.js来一打C++扩展》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md)
+- [x] [0016. 《Node.js 来一打 C++扩展》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B/README.md#1--概述)
-- [x] [0017. 《Node与Express开发》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md)
+- [x] [0017. 《Node 与 Express 开发》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0017.%20%E3%80%8ANode%E4%B8%8EExpress%E5%BC%80%E5%8F%91%E3%80%8B/README.md#1--概述)
-- [x] [0018. 《Node.js开发指南》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md)
+- [x] [0018. 《Node.js 开发指南》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0018.%20%E3%80%8ANode.js%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97%E3%80%8B/README.md#1--概述)
-- [x] [0019. 《了不起的Node js 将JavaScript进行到底》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md)
+- [x] [0019. 《了不起的 Node js 将 JavaScript 进行到底》](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0019.%20%E3%80%8A%E4%BA%86%E4%B8%8D%E8%B5%B7%E7%9A%84Node%20js%20%E5%B0%86JavaScript%E8%BF%9B%E8%A1%8C%E5%88%B0%E5%BA%95%E3%80%8B/README.md#1--概述)
 
 ### 1.4. Node.js 掘金小册
@@ -175,7 +175,7 @@
 
 ## 4. 全局模块
 
-- [x] [0044. __filename 和 __dirname](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README.md)
+- [x] [0044. **filename 和 **dirname](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README.md#1--概述)
   - [2. 💻 demos.1 - 打印 `__filename` 和 `__dirname`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname/README.md#2--demos1---打印-__filename-和-__dirname)
 - [x] [0045. console](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0045.%20console/README.md)
@@ -375,7 +375,9 @@
   - [5. 💻 demos.3 - 查看电脑的优先级常量](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README.md#5--demos3---查看电脑的优先级常量)
   - [6. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README.md#6--references)
 
-## 10. net、http、https 网络模块 💪
+## 10. 网络相关模块
+
+### net
 
 - [ ] [0077. net 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
@@ -383,6 +385,9 @@
   - [3. 💻 demos.2 - 模拟 http 请求](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#3--demos2---模拟-http-请求)
   - [4. 💻 demos.3 - 实现一个简单的 web 服务 - 向浏览器响应图片](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#4--demos3---实现一个简单的-web-服务---向浏览器响应图片)
   - [5. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#5--references)
+
+### http
+
 - [x] [0080. http 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
   - [2. 💻 demos.1 - `server` 对象](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--demos1---server-对象)
@@ -391,23 +396,29 @@
   - [5. 💻 demos.4 - 响应媒体资源](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#5--demos4---响应媒体资源)
   - [6. 💻 demos.5 - 重定向](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#6--demos5---重定向)
   - [7. 💻 demos.6 - `request` 对象](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#7--demos6---request-对象)
-- [x] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md)
-  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#1--概述)
-  - [2. 💻 安装工具 - OpenSSL](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#2--安装工具---openssl)
-  - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
-  - [4. 🔍 如何让浏览器相信本地 HTTPS 服务是安全的](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#4--如何让浏览器相信本地-https-服务是安全的)
 - [ ] [0081. 基于 http 模块实现一个简单的静态资源服务器](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#1--概述)
   - [2. 💻 demos.1 - 基于 http 模块实现的一个简单的静态资源服务](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#2--demos1---基于-http-模块实现的一个简单的静态资源服务)
   - [3. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README.md#3--references)
 
-## 11. url 模块 💪
+### https
+
+- [x] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md)
+  - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#1--概述)
+  - [2. 💻 安装工具 - OpenSSL](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#2--安装工具---openssl)
+  - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
+  - [4. 🔍 如何让浏览器相信本地 HTTPS 服务是安全的](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README.md#4--如何让浏览器相信本地-https-服务是安全的)
+
+### 11. url
 
 - [x] [0082. url 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
   - [2. 💻 demos.1 - `url` 模块核心方法 `url.parse`、`url.format`、`url.resolve`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--demos1---url-模块核心方法-urlparseurlformaturlresolve)
   - [3. 💻 demos.2 - 新版 URL API](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#3--demos2---新版-url-api)
   - [4. 🔗 References](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#4--references)
+
+### querystring
+
 - [x] [0083. querystring 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md)
   - [1. 📒 概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#1--概述)
   - [2. 💻 demos.1 - `querystring` 基本使用 - `parse`、`stringify`](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README.md#2--demos1---querystring-基本使用---parsestringify)
@@ -538,7 +549,7 @@
     - `nvm use <version>` 使用指定版本的 nodejs。
   - nodejs 查看当前版本
     - `node -v`
-    - 也可以通过 `nvm ls` 来查看，前面带有星号 * 的版本为当前使用的版本。
+    - 也可以通过 `nvm ls` 来查看，前面带有星号 \* 的版本为当前使用的版本。
   - 官方文档的 README.md 内容很全，详细介绍可以参考官方文档。
 - [ ] [0010. npm 生命周期 prepublish](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish/README.md)
   - [1. 💻 demos.1 - npm 生命周期 prepublish 的基本使用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish/README.md#1--demos1---npm-生命周期-prepublish-的基本使用)
@@ -576,7 +587,7 @@
   - [4. 📒 内置命令列表](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0023.%20npm%20%E5%86%85%E7%BD%AE%E5%91%BD%E4%BB%A4/README.md#4--内置命令列表)
   - [5. 📒 常见内置命令分类](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0023.%20npm%20%E5%86%85%E7%BD%AE%E5%91%BD%E4%BB%A4/README.md#5--常见内置命令分类)
   - 知道什么是 npm 内置命令。
-  - 对目前（2024年11月6日18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。
+  - 对目前（2024 年 11 月 6 日 18:52:37）能查询到的所有内置命令做了一个简单的描述、分类。
 
 ### 16.6. nodejs 命令行操作
 
