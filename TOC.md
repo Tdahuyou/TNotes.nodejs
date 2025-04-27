@@ -342,7 +342,22 @@
   - [5. 💻 demos.3 - 查看电脑的优先级常量](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#5--demos3---查看电脑的优先级常量)
   - [6. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7/README#6--references)
 
-## 10. net、http、https 网络模块 💪
+## 10. 网络基础概念
+
+- [x] [0084. 理解“请求”和“响应”](https://tdahuyou.github.io/TNotes.nodejs/notes/0084.%20%E7%90%86%E8%A7%A3%E2%80%9C%E8%AF%B7%E6%B1%82%E2%80%9D%E5%92%8C%E2%80%9C%E5%93%8D%E5%BA%94%E2%80%9D/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0084.%20%E7%90%86%E8%A7%A3%E2%80%9C%E8%AF%B7%E6%B1%82%E2%80%9D%E5%92%8C%E2%80%9C%E5%93%8D%E5%BA%94%E2%80%9D/README#1--概述)
+  - [2. 💻 示例 - 外卖点餐](https://tdahuyou.github.io/TNotes.nodejs/notes/0084.%20%E7%90%86%E8%A7%A3%E2%80%9C%E8%AF%B7%E6%B1%82%E2%80%9D%E5%92%8C%E2%80%9C%E5%93%8D%E5%BA%94%E2%80%9D/README#2--示例---外卖点餐)
+  - [3. 📒 请求（Request）](https://tdahuyou.github.io/TNotes.nodejs/notes/0084.%20%E7%90%86%E8%A7%A3%E2%80%9C%E8%AF%B7%E6%B1%82%E2%80%9D%E5%92%8C%E2%80%9C%E5%93%8D%E5%BA%94%E2%80%9D/README#3--请求request)
+  - [4. 📒 响应（Response）](https://tdahuyou.github.io/TNotes.nodejs/notes/0084.%20%E7%90%86%E8%A7%A3%E2%80%9C%E8%AF%B7%E6%B1%82%E2%80%9D%E5%92%8C%E2%80%9C%E5%93%8D%E5%BA%94%E2%80%9D/README#4--响应response)
+- [x] [0085. 理解“客户端”和“服务端”](https://tdahuyou.github.io/TNotes.nodejs/notes/0085.%20%E7%90%86%E8%A7%A3%E2%80%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E2%80%9D%E5%92%8C%E2%80%9C%E6%9C%8D%E5%8A%A1%E7%AB%AF%E2%80%9D/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0085.%20%E7%90%86%E8%A7%A3%E2%80%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E2%80%9D%E5%92%8C%E2%80%9C%E6%9C%8D%E5%8A%A1%E7%AB%AF%E2%80%9D/README#1--概述)
+  - [2. 💻 示例 - 外卖点餐](https://tdahuyou.github.io/TNotes.nodejs/notes/0085.%20%E7%90%86%E8%A7%A3%E2%80%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E2%80%9D%E5%92%8C%E2%80%9C%E6%9C%8D%E5%8A%A1%E7%AB%AF%E2%80%9D/README#2--示例---外卖点餐)
+  - [3. 📒 客户端（Client）](https://tdahuyou.github.io/TNotes.nodejs/notes/0085.%20%E7%90%86%E8%A7%A3%E2%80%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E2%80%9D%E5%92%8C%E2%80%9C%E6%9C%8D%E5%8A%A1%E7%AB%AF%E2%80%9D/README#3--客户端client)
+  - [4. 📒 服务端（Server）](https://tdahuyou.github.io/TNotes.nodejs/notes/0085.%20%E7%90%86%E8%A7%A3%E2%80%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E2%80%9D%E5%92%8C%E2%80%9C%E6%9C%8D%E5%8A%A1%E7%AB%AF%E2%80%9D/README#4--服务端server)
+
+## 11. 网络相关模块
+
+### 11.1. net
 
 - [ ] [0077. net 模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
@@ -350,6 +365,9 @@
   - [3. 💻 demos.2 - 模拟 http 请求](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#3--demos2---模拟-http-请求)
   - [4. 💻 demos.3 - 实现一个简单的 web 服务 - 向浏览器响应图片](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#4--demos3---实现一个简单的-web-服务---向浏览器响应图片)
   - [5. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0077.%20net%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#5--references)
+
+### 11.2. http
+
 - [x] [0080. http 模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
   - [2. 💻 demos.1 - `server` 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#2--demos1---server-对象)
@@ -358,31 +376,33 @@
   - [5. 💻 demos.4 - 响应媒体资源](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#5--demos4---响应媒体资源)
   - [6. 💻 demos.5 - 重定向](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#6--demos5---重定向)
   - [7. 💻 demos.6 - `request` 对象](https://tdahuyou.github.io/TNotes.nodejs/notes/0080.%20http%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#7--demos6---request-对象)
-- [x] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README)
-  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#1--概述)
-  - [2. 💻 安装工具 - OpenSSL](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#2--安装工具---openssl)
-  - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
-  - [4. 🔍 如何让浏览器相信本地 HTTPS 服务是安全的](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#4--如何让浏览器相信本地-https-服务是安全的)
 - [ ] [0081. 基于 http 模块实现一个简单的静态资源服务器](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README#1--概述)
   - [2. 💻 demos.1 - 基于 http 模块实现的一个简单的静态资源服务](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README#2--demos1---基于-http-模块实现的一个简单的静态资源服务)
   - [3. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8/README#3--references)
 
-## 11. url 模块 💪
+### 11.3. https
+
+- [x] [0028. 基于 nodejs 在本地快速启动一个 https 服务](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README)
+  - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#1--概述)
+  - [2. 💻 安装工具 - OpenSSL](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#2--安装工具---openssl)
+  - [3. 💻 demos.1 - 实现方案：使用 Node.js 的 `https` 模块 + `express` 服务框架](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#3--demos1---实现方案使用-nodejs-的-https-模块--express-服务框架)
+  - [4. 🔍 如何让浏览器相信本地 HTTPS 服务是安全的](https://tdahuyou.github.io/TNotes.nodejs/notes/0028.%20%E5%9F%BA%E4%BA%8E%20nodejs%20%E5%9C%A8%E6%9C%AC%E5%9C%B0%E5%BF%AB%E9%80%9F%E5%90%AF%E5%8A%A8%E4%B8%80%E4%B8%AA%20https%20%E6%9C%8D%E5%8A%A1/README#4--如何让浏览器相信本地-https-服务是安全的)
+
+### 11.4. url
 
 - [x] [0082. url 模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
   - [2. 💻 demos.1 - `url` 模块核心方法 `url.parse`、`url.format`、`url.resolve`](https://tdahuyou.github.io/TNotes.nodejs/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#2--demos1---url-模块核心方法-urlparseurlformaturlresolve)
   - [3. 💻 demos.2 - 新版 URL API](https://tdahuyou.github.io/TNotes.nodejs/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#3--demos2---新版-url-api)
   - [4. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0082.%20url%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#4--references)
+
+### 11.5. querystring
+
 - [x] [0083. querystring 模块概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README)
   - [1. 📒 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
   - [2. 💻 demos.1 - `querystring` 基本使用 - `parse`、`stringify`](https://tdahuyou.github.io/TNotes.nodejs/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#2--demos1---querystring-基本使用---parsestringify)
   - [3. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#3--references)
-- [ ] [0084. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0084.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0084.%20xxx/README#1--notes_title)
-- [ ] [0085. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0085.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0085.%20xxx/README#1--notes_title)
 - [ ] [0086. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20xxx/README#1--notes_title)
 - [ ] [0087. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0087.%20xxx/README)
