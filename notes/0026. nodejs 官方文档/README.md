@@ -11,7 +11,8 @@
 
 - https://nodejs.org/en
 - 这是 NodeJS 官方文档
-- 有 Simplified Chinese 中文版，正在逐步支持中，不过大部分内容还是英文的。
+- 有 Simplified Chinese 中文版，正在逐步支持中。
+  - 其中大部分内容还是英文的。
 
 ## 2. ⏰ TODO
 
