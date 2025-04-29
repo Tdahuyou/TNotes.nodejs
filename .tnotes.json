@@ -1,9 +1,7 @@
 {
   "author": "Tdahuyou",
   "repoName": "TNotes.nodejs",
-  "keywords": [
-    "TNotes.nodejs"
-  ],
+  "keywords": ["TNotes.nodejs"],
   "sidebar_isCollapsed": true,
   "ignore_dirs": [
     ".vscode",
@@ -14,6 +12,7 @@
     "assets"
   ],
   "port": 9379,
+  "rootDocsSrcDir": "../_/docs/src",
   "menuItems": [
     {
       "text": "🏠 Home",
