@@ -207,8 +207,7 @@
 
   "css.validate": false,
   "less.validate": false,
-  "scss.validate": false,
-  "npm-scripts.showStartNotification": false
+  "scss.validate": false
 
   // #endregion - Others（其他相关配置）
 
