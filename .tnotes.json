@@ -13,6 +13,15 @@
   ],
   "port": 9379,
   "rootDocsSrcDir": "../_/docs/src",
+  "home.features.item": {
+    "icon": {
+      "src": "https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/assets/icon--nodejs.svg"
+    },
+    "title": "NodeJS 笔记",
+    "completed_notes_count": 57,
+    "details": "TNotes 实现的核心逻辑基本上都是基于 NodeJS 来实现的。",
+    "link": "https://tdahuyou.github.io/TNotes.nodejs/"
+  },
   "menuItems": [
     {
       "text": "🏠 Home",
