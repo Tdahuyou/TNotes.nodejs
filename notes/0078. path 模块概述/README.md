@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - `path.join([...paths])`](#2--demos1---pathjoinpaths)
 - [3. 💻 demos.2 - `path.resolve([...paths])`](#3--demos2---pathresolvepaths)
 - [4. 💻 demos.3 - `path.basename(path[, ext])`](#4--demos3---pathbasenamepath-ext)
@@ -16,7 +16,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **`path` 模块**：
   - `path` 模块在 Node.js 中主要是用来处理 **文件路径** 的。

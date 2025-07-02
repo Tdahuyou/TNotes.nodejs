@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - 异步写入 - `fs.writeFile`](#2--demos1---异步写入---fswritefile)
 - [3. 💻 demos.2 - 同步写入 - `fs.writeFileSync`](#3--demos2---同步写入---fswritefilesync)
 - [4. 💻 demos.3 - 追加写入 - `fs.appendFile`、`fs.appendFileSync`](#4--demos3---追加写入---fsappendfilefsappendfilesync)
@@ -11,7 +11,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **文件写入**
   - `fs` 模块提供了同步和异步两种方式来进行文件写入操作。

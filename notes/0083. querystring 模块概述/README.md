@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - `querystring` 基本使用 - `parse`、`stringify`](#2--demos1---querystring-基本使用---parsestringify)
 - [3. 🔗 References](#3--references)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **`querystring` 模块**：
   - `querystring` 模块用于实现 URL 查询字符串与参数对象之间的互相转换。
@@ -44,8 +44,4 @@ console.log(querystring.stringify(parsedQuery)) // 输出：name=John&age=30
 
 ## 3. 🔗 References
 
-::: details
-
 - https://nodejs.org/docs/v22.15.0/api/querystring.html
-
-:::

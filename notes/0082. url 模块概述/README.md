@@ -2,14 +2,14 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - `url` 模块核心方法 `url.parse`、`url.format`、`url.resolve`](#2--demos1---url-模块核心方法-urlparseurlformaturlresolve)
 - [3. 💻 demos.2 - 新版 URL API](#3--demos2---新版-url-api)
 - [4. 🔗 References](#4--references)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **`url` 模块**：
   - Node.js 的 `url` 模块是内置的核心模块之一，用于解析和处理 URL 字符串，适用于各种 URL 操作场景。
@@ -191,8 +191,4 @@ for (const [key, value] of params) {
 
 ## 4. 🔗 References
 
-::: details
-
 - https://nodejs.org/api/url.html
-
-:::

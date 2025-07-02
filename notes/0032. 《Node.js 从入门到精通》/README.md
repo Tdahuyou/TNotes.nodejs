@@ -4,12 +4,12 @@
 
 - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
   - [TNotes.yuque.nodejs.0032](https://www.yuque.com/tdahuyou/tnotes.yuque/nodejs.0032)
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 📂 本书对应学习资源](#2--本书对应学习资源)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - 书籍封面：
   - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-04-02-10-12.png)

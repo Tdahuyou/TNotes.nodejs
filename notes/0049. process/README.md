@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - process 常见字段](#2--demos1---process-常见字段)
 - [3. 💻 demos.2 - 根据 `process.platform` 判断当前系统环境](#3--demos2---根据-processplatform-判断当前系统环境)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - process：用于获取当前 Node.js 程序状态。
 - 🔗 Node.js docs process

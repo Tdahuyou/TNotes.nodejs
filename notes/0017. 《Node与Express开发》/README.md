@@ -4,11 +4,11 @@
 
 - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
   - [TNotes.yuque.nodejs.0017](https://www.yuque.com/tdahuyou/tnotes.yuque/nodejs.0017)
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - https://book.douban.com/subject/26301434/
   - 豆瓣 - 《Node 与 Express 开发》

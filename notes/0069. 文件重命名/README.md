@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - 重命名文件 - `rename`](#2--demos1---重命名文件---rename)
 - [3. 💻 demos.2 - 照片儿批量重命名 - `rename`](#3--demos2---照片儿批量重命名---rename)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - 可以使用 `fs.rename()` 或其同步版本 `fs.renameSync()` 实现重命名文件或移动文件到另一个位置。
 

@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 📒 文件访问常量 `File access constants`](#2--文件访问常量-file-access-constants)
 - [3. 📒 常见的 Error 对象](#3--常见的-error-对象)
   - [3.1. `POSIX` 标准](#31-posix-标准)
@@ -12,7 +12,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **`fs.access()` 使用背景**：
   - `fs` 模块内置许多方法，用以对文件进行相关操作。
@@ -258,8 +258,6 @@ console.log((fs.constants.F_OK | fs.constants.W_OK).toString(2)) // 10（相当�
 
 ## 6. 🔗 References
 
-::: details
-
 - https://zh.wikipedia.org/zh-hans/%E5%8F%AF%E7%A7%BB%E6%A4%8D%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E6%8E%A5%E5%8F%A3
   - wiki - 可移植操作系统接口 - POSIX - Portable Operating System Interface
 - https://nodejs.org/api/fs.html#fsaccesspath-mode-callback
@@ -267,5 +265,3 @@ console.log((fs.constants.F_OK | fs.constants.W_OK).toString(2)) // 10（相当�
 - https://nodejs.org/api/fs.html#file-access-constants
   - `File access constants`
   - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-14-22-24-24.png)
-
-:::

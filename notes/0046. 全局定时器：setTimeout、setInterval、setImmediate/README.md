@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - `setTimeout(cb, ms)`、`clearTimeout(t)`](#2--demos1---settimeoutcb-mscleartimeoutt)
 - [3. 💻 demos.2 - `setInterval(cb, ms)`、`clearInterval(t)`](#3--demos2---setintervalcb-msclearintervalt)
 - [4. 💻 demos.3 - `setImmediate(callback[, ...args])`、`clearImmediate(immediate)`](#4--demos3---setimmediatecallback-argsclearimmediateimmediate)
@@ -10,7 +10,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 | 函数 | 说明 |
 | --- | --- |

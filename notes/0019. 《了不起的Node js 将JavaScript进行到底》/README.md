@@ -4,11 +4,11 @@
 
 - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
   - [TNotes.yuque.nodejs.0019](https://www.yuque.com/tdahuyou/tnotes.yuque/nodejs.0019)
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - https://book.douban.com/subject/25767596/
   - 豆瓣 - 《了不起的 Node.js》

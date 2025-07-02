@@ -2,14 +2,14 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 🔍 `fs.Stats` 对象成员](#2--fsstats-对象成员)
 - [3. 💻 demos.1 - 查看目录或文件信息 `stat`](#3--demos1---查看目录或文件信息-stat)
 - [4. 💻 demos.2 - 检查是文件还是目录](#4--demos2---检查是文件还是目录)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **异步方法**：`fs.stat(path, callback)`。
 - **同步方法**：`fs.statSync(path)`。

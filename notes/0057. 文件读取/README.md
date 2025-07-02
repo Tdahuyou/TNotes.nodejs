@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - 异步读取 - `fs.readFile`](#2--demos1---异步读取---fsreadfile)
 - [3. 💻 demos.2 - 同步读取 - `fs.readFileSync`](#3--demos2---同步读取---fsreadfilesync)
 - [4. 💻 demos.3 - 流式读取 - `fs.createReadStream`](#4--demos3---流式读取---fscreatereadstream)
@@ -11,7 +11,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **读取文件**
   - 在 Node.js 中，文件读取是一个常见的操作，通常用于处理本地文件系统中的数据。
@@ -300,9 +300,5 @@ main()
 
 ## 6. 🔗 References
 
-::: details
-
 - https://nodejs.org/api/fs.html
   - Node.js 官方文档 - File system
-
-:::

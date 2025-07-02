@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - 基于 http 模块实现的一个简单的静态资源服务](#2--demos1---基于-http-模块实现的一个简单的静态资源服务)
 - [3. 🔗 References](#3--references)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - 本篇文档的主要内容：介绍如何使用 Node.js 的 http 模块来搭建一个本地的静态资源服务器。
 - **目录结构**：
@@ -122,9 +122,5 @@ server.listen(1012)
 
 ## 3. 🔗 References
 
-::: details
-
 - https://nodejs.org/api/http.html#httpcreateserveroptions-requestlistener
   - Node.js - `http.createServer([options][, requestListener])`
-
-:::

@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - console 对象](#2--demos1---console-对象)
   - [2.1. `console.log()`、`console.info()`、`console.error()`、`console.warn()`](#21-consolelogconsoleinfoconsoleerrorconsolewarn)
   - [2.2. `console.assert()`](#22-consoleassert)
@@ -15,7 +15,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - console：用于提供控制台标准输出。
 - Node.js 中的 console 和传统 Web 中的 console 对象类似，可以参考 mdn docs console 文档了解详细用法：https://developer.mozilla.org/zh-CN/docs/Web/API/console。

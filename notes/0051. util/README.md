@@ -2,7 +2,7 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - `util.format(format, [...])` - 格式化输出字符串](#2--demos1---utilformatformat----格式化输出字符串)
 - [3. 💻 demos.2 - `util.inspect(object[, showHidden[, depth[, colors]]])` - 将对象转换为字符串](#3--demos2---utilinspectobject-showhidden-depth-colors---将对象转换为字符串)
 - [4. 💻 demos.3 - `util.inherits(constructor, superConstructor)` - 实现对象间的原型继承](#4--demos3---utilinheritsconstructor-superconstructor---实现对象间的原型继承)
@@ -13,7 +13,7 @@
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - `util` 是 Node.js 的内置工具模块，提供了一系列常用方法，主要用于格式化字符串、对象转换、原型继承、异步函数转换等，弥补核心 JavaScript 功能的不足。
 - **常见用法**：

@@ -2,13 +2,13 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - 打印 module 对象](#2--demos1---打印-module-对象)
 - [3. 💻 demos.2 - 使用 module 对象实现模块化编程](#3--demos2---使用-module-对象实现模块化编程)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - **module** 对象常用属性
 

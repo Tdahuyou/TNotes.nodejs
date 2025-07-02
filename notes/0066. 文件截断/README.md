@@ -2,12 +2,12 @@
 
 <!-- region:toc -->
 
-- [1. 📒 概述](#1--概述)
+- [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - 截断文件 - `truncate()`](#2--demos1---截断文件---truncate)
 
 <!-- endregion:toc -->
 
-## 1. 📒 概述
+## 1. 📝 概述
 
 - 截断文件意味着改变文件的大小。
 - 使用 `fs.truncate()` 或其同步版本 `fs.truncateSync()` 可以实现这一功能。
