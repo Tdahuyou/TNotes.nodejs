@@ -94,6 +94,14 @@
 
 ## 3. npm 包管理器
 
+- [x] [0086. npm 官网](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20npm%20%E5%AE%98%E7%BD%91/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20npm%20%E5%AE%98%E7%BD%91/README#1--概述)
+  - [2. 📒 npm 官网](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20npm%20%E5%AE%98%E7%BD%91/README#2--npm-官网)
+  - [3. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20npm%20%E5%AE%98%E7%BD%91/README#3--references)
+- [x] [0088. Github - npm](https://tdahuyou.github.io/TNotes.nodejs/notes/0088.%20Github%20-%20npm/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0088.%20Github%20-%20npm/README#1--概述)
+- [x] [0087. YouTube 上的 npm 频道](https://tdahuyou.github.io/TNotes.nodejs/notes/0087.%20YouTube%20%E4%B8%8A%E7%9A%84%20npm%20%E9%A2%91%E9%81%93/README)
+  - [1. 📝 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0087.%20YouTube%20%E4%B8%8A%E7%9A%84%20npm%20%E9%A2%91%E9%81%93/README#1--概述)
 - [x] [0038. 认识 npm](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README)
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README#1--概述)
   - [2. 📒 npm 包数量](https://tdahuyou.github.io/TNotes.nodejs/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm/README#2--npm-包数量)
@@ -419,12 +427,6 @@
   - [1. 📝 概述](https://tdahuyou.github.io/TNotes.nodejs/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#1--概述)
   - [2. 💻 demos.1 - `querystring` 基本使用 - `parse`、`stringify`](https://tdahuyou.github.io/TNotes.nodejs/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#2--demos1---querystring-基本使用---parsestringify)
   - [3. 🔗 References](https://tdahuyou.github.io/TNotes.nodejs/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0/README#3--references)
-- [ ] [0086. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0086.%20xxx/README#1--notes_title)
-- [ ] [0087. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0087.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0087.%20xxx/README#1--notes_title)
-- [ ] [0088. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0088.%20xxx/README)
-  - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0088.%20xxx/README#1--notes_title)
 - [ ] [0089. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0089.%20xxx/README)
   - [1. 📒 notes_title](https://tdahuyou.github.io/TNotes.nodejs/notes/0089.%20xxx/README#1--notes_title)
 - [ ] [0090. xxx](https://tdahuyou.github.io/TNotes.nodejs/notes/0090.%20xxx/README)
