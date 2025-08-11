@@ -5,37 +5,19 @@
 - [1. 📝 概述](#1--概述)
 - [2. 💻 demos.1 - process 常见字段](#2--demos1---process-常见字段)
 - [3. 💻 demos.2 - 根据 `process.platform` 判断当前系统环境](#3--demos2---根据-processplatform-判断当前系统环境)
+- [4. 🔗 References](#4--references)
 
 <!-- endregion:toc -->
 
 ## 1. 📝 概述
 
-- process：用于获取当前 Node.js 程序状态。
-- 🔗 Node.js docs process
-  - https://nodejs.org/api/process.html
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-15-08-14.png)
+- process 用于获取当前 Node.js 程序状态。
 
 ## 2. 💻 demos.1 - process 常见字段
 
 ::: code-group
 
-```js [1.js]
-console.log('- process.env:', process.env)
-console.log('- process.version:', process.version)
-console.log('- process.versions:', process.versions)
-console.log('- process.arch:', process.arch)
-console.log('- process.platform:', process.platform)
-console.log('- process.connected:', process.connected)
-console.log('- process.execArgv:', process.execArgv)
-console.log('- process.exitCode:', process.exitCode)
-console.log('- process.release:', process.release)
-console.log('- process.memoryUsage():', process.memoryUsage())
-console.log('- process.uptime():', process.uptime())
-
-// Node.js docs process
-// https://nodejs.org/api/process.html
-// 有想要了解的信息，可以自行查阅文档，然后打印出来看看。
-```
+<<< ./demos/1/1.js [1.js]
 
 :::
 
@@ -61,16 +43,12 @@ console.log('- process.uptime():', process.uptime())
 
 ::: code-group
 
-```js [1.js]
-if (process.platform === 'linux') {
-  console.log('当前使用的操作系统是 Linux')
-} else if (process.platform === 'darwin') {
-  console.log('当前使用的操作系统是 MacOS')
-} else if (process.platform === 'win32') {
-  console.log('当前使用的操作系统是 Windows')
-} else {
-  console.log('当前使用的操作系统是未知')
-}
-```
+<<< ./demos/2/1.js [1.js]
 
 :::
+
+## 4. 🔗 References
+
+- https://nodejs.org/api/process.html
+  - 🔗 Node.js docs process
+  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-15-08-14.png)

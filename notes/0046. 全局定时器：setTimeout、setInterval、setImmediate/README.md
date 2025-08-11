@@ -3,14 +3,21 @@
 <!-- region:toc -->
 
 - [1. 📝 概述](#1--概述)
-- [2. 💻 demos.1 - `setTimeout(cb, ms)`、`clearTimeout(t)`](#2--demos1---settimeoutcb-mscleartimeoutt)
-- [3. 💻 demos.2 - `setInterval(cb, ms)`、`clearInterval(t)`](#3--demos2---setintervalcb-msclearintervalt)
-- [4. 💻 demos.3 - `setImmediate(callback[, ...args])`、`clearImmediate(immediate)`](#4--demos3---setimmediatecallback-argsclearimmediateimmediate)
-- [5. 🤔 `setTimeout(fn, 0)` 和 `setImmediate(fn)` 之间的区别](#5--settimeoutfn-0-和-setimmediatefn-之间的区别)
+- [2. 📒 定时器](#2--定时器)
+- [3. 💻 demos.1 - `setTimeout(cb, ms)`、`clearTimeout(t)`](#3--demos1---settimeoutcb-mscleartimeoutt)
+- [4. 💻 demos.2 - `setInterval(cb, ms)`、`clearInterval(t)`](#4--demos2---setintervalcb-msclearintervalt)
+- [5. 💻 demos.3 - `setImmediate(callback[, ...args])`、`clearImmediate(immediate)`](#5--demos3---setimmediatecallback-argsclearimmediateimmediate)
+- [6. 🤔 `setTimeout(fn, 0)` 和 `setImmediate(fn)` 之间的区别](#6--settimeoutfn-0-和-setimmediatefn-之间的区别)
 
 <!-- endregion:toc -->
 
 ## 1. 📝 概述
+
+- `setTimeout`、`clearTimeout`
+- `setInterval`、`clearInterval`
+- `setImmediate`、`clearImmediate`
+
+## 2. 📒 定时器
 
 | 函数 | 说明 |
 | --- | --- |
@@ -26,37 +33,17 @@
   - 这意味着你无需引入任何模块即可直接使用它们。
 - **作用**：
   - 用于控制异步操作的执行时机。
-- **注意**：
-  - **与浏览器环境的区别**：虽然 `setTimeout` 和 `setInterval` 也存在于浏览器中，但 `setImmediate` 是 Node.js 特有的功能。
+- **与浏览器环境的区别**：
+  - `setTimeout` 和 `setInterval` 也存在于浏览器中
+  - `setImmediate` 是 Node.js 特有的
 
-## 2. 💻 demos.1 - `setTimeout(cb, ms)`、`clearTimeout(t)`
+## 3. 💻 demos.1 - `setTimeout(cb, ms)`、`clearTimeout(t)`
 
 ::: code-group
 
-```javascript [1.js]
-setTimeout(() => {
-  console.log('1s 后被打印')
-}, 1000)
+<<< ./demos/1/1.js [1.js]
 
-// setTimeout
-// 作用: 设置一个定时器，在指定的毫秒数（ms）后执行回调函数（cb）。
-```
-
-```javascript [2.js]
-const timer = setTimeout(() => {
-  console.log('1s 后被打印')
-}, 1000)
-
-// 如果需要，可以取消定时器
-clearTimeout(timer)
-
-// setTimeout
-// 返回值: 返回一个 Timeout 对象，可以用来取消定时器。
-
-// clearTimeout
-// 作用: 取消由 setTimeout() 创建的定时器。
-// 参数: 接收 setTimeout() 返回的 Timeout 对象。
-```
+<<< ./demos/1/2.js [2.js]
 
 :::
 
@@ -64,56 +51,15 @@ clearTimeout(timer)
 - **注意事项**：
   - 定时器的实际触发时间可能会受到事件循环负载的影响，因此不能保证完全精确。
 
-## 3. 💻 demos.2 - `setInterval(cb, ms)`、`clearInterval(t)`
+## 4. 💻 demos.2 - `setInterval(cb, ms)`、`clearInterval(t)`
 
 ::: code-group
 
-```javascript [1.js]
-setInterval(() => {
-  console.log('每隔 1 秒打印一次')
-}, 1000)
+<<< ./demos/2/1.js [1.js]
 
-// setInterval
-// 作用: 设置一个定时器，每隔一定的时间（ms 毫秒）重复执行回调函数（cb）。
-```
+<<< ./demos/2/2.js [2.js]
 
-```javascript [2.js]
-const interval = setInterval(() => {
-  console.log('This will stop after 3 seconds')
-}, 1000)
-
-setTimeout(() => {
-  console.log('定时器已停止')
-  clearInterval(interval) // 停止定时器
-}, 3000)
-
-// setInterval
-// 返回值: 返回一个 Timeout 对象，可以用来取消定时器。
-
-// clearInterval
-// 作用: 取消由 setInterval() 创建的定时器。
-// 参数: 接收 setInterval() 返回的 Timeout 对象。
-```
-
-```javascript [3.js]
-let i = 0 // 记录执行程序的次数
-const timer = setInterval(function () {
-  i += 1
-  console.log('已执行' + i + '次')
-  if (i >= 5) {
-    clearInterval(timer) // 执行 5 次后，取消定时器
-    console.log('执行完毕')
-  }
-}, 2000)
-
-// 运行上面的代码，每隔2秒会显示一次执行函数的次数，直到执行5次以后，取消定时器，最终输出结果如下：
-// 已执行1次
-// 已执行2次
-// 已执行3次
-// 已执行4次
-// 已执行5次
-// 执行完毕
-```
+<<< ./demos/2/3.js [3.js]
 
 :::
 
@@ -122,7 +68,7 @@ const timer = setInterval(function () {
   - 如果未正确调用 `clearInterval()`，定时器会一直运行，可能导致内存泄漏。
   - 定时器的实际触发时间可能会受到事件循环负载的影响，因此不能保证完全精确。
 
-## 4. 💻 demos.3 - `setImmediate(callback[, ...args])`、`clearImmediate(immediate)`
+## 5. 💻 demos.3 - `setImmediate(callback[, ...args])`、`clearImmediate(immediate)`
 
 ::: code-group
 
@@ -188,7 +134,7 @@ console.log('正常执行2')
   - 不要滥用 `setImmediate`，因为它可能会导致回调堆积，影响性能。
   - 如果需要取消，请及时调用 `clearImmediate()`。
 
-## 5. 🤔 `setTimeout(fn, 0)` 和 `setImmediate(fn)` 之间的区别
+## 6. 🤔 `setTimeout(fn, 0)` 和 `setImmediate(fn)` 之间的区别
 
 ::: tip 备注
 

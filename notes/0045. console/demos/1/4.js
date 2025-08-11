@@ -25,7 +25,8 @@ const user = {
   name: 'xxx',
   isAdmin: false,
 }
-// 确保代码不达到某些执行路径：在某些情况下，你可能希望代码不要执行某个分支。使用 console.assert 可以帮助你确认这一点。
+// 确保代码不达到某些执行路径：在某些情况下，你可能希望代码不要执行某个分支。
+// 使用 console.assert 可以帮助你确认这一点。
 if (user.isAdmin) {
   // 管理员特定的代码...
 } else {
