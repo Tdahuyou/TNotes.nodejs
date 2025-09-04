@@ -4,19 +4,27 @@
 
 - [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
   - [TNotes.yuque.nodejs.0032](https://www.yuque.com/tdahuyou/tnotes.yuque/nodejs.0032)
-- [1. 📝 概述](#1--概述)
-- [2. 📂 本书对应学习资源](#2--本书对应学习资源)
+- [1. 🫧 评价](#1--评价)
+- [2. 📒 《Node.js 从入门到精通》](#2--nodejs-从入门到精通)
+- [3. 📂 本书对应学习资源](#3--本书对应学习资源)
 
 <!-- endregion:toc -->
 
-## 1. 📝 概述
+## 1. 🫧 评价
+
+- 资源丰富
+  - 书挺厚的，资源也挺丰富的，PPT、视频、代码示例，该有的基本都有了。
+  - 从视频的录音效果来看，感觉是有些年代感了。
+  - 可以把重心放在【代码示例】上。
+
+## 2. 📒 《Node.js 从入门到精通》
 
 - 书籍封面：
   - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-04-02-10-12.png)
 - 内容简介：
   - 《Node.js 从入门到精通》从初学者角度出发，通过通俗易懂的语言、丰富多彩的实例，详细介绍了使用 Node.js 进行 Web 应用开发需要掌握的各方面技术。全书分为 4 篇，共 18 章，包括 Node.js 环境搭建、第一个 Node.js 服务器程序、npm 包管理器的使用、Node.js 基础、事件的监听与触发、util 工具模块、fs 文件系统模块、os 操作系统模块、异步编程与回调、I/O 流操作、Web 应用构建基础、WebSocket 网络编程、Web 模板引擎、Express 框架、数据存储之 MySQL 数据库、数据存储之 MongoDB 数据库、程序调试与异常处理、在线五子棋游戏等内容。本书知识点结合具体实例进行介绍，涉及的程序代码给出了详细的注释，可以使读者轻松领会使用 Node.js 进行 Web 应用开发的精髓，快速提高开发技能。
 
-## 2. 📂 本书对应学习资源
+## 3. 📂 本书对应学习资源
 
 - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-04-01-50-21.png)
 - 示例代码：
