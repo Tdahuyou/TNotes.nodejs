@@ -1,4 +1,4 @@
-# [0064. 读取目录内容](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0064.%20%E8%AF%BB%E5%8F%96%E7%9B%AE%E5%BD%95%E5%86%85%E5%AE%B9)
+# [0064. 读取目录内容](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0064.%20%E8%AF%BB%E5%8F%96%E7%9B%AE%E5%BD%95%E5%86%85%E5%AE%B9)
 
 <!-- region:toc -->
 

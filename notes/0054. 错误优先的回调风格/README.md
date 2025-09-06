@@ -1,4 +1,4 @@
-# [0054. 错误优先的回调风格](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0054.%20%E9%94%99%E8%AF%AF%E4%BC%98%E5%85%88%E7%9A%84%E5%9B%9E%E8%B0%83%E9%A3%8E%E6%A0%BC)
+# [0054. 错误优先的回调风格](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0054.%20%E9%94%99%E8%AF%AF%E4%BC%98%E5%85%88%E7%9A%84%E5%9B%9E%E8%B0%83%E9%A3%8E%E6%A0%BC)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0007. crypto 模块](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97)
+# [0007. crypto 模块](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0007.%20crypto%20%E6%A8%A1%E5%9D%97)
 
 
 <!-- region:toc -->

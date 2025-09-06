@@ -1,4 +1,4 @@
-# [0050. Node.js 生命周期](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
+# [0050. Node.js 生命周期](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0050.%20Node.js%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F)
 
 <!-- region:toc -->
 

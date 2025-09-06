@@ -1,4 +1,4 @@
-# [0066. 文件截断](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0066.%20%E6%96%87%E4%BB%B6%E6%88%AA%E6%96%AD)
+# [0066. 文件截断](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0066.%20%E6%96%87%E4%BB%B6%E6%88%AA%E6%96%AD)
 
 <!-- region:toc -->
 

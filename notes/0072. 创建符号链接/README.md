@@ -1,4 +1,4 @@
-# [0072. 创建符号链接](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0072.%20%E5%88%9B%E5%BB%BA%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5)
+# [0072. 创建符号链接](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0072.%20%E5%88%9B%E5%BB%BA%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5)
 
 <!-- region:toc -->
 

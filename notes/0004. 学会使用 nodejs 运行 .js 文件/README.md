@@ -1,4 +1,4 @@
-# [0004. 学会使用 nodejs 运行 .js 文件](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0004.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20nodejs%20%E8%BF%90%E8%A1%8C%20.js%20%E6%96%87%E4%BB%B6)
+# [0004. 学会使用 nodejs 运行 .js 文件](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0004.%20%E5%AD%A6%E4%BC%9A%E4%BD%BF%E7%94%A8%20nodejs%20%E8%BF%90%E8%A1%8C%20.js%20%E6%96%87%E4%BB%B6)
 
 <!-- region:toc -->
 

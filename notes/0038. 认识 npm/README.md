@@ -1,4 +1,4 @@
-# [0038. 认识 npm](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm)
+# [0038. 认识 npm](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0038.%20%E8%AE%A4%E8%AF%86%20npm)
 
 <!-- region:toc -->
 

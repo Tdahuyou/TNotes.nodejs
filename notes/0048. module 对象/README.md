@@ -1,4 +1,4 @@
-# [0048. module 对象](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1)
+# [0048. module 对象](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0048.%20module%20%E5%AF%B9%E8%B1%A1)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0052. EventEmitter](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0052.%20EventEmitter)
+# [0052. EventEmitter](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0052.%20EventEmitter)
 
 <!-- region:toc -->
 

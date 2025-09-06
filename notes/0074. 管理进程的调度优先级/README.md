@@ -1,4 +1,4 @@
-# [0074. 管理进程的调度优先级](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7)
+# [0074. 管理进程的调度优先级](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0074.%20%E7%AE%A1%E7%90%86%E8%BF%9B%E7%A8%8B%E7%9A%84%E8%B0%83%E5%BA%A6%E4%BC%98%E5%85%88%E7%BA%A7)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0069. 文件重命名](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0069.%20%E6%96%87%E4%BB%B6%E9%87%8D%E5%91%BD%E5%90%8D)
+# [0069. 文件重命名](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0069.%20%E6%96%87%E4%BB%B6%E9%87%8D%E5%91%BD%E5%90%8D)
 
 <!-- region:toc -->
 

@@ -1,4 +1,4 @@
-# [0024. npm link 基本使用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0024.%20npm%20link%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+# [0024. npm link 基本使用](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0024.%20npm%20link%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
 <!-- region:toc -->
 

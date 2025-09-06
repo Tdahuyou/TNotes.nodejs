@@ -1,4 +1,4 @@
-# [0033. Node.js 的工作原理概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0033.%20Node.js%20%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E6%A6%82%E8%BF%B0)
+# [0033. Node.js 的工作原理概述](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0033.%20Node.js%20%E7%9A%84%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

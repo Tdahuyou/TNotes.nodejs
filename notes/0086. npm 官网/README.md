@@ -1,4 +1,4 @@
-# [0086. npm 官网](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0086.%20npm%20%E5%AE%98%E7%BD%91)
+# [0086. npm 官网](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0086.%20npm%20%E5%AE%98%E7%BD%91)
 
 <!-- region:toc -->
 

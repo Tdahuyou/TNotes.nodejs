@@ -1,4 +1,4 @@
-# [0067. 文件删除](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0067.%20%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4)
+# [0067. 文件删除](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0067.%20%E6%96%87%E4%BB%B6%E5%88%A0%E9%99%A4)
 
 <!-- region:toc -->
 

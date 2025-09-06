@@ -1,4 +1,4 @@
-# [0075. I、O 流操作概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0)
+# [0075. I、O 流操作概述](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0075.%20I%E3%80%81O%20%E6%B5%81%E6%93%8D%E4%BD%9C%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

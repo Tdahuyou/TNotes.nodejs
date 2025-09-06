@@ -1,4 +1,4 @@
-# [0013. 安装 nodejs](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0013.%20%E5%AE%89%E8%A3%85%20nodejs)
+# [0013. 安装 nodejs](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0013.%20%E5%AE%89%E8%A3%85%20nodejs)
 
 <!-- region:toc -->
 

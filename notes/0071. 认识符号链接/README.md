@@ -1,4 +1,4 @@
-# [0071. 认识符号链接](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0071.%20%E8%AE%A4%E8%AF%86%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5)
+# [0071. 认识符号链接](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0071.%20%E8%AE%A4%E8%AF%86%E7%AC%A6%E5%8F%B7%E9%93%BE%E6%8E%A5)
 
 <!-- region:toc -->
 

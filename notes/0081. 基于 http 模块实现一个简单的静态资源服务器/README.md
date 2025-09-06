@@ -1,4 +1,4 @@
-# [0081. 基于 http 模块实现一个简单的静态资源服务器](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8)
+# [0081. 基于 http 模块实现一个简单的静态资源服务器](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0081.%20%E5%9F%BA%E4%BA%8E%20http%20%E6%A8%A1%E5%9D%97%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E9%9D%99%E6%80%81%E8%B5%84%E6%BA%90%E6%9C%8D%E5%8A%A1%E5%99%A8)
 
 <!-- region:toc -->
 

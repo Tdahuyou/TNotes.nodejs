@@ -1,4 +1,4 @@
-# [0061. fs.constants](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0061.%20fs.constants)
+# [0061. fs.constants](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0061.%20fs.constants)
 
 <!-- region:toc -->
 

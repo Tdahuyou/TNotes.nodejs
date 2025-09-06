@@ -1,4 +1,4 @@
-# [0046. 全局定时器：setTimeout、setInterval、setImmediate](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate)
+# [0046. 全局定时器：setTimeout、setInterval、setImmediate](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0046.%20%E5%85%A8%E5%B1%80%E5%AE%9A%E6%97%B6%E5%99%A8%EF%BC%9AsetTimeout%E3%80%81setInterval%E3%80%81setImmediate)
 
 <!-- region:toc -->
 

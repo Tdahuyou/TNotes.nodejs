@@ -1,4 +1,4 @@
-# [0030. nodejs 学习资源概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0030.%20nodejs%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0)
+# [0030. nodejs 学习资源概述](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0030.%20nodejs%20%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

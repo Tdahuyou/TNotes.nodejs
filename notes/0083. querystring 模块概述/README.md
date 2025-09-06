@@ -1,4 +1,4 @@
-# [0083. querystring 模块概述](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0)
+# [0083. querystring 模块概述](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0083.%20querystring%20%E6%A8%A1%E5%9D%97%E6%A6%82%E8%BF%B0)
 
 <!-- region:toc -->
 

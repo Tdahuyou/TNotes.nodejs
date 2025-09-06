@@ -1,4 +1,4 @@
-# [0042. 认识 package.json](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0042.%20%E8%AE%A4%E8%AF%86%20package.json)
+# [0042. 认识 package.json](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0042.%20%E8%AE%A4%E8%AF%86%20package.json)
 
 <!-- region:toc -->
 

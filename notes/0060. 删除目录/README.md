@@ -1,4 +1,4 @@
-# [0060. 删除目录](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0060.%20%E5%88%A0%E9%99%A4%E7%9B%AE%E5%BD%95)
+# [0060. 删除目录](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0060.%20%E5%88%A0%E9%99%A4%E7%9B%AE%E5%BD%95)
 
 <!-- region:toc -->
 

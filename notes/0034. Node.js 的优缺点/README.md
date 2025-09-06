@@ -1,4 +1,4 @@
-# [0034. Node.js 的优缺点](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0034.%20Node.js%20%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9)
+# [0034. Node.js 的优缺点](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0034.%20Node.js%20%E7%9A%84%E4%BC%98%E7%BC%BA%E7%82%B9)
 
 <!-- region:toc -->
 

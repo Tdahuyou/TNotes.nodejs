@@ -1,4 +1,4 @@
-# [0009. koa-static](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0009.%20koa-static)
+# [0009. koa-static](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0009.%20koa-static)
 
 <!-- region:toc -->
 

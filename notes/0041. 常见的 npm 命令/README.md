@@ -1,4 +1,4 @@
-# [0041. 常见的 npm 命令](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0041.%20%E5%B8%B8%E8%A7%81%E7%9A%84%20npm%20%E5%91%BD%E4%BB%A4)
+# [0041. 常见的 npm 命令](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0041.%20%E5%B8%B8%E8%A7%81%E7%9A%84%20npm%20%E5%91%BD%E4%BB%A4)
 
 <!-- region:toc -->
 

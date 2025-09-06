@@ -1,4 +1,4 @@
-# [0039. 常见的 npm 包及作用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0039.%20%E5%B8%B8%E8%A7%81%E7%9A%84%20npm%20%E5%8C%85%E5%8F%8A%E4%BD%9C%E7%94%A8)
+# [0039. 常见的 npm 包及作用](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0039.%20%E5%B8%B8%E8%A7%81%E7%9A%84%20npm%20%E5%8C%85%E5%8F%8A%E4%BD%9C%E7%94%A8)
 
 <!-- region:toc -->
 

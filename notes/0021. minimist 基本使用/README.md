@@ -1,4 +1,4 @@
-# [0021. minimist 基本使用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
+# [0021. minimist 基本使用](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0021.%20minimist%20%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8)
 
 <!-- region:toc -->
 

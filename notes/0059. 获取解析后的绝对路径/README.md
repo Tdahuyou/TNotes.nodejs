@@ -1,4 +1,4 @@
-# [0059. 获取解析后的绝对路径](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0059.%20%E8%8E%B7%E5%8F%96%E8%A7%A3%E6%9E%90%E5%90%8E%E7%9A%84%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84)
+# [0059. 获取解析后的绝对路径](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0059.%20%E8%8E%B7%E5%8F%96%E8%A7%A3%E6%9E%90%E5%90%8E%E7%9A%84%E7%BB%9D%E5%AF%B9%E8%B7%AF%E5%BE%84)
 
 <!-- region:toc -->
 

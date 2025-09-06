@@ -1,4 +1,4 @@
-# [0023. npm 内置命令](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0023.%20npm%20%E5%86%85%E7%BD%AE%E5%91%BD%E4%BB%A4)
+# [0023. npm 内置命令](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0023.%20npm%20%E5%86%85%E7%BD%AE%E5%91%BD%E4%BB%A4)
 
 <!-- region:toc -->
 

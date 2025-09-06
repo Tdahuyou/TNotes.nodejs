@@ -1,4 +1,4 @@
-# [0085. 理解“客户端”和“服务端”](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0085.%20%E7%90%86%E8%A7%A3%E2%80%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E2%80%9D%E5%92%8C%E2%80%9C%E6%9C%8D%E5%8A%A1%E7%AB%AF%E2%80%9D)
+# [0085. 理解“客户端”和“服务端”](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0085.%20%E7%90%86%E8%A7%A3%E2%80%9C%E5%AE%A2%E6%88%B7%E7%AB%AF%E2%80%9D%E5%92%8C%E2%80%9C%E6%9C%8D%E5%8A%A1%E7%AB%AF%E2%80%9D)
 
 <!-- region:toc -->
 

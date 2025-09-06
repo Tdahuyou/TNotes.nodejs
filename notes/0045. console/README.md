@@ -1,4 +1,4 @@
-# [0045. console](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0045.%20console)
+# [0045. console](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0045.%20console)
 
 <!-- region:toc -->
 

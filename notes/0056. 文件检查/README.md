@@ -1,4 +1,4 @@
-# [0056. 文件检查](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0056.%20%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5)
+# [0056. 文件检查](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0056.%20%E6%96%87%E4%BB%B6%E6%A3%80%E6%9F%A5)
 
 <!-- region:toc -->
 

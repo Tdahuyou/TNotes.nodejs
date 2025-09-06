@@ -1,4 +1,4 @@
-# [0035. Node.js 能用来做什么](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0035.%20Node.js%20%E8%83%BD%E7%94%A8%E6%9D%A5%E5%81%9A%E4%BB%80%E4%B9%88)
+# [0035. Node.js 能用来做什么](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0035.%20Node.js%20%E8%83%BD%E7%94%A8%E6%9D%A5%E5%81%9A%E4%BB%80%E4%B9%88)
 
 <!-- region:toc -->
 

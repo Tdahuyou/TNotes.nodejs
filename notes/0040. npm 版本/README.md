@@ -1,4 +1,4 @@
-# [0040. npm 版本](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0040.%20npm%20%E7%89%88%E6%9C%AC)
+# [0040. npm 版本](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0040.%20npm%20%E7%89%88%E6%9C%AC)
 
 <!-- region:toc -->
 

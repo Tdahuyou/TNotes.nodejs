@@ -1,4 +1,4 @@
-# [0029. nvm](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0029.%20nvm)
+# [0029. nvm](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0029.%20nvm)
 
 <!-- region:toc -->
 

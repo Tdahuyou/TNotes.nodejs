@@ -1,4 +1,4 @@
-# [0076. exec vs. spawn](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0076.%20exec%20vs.%20spawn)
+# [0076. exec vs. spawn](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0076.%20exec%20vs.%20spawn)
 
 <!-- region:toc -->
 

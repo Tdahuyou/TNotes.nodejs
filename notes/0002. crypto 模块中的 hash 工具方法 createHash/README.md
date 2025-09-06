@@ -1,4 +1,4 @@
-# [0002. crypto 模块中的 hash 工具方法 createHash](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash)
+# [0002. crypto 模块中的 hash 工具方法 createHash](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0002.%20crypto%20%E6%A8%A1%E5%9D%97%E4%B8%AD%E7%9A%84%20hash%20%E5%B7%A5%E5%85%B7%E6%96%B9%E6%B3%95%20createHash)
 
 <!-- region:toc -->
 

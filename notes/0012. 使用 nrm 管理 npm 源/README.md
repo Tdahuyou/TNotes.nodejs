@@ -1,4 +1,4 @@
-# [0012. 使用 nrm 管理 npm 源](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90)
+# [0012. 使用 nrm 管理 npm 源](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0012.%20%E4%BD%BF%E7%94%A8%20nrm%20%E7%AE%A1%E7%90%86%20npm%20%E6%BA%90)
 
 
 <!-- region:toc -->

@@ -1,4 +1,4 @@
-# [0065. 查看目录或文件信息](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF)
+# [0065. 查看目录或文件信息](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0065.%20%E6%9F%A5%E7%9C%8B%E7%9B%AE%E5%BD%95%E6%88%96%E6%96%87%E4%BB%B6%E4%BF%A1%E6%81%AF)
 
 <!-- region:toc -->
 

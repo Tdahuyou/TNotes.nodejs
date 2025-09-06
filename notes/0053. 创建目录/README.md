@@ -1,4 +1,4 @@
-# [0053. 创建目录](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0053.%20%E5%88%9B%E5%BB%BA%E7%9B%AE%E5%BD%95)
+# [0053. 创建目录](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0053.%20%E5%88%9B%E5%BB%BA%E7%9B%AE%E5%BD%95)
 
 <!-- region:toc -->
 

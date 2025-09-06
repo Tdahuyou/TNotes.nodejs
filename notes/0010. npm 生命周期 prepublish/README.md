@@ -1,4 +1,4 @@
-# [0010. npm 生命周期 prepublish](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish)
+# [0010. npm 生命周期 prepublish](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0010.%20npm%20%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%20prepublish)
 
 <!-- region:toc -->
 

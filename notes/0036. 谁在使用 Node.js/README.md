@@ -1,4 +1,4 @@
-# [0036. 谁在使用 Node.js](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0036.%20%E8%B0%81%E5%9C%A8%E4%BD%BF%E7%94%A8%20Node.js)
+# [0036. 谁在使用 Node.js](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0036.%20%E8%B0%81%E5%9C%A8%E4%BD%BF%E7%94%A8%20Node.js)
 
 <!-- region:toc -->
 

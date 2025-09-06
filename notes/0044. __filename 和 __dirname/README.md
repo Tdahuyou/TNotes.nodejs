@@ -1,4 +1,4 @@
-# [0044. **filename 和 **dirname](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname)
+# [0044. __filename 和 __dirname](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname)
 
 <!-- region:toc -->
 

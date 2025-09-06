@@ -1,4 +1,4 @@
-# [0005. 获取 macos 下都安装了哪些应用](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8)
+# [0005. 获取 macos 下都安装了哪些应用](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0005.%20%E8%8E%B7%E5%8F%96%20macos%20%E4%B8%8B%E9%83%BD%E5%AE%89%E8%A3%85%E4%BA%86%E5%93%AA%E4%BA%9B%E5%BA%94%E7%94%A8)
 
 
 <!-- region:toc -->
