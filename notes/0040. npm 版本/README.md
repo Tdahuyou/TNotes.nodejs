@@ -27,7 +27,7 @@
 npm -v
 ```
 
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-05-12-49-26.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-05-12-49-26.png)
 
 ## 3. 💻 npm 版本升级
 
@@ -37,7 +37,7 @@ npm -v
 npm install -g npm
 ```
 
-- ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-05-12-49-46.png)
+- ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-05-12-49-46.png)
 
 ```bash
 npm -v # 查看当前的 npm 版本
@@ -57,7 +57,7 @@ npm -v # 查看升级后的 npm 版本
 npm show npm version
 ```
 
-![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-05-12-57-48.png)
+![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-05-12-57-48.png)
 
 - **🤔 为什么上面执行 `npm install npm -g` 之后没有下载到最新的 `npm` 版本呢？**
   - **npm 的更新机制 - 安全升级**
@@ -74,7 +74,7 @@ npm show node version # 查看当前最新的 Node.js 版本
 node -v # 查看本地安装的 Node.js 版本
 ```
 
-- ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-05-13-04-39.png)
+- ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-05-13-04-39.png)
 - 如果把本地的 Node.js 版本升级到最新版，再执行 `npm install -g npm` 安装 npm，下载的就是最新版了。
 
 ```bash {1,8,12}

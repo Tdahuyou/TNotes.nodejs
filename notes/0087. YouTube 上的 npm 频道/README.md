@@ -10,7 +10,7 @@
 
 - https://www.youtube.com/channel/UCK71Wk0I45SLTSXQA23GdIw
   - 这是 npm 在 YouTube 上的官方频道链接
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-08-10-14-56-18.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-08-10-14-56-18.png)
 - 滞后：
   - 大多都是一几年的视频
 - 内容：

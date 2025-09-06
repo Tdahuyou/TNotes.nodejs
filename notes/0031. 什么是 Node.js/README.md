@@ -39,7 +39,7 @@
 - **Node.js 架构**
   - **由 3 个部分组成**
     - Node.js 的架构分为三个主要部分：**标准库**、**中间层** 和 **底层库**。
-    - ![Node.js 架构图](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-03-00-38-54.png)
+    - ![Node.js 架构图](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-03-00-38-54.png)
     - Node.js 的架构设计体现了分层思想。
     - 通过标准库、中间层和底层库的协同工作，实现了高性能、异步非阻塞的服务器端 JavaScript 运行环境。
     - V8 引擎负责 JavaScript 的解析和执行。

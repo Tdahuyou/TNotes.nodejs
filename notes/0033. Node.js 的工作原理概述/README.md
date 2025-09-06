@@ -43,8 +43,8 @@
 
 ## 5. 📒 事件循环
 
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-04-10-33-30.png)
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-24-17-37-11.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-04-10-33-30.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-24-17-37-11.png)
 - Node.js 使用事件循环机制来处理任务队列中的事件，确保高效的并发处理能力。
 - 事件循环的主要工作阶段包括：
   - **计时器**：处理由 `setTimeout()` 和 `setInterval()` 设置的回调。

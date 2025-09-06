@@ -55,5 +55,5 @@ test
 
 :::
 
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-19-21-31-00.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-19-21-31-00.png)
 - 仔细观察会发现符号链接文件的右侧会有一个 `->` 标志，这表示它是一个符号链接，链接到其它文件。

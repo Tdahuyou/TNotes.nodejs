@@ -156,7 +156,7 @@ console.log(util.inspect(complexObject, { colors: true, depth: null }))
   - `depth`：最大递归层数，用于复杂对象的格式化。
   - `colors`：布尔值，启用 ANSI 颜色编码。
 - `2.cjs` 运行结果：
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-13-21-29-48.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-13-21-29-48.png)
 
 ## 4. 💻 demos.3 - `util.inherits(constructor, superConstructor)` - 实现对象间的原型继承
 

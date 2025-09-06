@@ -1,4 +1,4 @@
-# [0044. __filename 和 __dirname](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname)
+# [0044. **filename 和 **dirname](https://github.com/Tdahuyou/TNotes.nodejs/tree/main/notes/0044.%20__filename%20%E5%92%8C%20__dirname)
 
 <!-- region:toc -->
 
@@ -53,9 +53,9 @@
     - 使用 `url.fileURLToPath()` 将 URL 转换为操作系统兼容的路径字符串。
     - 使用 `path.dirname()` 从文件路径中提取目录部分。
 - 这种方法也是 Node.js 官方文档推荐的在 ESM 中替代 `__filename` 和 `__dirname` 的标准做法。
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-08-11-17-05-41.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-08-11-17-05-41.png)
 - 利用 nodejs 官方提供的 AI 搜索：`fileURLToPath(import.meta.url)`，也能快速了解到该写法的相关介绍说明。
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-08-11-17-06-39.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-08-11-17-06-39.png)
 
 ## 5. 💻 demos.3 - `__filename` 和 `__dirname` 实际上并非全局变量
 

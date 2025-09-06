@@ -42,7 +42,7 @@
 
 - npm 官方文档 👉 [CLI Commands][1]，可以在线查阅 npm 所有命令。
   - 官方文档中的 npm 命令列表默认是升序排序的，查阅起来非常方便。
-  - ![img](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-09-04-20-22-45.png)
+  - ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-04-20-22-45.png)
 - npm 命令速查表
 
 | 命令 | 说明 |
@@ -548,7 +548,7 @@ npm config set registry https://registry.npmmirror.com/
   - npm 官方文档 - npm CLI Commands
   - 在线查阅 npm 所有命令
   - 官方文档中的 npm 命令列表默认是升序排序的，查阅起来非常方便。
-  - ![img](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-09-04-20-22-45.png)
+  - ![img](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-04-20-22-45.png)
 
 [1]: https://docs.npmjs.com/cli/v11/commands
 [2]: https://docs.npmjs.com/

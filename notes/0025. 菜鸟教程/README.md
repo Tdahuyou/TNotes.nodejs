@@ -25,11 +25,11 @@
 
 ::: swiper
 
-![菜鸟教程 - 截图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-09-04-21-00-44.png)
+![菜鸟教程 - 截图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-04-21-00-44.png)
 
-![菜鸟教程 - 截图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-09-04-21-05-49.png)
+![菜鸟教程 - 截图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-04-21-05-49.png)
 
-![nodejs github releases](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-09-04-21-01-53.png)
+![nodejs github releases](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-09-04-21-01-53.png)
 
 :::
 

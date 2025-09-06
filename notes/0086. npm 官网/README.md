@@ -16,9 +16,9 @@
 ## 2. 📒 npm 官网
 
 - https://www.npmjs.com/
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-08-10-14-15-42.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-08-10-14-15-42.png)
 - 官方文档内容大纲：
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-08-10-14-46-49.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-08-10-14-46-49.png)
   - 重点：`npm CLI`
 - 以下是对各目录内容的概述：
   - About npm 关于 npm

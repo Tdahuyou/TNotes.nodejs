@@ -288,11 +288,11 @@ main()
 
 ::: swiper
 
-![1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-15-22-11-50.png)
+![1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-15-22-11-50.png)
 
-![2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-15-22-12-06.png)
+![2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-15-22-12-06.png)
 
-![3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-15-22-12-48.png)
+![3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-15-22-12-48.png)
 
 :::
 

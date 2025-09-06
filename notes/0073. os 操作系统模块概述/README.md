@@ -34,7 +34,7 @@
     - 适用于构建系统管理工具或性能监控工具。
     - CPU 使用率、总内存、内存使用率等系统信息数据，都可以通过 os 模块来读取到，再稍加渲染优化，就基本实现了系统核心信息的预览功能。
       - 比如开源项目：[Stats](https://github.com/exelban/stats)
-      - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-19-23-57-28.png)
+      - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-19-23-57-28.png)
   - **跨平台兼容性**
     - 使用 `os.platform()` 和 `os.arch()` 可以根据不同的操作系统和架构执行特定的代码逻辑。
   - **用户信息获取**
@@ -236,6 +236,6 @@ console.log(`运行天数：${(os.uptime() / 86400).toFixed(2)} 天`)
     - 一个免费的 macOS 系统监控工具。
     - 可以监控你的 CPU、内存、磁盘、网络等信息。
     - 你可以在菜单栏中很直观地看到相关监控数据。
-      - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-20-00-01-21.png)
+      - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-20-00-01-21.png)
     - 比如 CPU 监视面板：
-      - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-19-23-56-05.png)
+      - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-19-23-56-05.png)

@@ -70,7 +70,7 @@ server.listen(PORT, () => {
 :::
 
 - 在服务启动期间访问：`http://127.0.0.1:23523`
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-24-21-07-01.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-24-21-07-01.png)
 - 上述程序的大致流程：
   - 引入 `http` 模块并创建服务器对象。
   - 服务器接收到请求时，设置响应头 `Content-Type` 为 `text/plain; charset=utf-8`
@@ -114,7 +114,7 @@ require('http')
 
 :::
 
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-25-10-41-40.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-25-10-41-40.png)
 
 ## 4. 💻 demos.3 - 响应 html 文件
 
@@ -176,7 +176,7 @@ http
 
 :::
 
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-25-11-00-09.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-25-11-00-09.png)
 
 ## 5. 💻 demos.4 - 响应媒体资源
 
@@ -246,9 +246,9 @@ http
 
 - 最终效果：
   - 访问：http://127.0.0.1:23523/image
-    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-06-54-02.png)
+    - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-26-06-54-02.png)
   - 访问：http://127.0.0.1:23523/video
-    - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-07-04-25.png)
+    - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-26-07-04-25.png)
 - 备注：
   - 其中 `1.mp4` 是 `0032. 《Node.js 从入门到精通》` 中的视频 `11.3 http 模块.mp4` 的开头部分。
 
@@ -279,7 +279,7 @@ server.listen(PORT, () => {
 
 - 访问：http://127.0.0.1:23523
   - 会自动跳转到 https://tdahuyou.github.io/notes/
-  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-07-58-33.png)
+  - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-26-07-58-33.png)
 - `writeHead` 的第一个参数是 `statusCode` 状态码，其数据类型是 `number`。
 - **常见的状态码及其含义**：
 
@@ -399,6 +399,6 @@ server.listen(PORT, () => {
   - 用户名：`111`
   - 密码：`222`
   - 记住密码：`是`
-  - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-08-42-17.png)
+  - ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-26-08-42-17.png)
   - 点击【登录】后：
-  - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-26-08-42-24.png)
+  - ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-26-08-42-24.png)

@@ -51,4 +51,4 @@
 
 - https://nodejs.org/api/process.html
   - 🔗 Node.js docs process
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-15-08-14.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-15-08-14.png)

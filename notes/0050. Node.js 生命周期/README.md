@@ -20,7 +20,7 @@
 ## 1. 📝 概述
 
 - **Node.js 生命周期简图**：
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-15-47-48.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-15-47-48.png)
   - 简单画了一张图，本节将参考这张简图来介绍 Node.js 的生命周期（也称为 Node.js 事件循环）。
 - **事件队列**：
   - timers、poll、check、nextTick、Promise，都简单想象成是一个 **事件队列**，这里边存放着一系列待处理的任务。
@@ -253,7 +253,7 @@ setImmediate(() => {
 ```
 
 - **实际运行结果**：
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-17-28-17.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-17-28-17.png)
 - **原因分析**：
   - 在主模块中，`setTimeout` 和 `setImmediate` 的回调注册顺序可能会受到系统调度的影响。
   - 如果 `setTimeout` 的计时器到期时间恰好在 `poll` 阶段之前完成，则 `setTimeout` 的回调会先执行；
@@ -407,10 +407,10 @@ console.log('12')
 ## 10. 🔗 参考资料
 
 - https://nodejs.org/zh-cn/docs/guides/event-loop-timers-and-nexttick/
-  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-07-15-29-52.png)
+  - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-07-15-29-52.png)
   - Node.js 官方文档。
 - https://yjhjstz.gitbooks.io/deep-into-node/content/chapter5/chapter5-1.html
-  - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-07-15-28-44.png)
+  - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-07-15-28-44.png)
   - 一个开源的 nodejs 教程 - gitbooks。
 - https://acemood.github.io/2016/02/01/event-loop-in-javascript/
   - 讲解 js 中 event loop 的一篇文章。

@@ -18,7 +18,7 @@
 
 - 在 npm 仓库中有超过 340 万个软件包，这使 npm 成为世界上最大的单一语言代码仓库，并且它几乎有可用于一切的软件包。
 - 你可以在 npm 中登录账号，在侧边 `By the numbers` 卡片中查看当前的包数量。
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-05-12-46-20.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-05-12-46-20.png)
   - 注：截图时间 `2025 年 4 月 5 日`
 - 以下是几个主流语言的包管理平台及其包数量（截至 2023 年）：
 

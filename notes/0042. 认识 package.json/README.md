@@ -180,11 +180,11 @@ npm init -y
     - https://caniuse.com/usage-table
     - Browser usage table
     - 你可以在此查看各大主流浏览器的各版本的使用用户占比。
-    - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-10-17-47.png)
+    - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-10-17-47.png)
     - ...
-    - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-10-18-20.png)
+    - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-10-18-20.png)
   - 你如果使用的也是 chrome，可以在地址栏中输入 `chrome://settings/help`，跳转到“关于 Chrome”页面查看 chrome 版本信息。
-    - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-10-15-50.png)
+    - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-10-15-50.png)
 - **`last 2 versions`**
   - 表示支持每个主流浏览器的最近两个版本。
   - 例如：

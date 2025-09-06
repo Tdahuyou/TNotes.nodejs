@@ -37,8 +37,8 @@
 :::
 
 - 不同的消息类型，在 cmd 中打印出来看不出差异，但在浏览器端会展示不同的颜色提示。
-- ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-13-37-13.png)
-- ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-13-35-16.png)
+- ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-13-37-13.png)
+- ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-13-35-16.png)
 
 ### 3.2. `console.assert()`
 
@@ -96,9 +96,9 @@
 - `console.table()` 方法用于在控制台中以表格形式打印对象或数组。
 - 最终效果预览：
   - Node.js 环境：
-    - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-14-00-36.png)
+    - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-14-00-36.png)
   - 浏览器环境：
-    - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-14-00-47.png)
+    - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-14-00-47.png)
 
 ### 3.6. `console.group()`、`console.groupEnd()`、`console.groupCollapsed()`
 
@@ -121,10 +121,10 @@
   - 这些方法主要用于调试和开发阶段，不应该出现在生产环境的正式代码中。发布前建议移除或注释掉相关调用。
 - **最终效果预览**：
   - Node.js 环境：
-    - ![图 4](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-14-05-29.png)
+    - ![图 4](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-14-05-29.png)
   - 浏览器环境：
-    - ![图 5](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-14-06-10.png)
-    - ![图 6](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-06-14-11-26.png)
+    - ![图 5](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-14-06-10.png)
+    - ![图 6](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-06-14-11-26.png)
 
 ### 3.7. `console.dir()`
 

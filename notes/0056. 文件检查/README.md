@@ -264,4 +264,4 @@ console.log((fs.constants.F_OK | fs.constants.W_OK).toString(2)) // 10（相当�
   - `fs.access(path[, mode], callback)`
 - https://nodejs.org/api/fs.html#file-access-constants
   - `File access constants`
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-14-22-24-24.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-14-22-24-24.png)

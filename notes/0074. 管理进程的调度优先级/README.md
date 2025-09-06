@@ -69,12 +69,12 @@
 ## 2. 💻 查看 PID
 
 - 如果你是 macOS 用户，可以直接在【活动监视器】面板中查看进程的 PID。
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-20-07-37-48.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-20-07-37-48.png)
 - 如果你是 Windows 用户，可以直接在【任务管理器】中查看进程的 PID。
-  - ![图 1](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-20-07-39-27.png)
+  - ![图 1](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-20-07-39-27.png)
 - 【示例】修改 chrome.exe 的优先级
   - 修改之前的原优先级：
-  - ![图 2](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-20-08-10-36.png)
+  - ![图 2](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-20-08-10-36.png)
 
 ```js
 const os = require('os')
@@ -84,7 +84,7 @@ os.setPriority(10904, 10) // [!code highlight]
 
 - 执行 `os.setPriority(10904, 10)` 表示将 chrome.exe（PID 为 10904）的的优先级设置为 10，最终会导致它的基本优先级变低。
 - 修改之后的新优先级：
-  - ![图 3](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-20-08-11-55.png)
+  - ![图 3](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-20-08-11-55.png)
 
 ## 3. 💻 demos.1 - 获取当前进程的调度优先级
 

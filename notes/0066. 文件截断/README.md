@@ -75,4 +75,4 @@ console.log(`截断之后：【${fileContentAfterTruncate}】`)
 - `2.cjs` 截断的长度 10 大于文件内容长度 6。
   - 新长度大于当前长度，文件会扩展并在末尾填充空字节。
   - 这些空字节在以 UTF-8 编码打开预览时会以乱码的形式呈现。
-  - ![图 0](https://cdn.jsdelivr.net/gh/Tdahuyou/imgs@main/2025-04-16-21-28-54.png)
+  - ![图 0](https://cdn.jsdelivr.net/gh/tnotesjs/imgs@main/2025-04-16-21-28-54.png)
