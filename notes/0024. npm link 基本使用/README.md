@@ -9,6 +9,7 @@
 - [5. 📒 `npm link` 的实际应用场景](#5--npm-link-的实际应用场景)
 
 <!-- endregion:toc -->
+
 - 本节介绍了 `npm link` 的基本使用。
 - 重点在于理解 `npm link` 的应用场景，主要用于解决什么问题。
 
@@ -41,11 +42,11 @@ demo
 /**
  * a/1.js
  */
-const myModule = require('my-module');
+const myModule = require('my-module')
 
-console.log('typeof myModule', typeof myModule);
+console.log('typeof myModule', typeof myModule)
 
-console.log(myModule.greet('World'));
+console.log(myModule.greet('World'))
 ```
 
 ```js
@@ -53,10 +54,10 @@ console.log(myModule.greet('World'));
  * my-module/index.js
  */
 module.exports = {
-    greet: function (name) {
-        return 'Hello, ' + name;
-    },
-};
+  greet: function (name) {
+    return 'Hello, ' + name
+  },
+}
 ```
 
 - `my-module/package.json` 内容如下：
@@ -74,7 +75,7 @@ module.exports = {
 - 在 a 中引用 my-module
   - 切换到 a 目录所在位置，执行 `npm link my-module`。
 - 最终效果：
-  - ![](assets/2024-11-11-16-35-02.png)
+  - ![](./assets/2024-11-11-16-35-02.png)
   - 如果看到 node_modules/my-module 结尾有一个小箭头，这就意味着链接已经创建了。
 - 验证符号链接是否已经创建：
   - 按下 ctrl 并点击 my-module，快速跳转到 my-module 所在位置，会发现打开的是 `demo/my-module/index.js` 而非 `demo/a/node_modules/my-module/index.js`，这就意味着软链接已经生效了。
@@ -117,16 +118,16 @@ $ npm ls --global
 
 ## 5. 📒 `npm link` 的实际应用场景
 
-1. 场景1：你是 vue、react 的开发者，你正在写一个新的功能或者修改某个 bug，当你写完之后，你需要在本地的一个项目 A 中测试新 vue、react 的功能是否正常，或者 bug 是否已经修复。
-   1. 方式1：不使用 npm link
+1. 场景 1：你是 vue、react 的开发者，你正在写一个新的功能或者修改某个 bug，当你写完之后，你需要在本地的一个项目 A 中测试新 vue、react 的功能是否正常，或者 bug 是否已经修复。
+   1. 方式 1：不使用 npm link
       1. 【发布】这时候你需要将本次修改提交到远程仓库，完成发布，比如 `npm publish`。
       2. 【安装】然后在某个测试的项目 A 里安装依赖，比如 `npm install xxx`。
       3. 【测试】然后再测试，如果发现问题，你还需要重复上述流程，直到问题解决。
-   2. 方式2：使用 npm link
+   2. 方式 2：使用 npm link
       1. 【创建软链接】切换到 vue、react 所在位置，执行 `npm link` 创建一个软链接。
       2. 【引用软链接】切换到某个测试的项目 A 中，执行 `npm link xxx` 引用软链接。
       3. 【测试】在 A 中测试的时候，修改 vue、react 的代码，然后保存，此时 vue、react 中修改的内容在 A 中就会自动更新。
-2. 场景2：你正在开发项目 A，这个项目 A 中依赖了某个开源的第三方库 B，但是 B 中的一些功能并不符合你的预期，而且你又找不到更好的库来替换 B 了，这时候你考虑修改 B 中的代码来解决问题。
+2. 场景 2：你正在开发项目 A，这个项目 A 中依赖了某个开源的第三方库 B，但是 B 中的一些功能并不符合你的预期，而且你又找不到更好的库来替换 B 了，这时候你考虑修改 B 中的代码来解决问题。
    1. 修改流程：
       1. git clone B 到本地，然后修改 B 的代码。
       2. 然后在本地创建 B 的软链接 - 切换到 B 所在的目录，执行 npm link 命令。

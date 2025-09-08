@@ -12,12 +12,14 @@
 function printPlatform() {
   // console.log(process.platform)
   if (process.platform === 'linux') console.log('当前使用的操作系统是 Linux')
-  else if (process.platform === 'darwin') console.log('当前使用的操作系统是 MacOS')
-  else if (process.platform === 'win32') console.log('当前使用的操作系统是 Windows')
+  else if (process.platform === 'darwin')
+    console.log('当前使用的操作系统是 MacOS')
+  else if (process.platform === 'win32')
+    console.log('当前使用的操作系统是 Windows')
   else console.log('当前使用的操作系统是未知')
 }
 printPlatform()
 ```
 
 - 很简单也很常用的操作。
-- ![](assets/2024-09-24-15-59-17.png)
+- ![](./assets/2024-09-24-15-59-17.png)

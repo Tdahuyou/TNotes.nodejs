@@ -1,4 +1,4 @@
-# [0016. 《Node.js来一打C++扩展》](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B)
+# [0016. 《Node.js 来一打 C++扩展》](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0016.%20%E3%80%8ANode.js%E6%9D%A5%E4%B8%80%E6%89%93C%2B%2B%E6%89%A9%E5%B1%95%E3%80%8B)
 
 <!-- region:toc -->
 
@@ -13,7 +13,7 @@
 - https://book.douban.com/subject/30247892/
   - 豆瓣 - 《Node.js 来一打 C++扩展》
 - 豆瓣评分：
-  - ![](assets/2024-10-21-02-40-33.png)
+  - ![](./assets/2024-10-21-02-40-33.png)
   - 截图时间：`24.10.21`
 - 内容简介
   - Node.js 作为近几年新兴的一种编程运行时，托 V8 引擎的福，在作为后端服务时有比较高的运行效率，在很多场景下对于我们的日常开发足够用了。不过，它还为开发者开了一个使用 C++ 开发 Node.js 原生扩展的口子，让开发者进行项目开发时有了更多的选择。

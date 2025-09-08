@@ -13,13 +13,14 @@
   - [6.3. 使用 NVM 安装 Node.js](#63-使用-nvm-安装-nodejs)
 
 <!-- endregion:toc -->
+
 - 以下是 nvm 的一些常用命令
   - `nvm ls` 查看本地安装的所有 nodejs 版本。
   - `nvm install <version>` 安装指定版本的 nodejs。
   - `nvm use <version>` 使用指定版本的 nodejs。
 - nodejs 查看当前版本
   - `node -v`
-  - 也可以通过 `nvm ls` 来查看，前面带有星号 * 的版本为当前使用的版本。
+  - 也可以通过 `nvm ls` 来查看，前面带有星号 \* 的版本为当前使用的版本。
 - 官方文档的 README.md 内容很全，详细介绍可以参考官方文档。
 
 ## 1. 🔗 nvm
@@ -35,7 +36,7 @@
 nvm ls
 ```
 
-![](assets/2024-10-16-11-38-15.png)
+![](./assets/2024-10-16-11-38-15.png)
 
 ## 4. 💻 demo - `nvm install <version>` 安装指定版本的 nodejs
 
@@ -43,7 +44,7 @@ nvm ls
 nvm install 14
 ```
 
-![](assets/2024-10-16-13-06-49.png)
+![](./assets/2024-10-16-13-06-49.png)
 
 ## 5. `nvm use <version>` 使用指定版本的 nodejs
 
@@ -53,11 +54,9 @@ nvm use 14
 node -v
 ```
 
-![](assets/2024-10-16-13-08-41.png)
-
+![](./assets/2024-10-16-13-08-41.png)
 
 ## 6. 🤖 如何下载 nvm 管理 nodejs 版本
-
 
 要使用 NVM（Node Version Manager）来管理 Node.js 的不同版本，首先你需要安装 NVM。以下是安装 NVM 并使用它来管理 Node.js 版本的步骤：
 
@@ -70,7 +69,9 @@ node -v
 ```sh
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
+
 或者
+
 ```sh
 wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 ```
@@ -88,25 +89,31 @@ Windows 用户可以使用 Chocolatey, Scoop 或者直接从 [NVM for Windows](h
 ### 6.3. 使用 NVM 安装 Node.js
 
 1. 列出所有可安装的 Node.js 版本：
+
 ```sh
 nvm ls-remote
 ```
 
 2. 安装特定版本的 Node.js：
+
 ```sh
 nvm install <version>
 ```
+
 例如，要安装最新的稳定版，你可以运行：
+
 ```sh
 nvm install --lts
 ```
 
 3. 切换到已安装的 Node.js 版本：
+
 ```sh
 nvm use <version>
 ```
 
 4. 检查当前正在使用的 Node.js 版本：
+
 ```sh
 node -v
 ```

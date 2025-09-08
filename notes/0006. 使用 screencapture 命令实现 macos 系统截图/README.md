@@ -1,12 +1,12 @@
 # [0006. 使用 screencapture 命令实现 macos 系统截图](https://github.com/tnotesjs/TNotes.nodejs/tree/main/notes/0006.%20%E4%BD%BF%E7%94%A8%20screencapture%20%E5%91%BD%E4%BB%A4%E5%AE%9E%E7%8E%B0%20macos%20%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE)
 
-
 <!-- region:toc -->
 
 - [1. 🔗 links](#1--links)
 - [2. 💻 demo1](#2--demo1)
 
 <!-- endregion:toc -->
+
 - 本文介绍如何在 macOS 上使用 screencapture 命令来实现截图功能。
 
 ## 1. 🔗 links
@@ -50,6 +50,7 @@ const command = `screencapture -x -i "${screenshotPath}"`
 ```
 
 **参数说明**
+
 - `-x` 表示关闭截图声音。
 - `-i` 表示进行交互式捕获，也就是允许你选择捕获的区域。
 - `"${screenshotPath}"` 这一部分表示截图需要保存的位置。
@@ -105,8 +106,8 @@ $ screencapture -h
 
 **最终效果**
 
-![](assets/2024-10-04-19-20-49.png)
+![](./assets/2024-10-04-19-20-49.png)
 
 其中，`2024-03-07-20-39-32.jpg` 就是该程序截取的图片。
 
-![](assets/2024-10-04-19-21-02.png)
+![](./assets/2024-10-04-19-21-02.png)
