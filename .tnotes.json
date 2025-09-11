@@ -24,7 +24,7 @@
     "details": "NodeJS 笔记",
     "link": "https://tnotesjs.github.io/TNotes.nodejs/",
     "created_at": 1740924081000,
-    "updated_at": 1757341680933,
+    "updated_at": 1757554084925,
     "days_since_birth": 9379
   },
   "menuItems": [
@@ -38,7 +38,7 @@
     },
     {
       "text": "📒 TNotes",
-      "link": "https://tnotesjs.github.io/notes"
+      "link": "https://tnotesjs.github.io/TNotes"
     },
     {
       "text": "📂 TNotes.yuque",
