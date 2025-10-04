@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-  - [TNotes.yuque.nodejs.0032](https://www.yuque.com/tdahuyou/tnotes.yuque/nodejs.0032)
 - [1. 🫧 评价](#1--评价)
 - [2. 📒 《Node.js 从入门到精通》](#2--nodejs-从入门到精通)
 - [3. 📂 本书对应学习资源](#3--本书对应学习资源)

@@ -2,8 +2,6 @@
 
 <!-- region:toc -->
 
-- [📂 TNotes.yuque](https://www.yuque.com/tdahuyou/tnotes.yuque/)
-  - [TNotes.yuque.nodejs.0016](https://www.yuque.com/tdahuyou/tnotes.yuque/nodejs.0016)
 - [1. 📝 概述](#1--概述)
 
 <!-- endregion:toc -->
